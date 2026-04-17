@@ -1,0 +1,354 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-07T11:51:48.084368",
+    "generator_script": "ep_study/delayed_clean_pipeline.py",
+    "parameter_registry": "ep_study/PARAMETER_REGISTRY.md",
+    "rule_definition": {
+      "consolidation": "D+1 to D+10: high < gap_high AND low > GDL",
+      "breakout_filter": "breakout day open < gap_high (no gap-up opens)",
+      "entry": "15m close > gap_high, entry price = 15m close price",
+      "stop": "GDL (gap day low)",
+      "exit": "D5 sell 1/3 + BE stop, PT15, EMA20 trail, max 20d",
+      "timeout": "10 trading days, then cancel"
+    },
+    "setups_file": "/Users/clawbot/.openclaw/workspace/data/ep_10yr_raw_setups.json",
+    "eps_file": "/Users/clawbot/.openclaw/workspace/data/eps_10yr.json",
+    "total_setups": 948,
+    "total_trades": 288,
+    "counters": {
+      "no_daily": 0,
+      "broke_gdl": 454,
+      "no_consolidation": 0,
+      "gap_open_above": 81,
+      "no_15m": 0,
+      "no_15m_confirm": 69,
+      "no_breakout_10d": 27
+    }
+  },
+  "rules": {
+    "delayed_all": {
+      "n": 288,
+      "wr": 53.8,
+      "avg": 1.6,
+      "pf": 1.93,
+      "avg_w": 6.15,
+      "avg_l": -3.71,
+      "max_dd": 41.67,
+      "max_consec_loss": 8,
+      "cvar_10pct": -9.78,
+      "annual_trades": 28.8,
+      "yearly": {
+        "2016": {
+          "n": 7,
+          "pf": 1.35
+        },
+        "2017": {
+          "n": 14,
+          "pf": 1.5
+        },
+        "2018": {
+          "n": 17,
+          "pf": 1.02
+        },
+        "2019": {
+          "n": 21,
+          "pf": 2.0
+        },
+        "2020": {
+          "n": 32,
+          "pf": 2.03
+        },
+        "2021": {
+          "n": 23,
+          "pf": 2.37
+        },
+        "2022": {
+          "n": 46,
+          "pf": 0.92
+        },
+        "2023": {
+          "n": 25,
+          "pf": 2.34
+        },
+        "2024": {
+          "n": 50,
+          "pf": 3.26
+        },
+        "2025": {
+          "n": 53,
+          "pf": 2.2
+        }
+      }
+    },
+    "delayed_aplus": {
+      "n": 124,
+      "wr": 57.3,
+      "avg": 2.12,
+      "pf": 3.13,
+      "avg_w": 5.45,
+      "avg_l": -2.34,
+      "max_dd": 19.52,
+      "max_consec_loss": 5,
+      "cvar_10pct": -7.06,
+      "annual_trades": 12.4,
+      "yearly": {
+        "2016": {
+          "n": 4,
+          "pf": 61.64
+        },
+        "2017": {
+          "n": 8,
+          "pf": 1.09
+        },
+        "2018": {
+          "n": 9,
+          "pf": 0.67
+        },
+        "2019": {
+          "n": 8,
+          "pf": 4.72
+        },
+        "2020": {
+          "n": 5,
+          "pf": 53.49
+        },
+        "2021": {
+          "n": 12,
+          "pf": 2.03
+        },
+        "2022": {
+          "n": 11,
+          "pf": 0.67
+        },
+        "2023": {
+          "n": 12,
+          "pf": 4.44
+        },
+        "2024": {
+          "n": 23,
+          "pf": 5.43
+        },
+        "2025": {
+          "n": 32,
+          "pf": 3.15
+        }
+      }
+    },
+    "delayed_aplus_slip0bp": {
+      "n": 124,
+      "wr": 57.3,
+      "avg": 2.12,
+      "pf": 3.13,
+      "avg_w": 5.45,
+      "avg_l": -2.34,
+      "max_dd": 19.52,
+      "max_consec_loss": 5,
+      "cvar_10pct": -7.06,
+      "annual_trades": 12.4,
+      "yearly": {
+        "2016": {
+          "n": 4,
+          "pf": 61.64
+        },
+        "2017": {
+          "n": 8,
+          "pf": 1.09
+        },
+        "2018": {
+          "n": 9,
+          "pf": 0.67
+        },
+        "2019": {
+          "n": 8,
+          "pf": 4.72
+        },
+        "2020": {
+          "n": 5,
+          "pf": 53.49
+        },
+        "2021": {
+          "n": 12,
+          "pf": 2.03
+        },
+        "2022": {
+          "n": 11,
+          "pf": 0.67
+        },
+        "2023": {
+          "n": 12,
+          "pf": 4.44
+        },
+        "2024": {
+          "n": 23,
+          "pf": 5.43
+        },
+        "2025": {
+          "n": 32,
+          "pf": 3.15
+        }
+      }
+    },
+    "delayed_aplus_slip40bp": {
+      "n": 124,
+      "wr": 54.8,
+      "avg": 1.72,
+      "pf": 2.47,
+      "avg_w": 5.28,
+      "avg_l": -2.6,
+      "max_dd": 21.52,
+      "max_consec_loss": 7,
+      "cvar_10pct": -7.46,
+      "annual_trades": 12.4,
+      "yearly": {
+        "2016": {
+          "n": 4,
+          "pf": 23.82
+        },
+        "2017": {
+          "n": 8,
+          "pf": 0.82
+        },
+        "2018": {
+          "n": 9,
+          "pf": 0.39
+        },
+        "2019": {
+          "n": 8,
+          "pf": 3.48
+        },
+        "2020": {
+          "n": 5,
+          "pf": 15.34
+        },
+        "2021": {
+          "n": 12,
+          "pf": 1.54
+        },
+        "2022": {
+          "n": 11,
+          "pf": 0.52
+        },
+        "2023": {
+          "n": 12,
+          "pf": 3.76
+        },
+        "2024": {
+          "n": 23,
+          "pf": 4.28
+        },
+        "2025": {
+          "n": 32,
+          "pf": 2.58
+        }
+      }
+    },
+    "delayed_aplus_slip80bp": {
+      "n": 124,
+      "wr": 46.0,
+      "avg": 1.32,
+      "pf": 1.96,
+      "avg_w": 5.87,
+      "avg_l": -2.54,
+      "max_dd": 23.52,
+      "max_consec_loss": 7,
+      "cvar_10pct": -7.86,
+      "annual_trades": 12.4,
+      "yearly": {
+        "2016": {
+          "n": 4,
+          "pf": 11.89
+        },
+        "2017": {
+          "n": 8,
+          "pf": 0.61
+        },
+        "2018": {
+          "n": 9,
+          "pf": 0.22
+        },
+        "2019": {
+          "n": 8,
+          "pf": 2.64
+        },
+        "2020": {
+          "n": 5,
+          "pf": 8.44
+        },
+        "2021": {
+          "n": 12,
+          "pf": 1.18
+        },
+        "2022": {
+          "n": 11,
+          "pf": 0.4
+        },
+        "2023": {
+          "n": 12,
+          "pf": 3.2
+        },
+        "2024": {
+          "n": 23,
+          "pf": 3.35
+        },
+        "2025": {
+          "n": 32,
+          "pf": 2.1
+        }
+      }
+    },
+    "delayed_aplus_slip120bp": {
+      "n": 124,
+      "wr": 41.1,
+      "avg": 0.92,
+      "pf": 1.58,
+      "avg_w": 6.15,
+      "avg_l": -2.73,
+      "max_dd": 29.11,
+      "max_consec_loss": 8,
+      "cvar_10pct": -8.26,
+      "annual_trades": 12.4,
+      "yearly": {
+        "2016": {
+          "n": 4,
+          "pf": 6.95
+        },
+        "2017": {
+          "n": 8,
+          "pf": 0.46
+        },
+        "2018": {
+          "n": 9,
+          "pf": 0.12
+        },
+        "2019": {
+          "n": 8,
+          "pf": 2.06
+        },
+        "2020": {
+          "n": 5,
+          "pf": 5.55
+        },
+        "2021": {
+          "n": 12,
+          "pf": 0.92
+        },
+        "2022": {
+          "n": 11,
+          "pf": 0.3
+        },
+        "2023": {
+          "n": 12,
+          "pf": 2.71
+        },
+        "2024": {
+          "n": 23,
+          "pf": 2.65
+        },
+        "2025": {
+          "n": 32,
+          "pf": 1.71
+        }
+      }
+    }
+  }
+}

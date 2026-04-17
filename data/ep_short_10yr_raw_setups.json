@@ -1,0 +1,8962 @@
+[
+  {
+    "ticker": "AAPL",
+    "gap_date": "2016-04-27",
+    "gap_pct": -8.0,
+    "open": 24,
+    "prev_close": 26.09,
+    "addv20": 3652282184.0
+  },
+  {
+    "ticker": "GT",
+    "gap_date": "2016-04-27",
+    "gap_pct": -9.5,
+    "open": 29.67,
+    "prev_close": 32.78,
+    "addv20": 81113381.0
+  },
+  {
+    "ticker": "FE",
+    "gap_date": "2016-04-28",
+    "gap_pct": -9.4,
+    "open": 32.67,
+    "prev_close": 36.05,
+    "addv20": 167186314.0
+  },
+  {
+    "ticker": "GRPN",
+    "gap_date": "2016-04-29",
+    "gap_pct": -8.4,
+    "open": 81.2,
+    "prev_close": 88.6,
+    "addv20": 42190627.0
+  },
+  {
+    "ticker": "NCLH",
+    "gap_date": "2016-05-10",
+    "gap_pct": -8.1,
+    "open": 45.27,
+    "prev_close": 49.25,
+    "addv20": 86714780.0
+  },
+  {
+    "ticker": "LC",
+    "gap_date": "2016-05-17",
+    "gap_pct": -11.7,
+    "open": 17.4,
+    "prev_close": 19.7,
+    "addv20": 120339497.0
+  },
+  {
+    "ticker": "PANW",
+    "gap_date": "2016-05-27",
+    "gap_pct": -9.7,
+    "open": 22.29,
+    "prev_close": 24.7,
+    "addv20": 232851452.0
+  },
+  {
+    "ticker": "PAY",
+    "gap_date": "2016-06-08",
+    "gap_pct": -29.5,
+    "open": 19.9,
+    "prev_close": 28.23,
+    "addv20": 46564069.0
+  },
+  {
+    "ticker": "RH",
+    "gap_date": "2016-06-09",
+    "gap_pct": -18.8,
+    "open": 29.3,
+    "prev_close": 36.07,
+    "addv20": 62396788.0
+  },
+  {
+    "ticker": "URBN",
+    "gap_date": "2016-06-10",
+    "gap_pct": -8.2,
+    "open": 25.63,
+    "prev_close": 27.93,
+    "addv20": 75126272.0
+  },
+  {
+    "ticker": "NFLX",
+    "gap_date": "2016-07-19",
+    "gap_pct": -13.5,
+    "open": 8.54,
+    "prev_close": 9.88,
+    "addv20": 1222684357.0
+  },
+  {
+    "ticker": "ALV",
+    "gap_date": "2016-07-22",
+    "gap_pct": -8.4,
+    "open": 104.41,
+    "prev_close": 113.93,
+    "addv20": 66558122.0
+  },
+  {
+    "ticker": "F",
+    "gap_date": "2016-07-28",
+    "gap_pct": -7.7,
+    "open": 12.78,
+    "prev_close": 13.84,
+    "addv20": 418567952.0
+  },
+  {
+    "ticker": "LEA",
+    "gap_date": "2016-07-28",
+    "gap_pct": -11.2,
+    "open": 103.37,
+    "prev_close": 116.44,
+    "addv20": 102086238.0
+  },
+  {
+    "ticker": "SABR",
+    "gap_date": "2016-08-02",
+    "gap_pct": -9.5,
+    "open": 26.5,
+    "prev_close": 29.29,
+    "addv20": 69425423.0
+  },
+  {
+    "ticker": "OLED",
+    "gap_date": "2016-08-05",
+    "gap_pct": -10.1,
+    "open": 63.15,
+    "prev_close": 70.25,
+    "addv20": 40000561.0
+  },
+  {
+    "ticker": "NCLH",
+    "gap_date": "2016-08-09",
+    "gap_pct": -7.9,
+    "open": 39.55,
+    "prev_close": 42.96,
+    "addv20": 90371295.0
+  },
+  {
+    "ticker": "W",
+    "gap_date": "2016-08-09",
+    "gap_pct": -12.8,
+    "open": 42.08,
+    "prev_close": 48.25,
+    "addv20": 45769647.0
+  },
+  {
+    "ticker": "DG",
+    "gap_date": "2016-08-25",
+    "gap_pct": -11.1,
+    "open": 81.59,
+    "prev_close": 91.79,
+    "addv20": 211542331.0
+  },
+  {
+    "ticker": "PAY",
+    "gap_date": "2016-09-02",
+    "gap_pct": -16.2,
+    "open": 16.84,
+    "prev_close": 20.1,
+    "addv20": 44668456.0
+  },
+  {
+    "ticker": "LULU",
+    "gap_date": "2016-09-02",
+    "gap_pct": -7.9,
+    "open": 70.58,
+    "prev_close": 76.66,
+    "addv20": 128191396.0
+  },
+  {
+    "ticker": "EBAY",
+    "gap_date": "2016-10-20",
+    "gap_pct": -9.3,
+    "open": 29.5,
+    "prev_close": 32.52,
+    "addv20": 319992748.0
+  },
+  {
+    "ticker": "WHR",
+    "gap_date": "2016-10-25",
+    "gap_pct": -8.2,
+    "open": 156.49,
+    "prev_close": 170.46,
+    "addv20": 127461736.0
+  },
+  {
+    "ticker": "CLF",
+    "gap_date": "2016-10-27",
+    "gap_pct": -11.1,
+    "open": 5.51,
+    "prev_close": 6.2,
+    "addv20": 46826000.0
+  },
+  {
+    "ticker": "MCK",
+    "gap_date": "2016-10-28",
+    "gap_pct": -19.1,
+    "open": 129.8,
+    "prev_close": 160.5,
+    "addv20": 234126949.0
+  },
+  {
+    "ticker": "FLS",
+    "gap_date": "2016-10-28",
+    "gap_pct": -9.5,
+    "open": 39.37,
+    "prev_close": 43.51,
+    "addv20": 58581632.0
+  },
+  {
+    "ticker": "GT",
+    "gap_date": "2016-10-28",
+    "gap_pct": -11.4,
+    "open": 27.54,
+    "prev_close": 31.08,
+    "addv20": 85221446.0
+  },
+  {
+    "ticker": "SABR",
+    "gap_date": "2016-11-02",
+    "gap_pct": -12.8,
+    "open": 23,
+    "prev_close": 26.38,
+    "addv20": 64975397.0
+  },
+  {
+    "ticker": "FLR",
+    "gap_date": "2016-11-04",
+    "gap_pct": -14.7,
+    "open": 44.18,
+    "prev_close": 51.79,
+    "addv20": 66646767.0
+  },
+  {
+    "ticker": "GPRO",
+    "gap_date": "2016-11-04",
+    "gap_pct": -16.2,
+    "open": 10,
+    "prev_close": 11.94,
+    "addv20": 87576893.0
+  },
+  {
+    "ticker": "HTZ",
+    "gap_date": "2016-11-08",
+    "gap_pct": -41.2,
+    "open": 21,
+    "prev_close": 35.74,
+    "addv20": 50625498.0
+  },
+  {
+    "ticker": "CVS",
+    "gap_date": "2016-11-08",
+    "gap_pct": -16.4,
+    "open": 69.7,
+    "prev_close": 83.39,
+    "addv20": 590433822.0
+  },
+  {
+    "ticker": "W",
+    "gap_date": "2016-11-08",
+    "gap_pct": -12.9,
+    "open": 29.3,
+    "prev_close": 33.65,
+    "addv20": 43574745.0
+  },
+  {
+    "ticker": "TRIP",
+    "gap_date": "2016-11-09",
+    "gap_pct": -16.0,
+    "open": 53,
+    "prev_close": 63.1,
+    "addv20": 116339224.0
+  },
+  {
+    "ticker": "COTY",
+    "gap_date": "2016-11-09",
+    "gap_pct": -11.5,
+    "open": 19.38,
+    "prev_close": 21.89,
+    "addv20": 216347957.0
+  },
+  {
+    "ticker": "PANW",
+    "gap_date": "2016-11-22",
+    "gap_pct": -10.9,
+    "open": 23.93,
+    "prev_close": 26.84,
+    "addv20": 215643277.0
+  },
+  {
+    "ticker": "WDAY",
+    "gap_date": "2016-12-02",
+    "gap_pct": -15.5,
+    "open": 68.92,
+    "prev_close": 81.6,
+    "addv20": 117512544.0
+  },
+  {
+    "ticker": "RH",
+    "gap_date": "2016-12-09",
+    "gap_pct": -19.2,
+    "open": 31.5,
+    "prev_close": 38.99,
+    "addv20": 71494370.0
+  },
+  {
+    "ticker": "AYI",
+    "gap_date": "2017-01-09",
+    "gap_pct": -12.2,
+    "open": 208.34,
+    "prev_close": 237.36,
+    "addv20": 120803395.0
+  },
+  {
+    "ticker": "CRUS",
+    "gap_date": "2017-02-02",
+    "gap_pct": -11.4,
+    "open": 56.64,
+    "prev_close": 63.96,
+    "addv20": 69012765.0
+  },
+  {
+    "ticker": "COTY",
+    "gap_date": "2017-02-09",
+    "gap_pct": -7.7,
+    "open": 18.5,
+    "prev_close": 20.04,
+    "addv20": 114979129.0
+  },
+  {
+    "ticker": "JACK",
+    "gap_date": "2017-02-23",
+    "gap_pct": -10.0,
+    "open": 93.27,
+    "prev_close": 103.6,
+    "addv20": 54485212.0
+  },
+  {
+    "ticker": "PANW",
+    "gap_date": "2017-03-01",
+    "gap_pct": -21.0,
+    "open": 19.99,
+    "prev_close": 25.32,
+    "addv20": 233886500.0
+  },
+  {
+    "ticker": "AYI",
+    "gap_date": "2017-04-04",
+    "gap_pct": -14.4,
+    "open": 174.68,
+    "prev_close": 204.06,
+    "addv20": 138125781.0
+  },
+  {
+    "ticker": "TCBI",
+    "gap_date": "2017-04-20",
+    "gap_pct": -10.2,
+    "open": 70.75,
+    "prev_close": 78.75,
+    "addv20": 84139585.0
+  },
+  {
+    "ticker": "BG",
+    "gap_date": "2017-05-03",
+    "gap_pct": -9.5,
+    "open": 68.41,
+    "prev_close": 75.55,
+    "addv20": 94511268.0
+  },
+  {
+    "ticker": "MD",
+    "gap_date": "2017-05-04",
+    "gap_pct": -9.7,
+    "open": 54.58,
+    "prev_close": 60.43,
+    "addv20": 72006243.0
+  },
+  {
+    "ticker": "HTZ",
+    "gap_date": "2017-05-09",
+    "gap_pct": -15.1,
+    "open": 12.66,
+    "prev_close": 14.91,
+    "addv20": 51859943.0
+  },
+  {
+    "ticker": "YELP",
+    "gap_date": "2017-05-10",
+    "gap_pct": -19.6,
+    "open": 27.91,
+    "prev_close": 34.7,
+    "addv20": 85367895.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2017-05-11",
+    "gap_pct": -21.8,
+    "open": 17.96,
+    "prev_close": 22.98,
+    "addv20": 286167681.0
+  },
+  {
+    "ticker": "RH",
+    "gap_date": "2017-06-02",
+    "gap_pct": -22.8,
+    "open": 44.2,
+    "prev_close": 57.25,
+    "addv20": 85542123.0
+  },
+  {
+    "ticker": "URBN",
+    "gap_date": "2017-06-08",
+    "gap_pct": -9.2,
+    "open": 16.55,
+    "prev_close": 18.23,
+    "addv20": 78143012.0
+  },
+  {
+    "ticker": "MSM",
+    "gap_date": "2017-07-12",
+    "gap_pct": -8.2,
+    "open": 79.89,
+    "prev_close": 87.04,
+    "addv20": 40437080.0
+  },
+  {
+    "ticker": "GT",
+    "gap_date": "2017-07-28",
+    "gap_pct": -10.8,
+    "open": 31.75,
+    "prev_close": 35.58,
+    "addv20": 71381298.0
+  },
+  {
+    "ticker": "SPWR",
+    "gap_date": "2017-08-02",
+    "gap_pct": -7.8,
+    "open": 10.5,
+    "prev_close": 11.39,
+    "addv20": 40951730.0
+  },
+  {
+    "ticker": "HOLX",
+    "gap_date": "2017-08-03",
+    "gap_pct": -7.9,
+    "open": 40.2,
+    "prev_close": 43.67,
+    "addv20": 96658644.0
+  },
+  {
+    "ticker": "MELI",
+    "gap_date": "2017-08-04",
+    "gap_pct": -10.3,
+    "open": 262.3,
+    "prev_close": 292.38,
+    "addv20": 193341281.0
+  },
+  {
+    "ticker": "MET",
+    "gap_date": "2017-08-07",
+    "gap_pct": -10.7,
+    "open": 48.17,
+    "prev_close": 53.92,
+    "addv20": 247231347.0
+  },
+  {
+    "ticker": "PAA",
+    "gap_date": "2017-08-08",
+    "gap_pct": -13.5,
+    "open": 21.79,
+    "prev_close": 25.2,
+    "addv20": 53564226.0
+  },
+  {
+    "ticker": "TRIP",
+    "gap_date": "2017-08-09",
+    "gap_pct": -7.6,
+    "open": 36.55,
+    "prev_close": 39.55,
+    "addv20": 102905373.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2017-08-11",
+    "gap_pct": -12.9,
+    "open": 12,
+    "prev_close": 13.77,
+    "addv20": 375265086.0
+  },
+  {
+    "ticker": "AAP",
+    "gap_date": "2017-08-15",
+    "gap_pct": -15.9,
+    "open": 91.99,
+    "prev_close": 109.32,
+    "addv20": 169038579.0
+  },
+  {
+    "ticker": "WHR",
+    "gap_date": "2017-10-24",
+    "gap_pct": -9.6,
+    "open": 164.95,
+    "prev_close": 182.5,
+    "addv20": 145975121.0
+  },
+  {
+    "ticker": "CMG",
+    "gap_date": "2017-10-25",
+    "gap_pct": -12.7,
+    "open": 5.66,
+    "prev_close": 6.49,
+    "addv20": 383516838.0
+  },
+  {
+    "ticker": "ACHC",
+    "gap_date": "2017-10-25",
+    "gap_pct": -26.9,
+    "open": 32.26,
+    "prev_close": 44.12,
+    "addv20": 41746445.0
+  },
+  {
+    "ticker": "MAT",
+    "gap_date": "2017-10-27",
+    "gap_pct": -16.1,
+    "open": 12.9,
+    "prev_close": 15.37,
+    "addv20": 156164144.0
+  },
+  {
+    "ticker": "EXPE",
+    "gap_date": "2017-10-27",
+    "gap_pct": -16.5,
+    "open": 123.1,
+    "prev_close": 147.35,
+    "addv20": 277973783.0
+  },
+  {
+    "ticker": "CNX",
+    "gap_date": "2017-10-31",
+    "gap_pct": -8.8,
+    "open": 15.09,
+    "prev_close": 16.54,
+    "addv20": 44593080.0
+  },
+  {
+    "ticker": "W",
+    "gap_date": "2017-11-02",
+    "gap_pct": -20.4,
+    "open": 59.24,
+    "prev_close": 74.41,
+    "addv20": 137768929.0
+  },
+  {
+    "ticker": "HSIC",
+    "gap_date": "2017-11-06",
+    "gap_pct": -9.8,
+    "open": 54.9,
+    "prev_close": 60.89,
+    "addv20": 127300031.0
+  },
+  {
+    "ticker": "TRIP",
+    "gap_date": "2017-11-07",
+    "gap_pct": -12.2,
+    "open": 34.71,
+    "prev_close": 39.53,
+    "addv20": 113153246.0
+  },
+  {
+    "ticker": "CAR",
+    "gap_date": "2017-11-07",
+    "gap_pct": -8.3,
+    "open": 38,
+    "prev_close": 41.42,
+    "addv20": 70860480.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2017-11-08",
+    "gap_pct": -10.9,
+    "open": 13.47,
+    "prev_close": 15.12,
+    "addv20": 351910027.0
+  },
+  {
+    "ticker": "DVA",
+    "gap_date": "2017-11-08",
+    "gap_pct": -9.1,
+    "open": 53.59,
+    "prev_close": 58.96,
+    "addv20": 146665465.0
+  },
+  {
+    "ticker": "LC",
+    "gap_date": "2017-11-08",
+    "gap_pct": -23.1,
+    "open": 21,
+    "prev_close": 27.3,
+    "addv20": 42636105.0
+  },
+  {
+    "ticker": "AYI",
+    "gap_date": "2018-01-09",
+    "gap_pct": -11.7,
+    "open": 164,
+    "prev_close": 185.73,
+    "addv20": 107253300.0
+  },
+  {
+    "ticker": "CRUS",
+    "gap_date": "2018-02-06",
+    "gap_pct": -11.7,
+    "open": 39.62,
+    "prev_close": 44.89,
+    "addv20": 56475004.0
+  },
+  {
+    "ticker": "COHR",
+    "gap_date": "2018-02-08",
+    "gap_pct": -9.1,
+    "open": 226.5,
+    "prev_close": 249.14,
+    "addv20": 168462534.0
+  },
+  {
+    "ticker": "EPC",
+    "gap_date": "2018-02-08",
+    "gap_pct": -8.9,
+    "open": 47.81,
+    "prev_close": 52.46,
+    "addv20": 42155281.0
+  },
+  {
+    "ticker": "HOLX",
+    "gap_date": "2018-02-09",
+    "gap_pct": -8.2,
+    "open": 35.62,
+    "prev_close": 38.8,
+    "addv20": 117437104.0
+  },
+  {
+    "ticker": "GIS",
+    "gap_date": "2018-03-21",
+    "gap_pct": -9.8,
+    "open": 45.03,
+    "prev_close": 49.93,
+    "addv20": 316271301.0
+  },
+  {
+    "ticker": "AYI",
+    "gap_date": "2018-04-04",
+    "gap_pct": -8.1,
+    "open": 123.86,
+    "prev_close": 134.78,
+    "addv20": 91038037.0
+  },
+  {
+    "ticker": "OC",
+    "gap_date": "2018-04-25",
+    "gap_pct": -7.9,
+    "open": 69.74,
+    "prev_close": 75.74,
+    "addv20": 95316092.0
+  },
+  {
+    "ticker": "ALLE",
+    "gap_date": "2018-04-26",
+    "gap_pct": -9.1,
+    "open": 75.5,
+    "prev_close": 83.03,
+    "addv20": 57077650.0
+  },
+  {
+    "ticker": "CHTR",
+    "gap_date": "2018-04-27",
+    "gap_pct": -7.7,
+    "open": 275.14,
+    "prev_close": 298.15,
+    "addv20": 418180521.0
+  },
+  {
+    "ticker": "CGNX",
+    "gap_date": "2018-05-01",
+    "gap_pct": -13.5,
+    "open": 40,
+    "prev_close": 46.25,
+    "addv20": 107377496.0
+  },
+  {
+    "ticker": "STX",
+    "gap_date": "2018-05-01",
+    "gap_pct": -10.3,
+    "open": 51.91,
+    "prev_close": 57.89,
+    "addv20": 204973803.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2018-05-02",
+    "gap_pct": -20.0,
+    "open": 11.3,
+    "prev_close": 14.13,
+    "addv20": 297894457.0
+  },
+  {
+    "ticker": "UNM",
+    "gap_date": "2018-05-02",
+    "gap_pct": -15.7,
+    "open": 40.39,
+    "prev_close": 47.9,
+    "addv20": 65171137.0
+  },
+  {
+    "ticker": "HOLX",
+    "gap_date": "2018-05-03",
+    "gap_pct": -8.9,
+    "open": 36.1,
+    "prev_close": 39.64,
+    "addv20": 80749951.0
+  },
+  {
+    "ticker": "ANET",
+    "gap_date": "2018-05-04",
+    "gap_pct": -8.9,
+    "open": 15.24,
+    "prev_close": 16.74,
+    "addv20": 242948954.0
+  },
+  {
+    "ticker": "CENX",
+    "gap_date": "2018-05-04",
+    "gap_pct": -10.1,
+    "open": 14.74,
+    "prev_close": 16.4,
+    "addv20": 43231327.0
+  },
+  {
+    "ticker": "FLR",
+    "gap_date": "2018-05-04",
+    "gap_pct": -20.1,
+    "open": 47.14,
+    "prev_close": 58.99,
+    "addv20": 72052757.0
+  },
+  {
+    "ticker": "XRAY",
+    "gap_date": "2018-05-07",
+    "gap_pct": -7.8,
+    "open": 46.08,
+    "prev_close": 49.99,
+    "addv20": 97307784.0
+  },
+  {
+    "ticker": "HTZ",
+    "gap_date": "2018-05-08",
+    "gap_pct": -9.7,
+    "open": 20,
+    "prev_close": 22.16,
+    "addv20": 48676474.0
+  },
+  {
+    "ticker": "Z",
+    "gap_date": "2018-05-08",
+    "gap_pct": -7.9,
+    "open": 51.5,
+    "prev_close": 55.91,
+    "addv20": 135233217.0
+  },
+  {
+    "ticker": "PAGP",
+    "gap_date": "2018-05-09",
+    "gap_pct": -7.6,
+    "open": 23.34,
+    "prev_close": 25.25,
+    "addv20": 42966335.0
+  },
+  {
+    "ticker": "AAOI",
+    "gap_date": "2018-05-09",
+    "gap_pct": -9.9,
+    "open": 31.64,
+    "prev_close": 35.13,
+    "addv20": 52030406.0
+  },
+  {
+    "ticker": "DLTR",
+    "gap_date": "2018-05-31",
+    "gap_pct": -8.4,
+    "open": 88.27,
+    "prev_close": 96.35,
+    "addv20": 221941581.0
+  },
+  {
+    "ticker": "WHR",
+    "gap_date": "2018-07-24",
+    "gap_pct": -10.2,
+    "open": 135.37,
+    "prev_close": 150.71,
+    "addv20": 123751216.0
+  },
+  {
+    "ticker": "GPK",
+    "gap_date": "2018-07-24",
+    "gap_pct": -7.5,
+    "open": 13.75,
+    "prev_close": 14.87,
+    "addv20": 44599406.0
+  },
+  {
+    "ticker": "OC",
+    "gap_date": "2018-07-25",
+    "gap_pct": -8.2,
+    "open": 59.99,
+    "prev_close": 65.38,
+    "addv20": 107095716.0
+  },
+  {
+    "ticker": "MAT",
+    "gap_date": "2018-07-26",
+    "gap_pct": -9.1,
+    "open": 14.8,
+    "prev_close": 16.29,
+    "addv20": 49026415.0
+  },
+  {
+    "ticker": "SAM",
+    "gap_date": "2018-07-27",
+    "gap_pct": -15.3,
+    "open": 264.1,
+    "prev_close": 311.7,
+    "addv20": 42229822.0
+  },
+  {
+    "ticker": "TEX",
+    "gap_date": "2018-08-01",
+    "gap_pct": -9.4,
+    "open": 39.99,
+    "prev_close": 44.12,
+    "addv20": 60644435.0
+  },
+  {
+    "ticker": "TRIP",
+    "gap_date": "2018-08-02",
+    "gap_pct": -11.7,
+    "open": 50.9,
+    "prev_close": 57.65,
+    "addv20": 106014580.0
+  },
+  {
+    "ticker": "PSA",
+    "gap_date": "2018-08-02",
+    "gap_pct": -7.6,
+    "open": 201.05,
+    "prev_close": 217.48,
+    "addv20": 229109989.0
+  },
+  {
+    "ticker": "CTSH",
+    "gap_date": "2018-08-02",
+    "gap_pct": -8.1,
+    "open": 75.45,
+    "prev_close": 82.09,
+    "addv20": 224781071.0
+  },
+  {
+    "ticker": "EXAS",
+    "gap_date": "2018-08-02",
+    "gap_pct": -18.4,
+    "open": 48.26,
+    "prev_close": 59.12,
+    "addv20": 95986335.0
+  },
+  {
+    "ticker": "SEDG",
+    "gap_date": "2018-08-03",
+    "gap_pct": -10.3,
+    "open": 50.5,
+    "prev_close": 56.3,
+    "addv20": 42480185.0
+  },
+  {
+    "ticker": "XRAY",
+    "gap_date": "2018-08-07",
+    "gap_pct": -17.9,
+    "open": 39.76,
+    "prev_close": 48.44,
+    "addv20": 95499865.0
+  },
+  {
+    "ticker": "Z",
+    "gap_date": "2018-08-07",
+    "gap_pct": -15.8,
+    "open": 48.94,
+    "prev_close": 58.15,
+    "addv20": 77993185.0
+  },
+  {
+    "ticker": "MCHP",
+    "gap_date": "2018-08-10",
+    "gap_pct": -9.9,
+    "open": 44.2,
+    "prev_close": 49.04,
+    "addv20": 178042164.0
+  },
+  {
+    "ticker": "DBX",
+    "gap_date": "2018-08-10",
+    "gap_pct": -7.8,
+    "open": 31.76,
+    "prev_close": 34.43,
+    "addv20": 131180048.0
+  },
+  {
+    "ticker": "CCL",
+    "gap_date": "2018-09-27",
+    "gap_pct": -7.6,
+    "open": 61.89,
+    "prev_close": 66.98,
+    "addv20": 230471490.0
+  },
+  {
+    "ticker": "TCBI",
+    "gap_date": "2018-10-18",
+    "gap_pct": -11.8,
+    "open": 68.01,
+    "prev_close": 77.15,
+    "addv20": 43536150.0
+  },
+  {
+    "ticker": "TRU",
+    "gap_date": "2018-10-23",
+    "gap_pct": -9.6,
+    "open": 62.01,
+    "prev_close": 68.61,
+    "addv20": 85851417.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2018-10-26",
+    "gap_pct": -12.3,
+    "open": 6.13,
+    "prev_close": 6.99,
+    "addv20": 201118108.0
+  },
+  {
+    "ticker": "NOV",
+    "gap_date": "2018-10-26",
+    "gap_pct": -10.9,
+    "open": 32.99,
+    "prev_close": 37.01,
+    "addv20": 156586223.0
+  },
+  {
+    "ticker": "W",
+    "gap_date": "2018-11-01",
+    "gap_pct": -12.7,
+    "open": 96.31,
+    "prev_close": 110.29,
+    "addv20": 179642283.0
+  },
+  {
+    "ticker": "OLED",
+    "gap_date": "2018-11-02",
+    "gap_pct": -26.7,
+    "open": 95,
+    "prev_close": 129.65,
+    "addv20": 108685665.0
+  },
+  {
+    "ticker": "WTW",
+    "gap_date": "2018-11-02",
+    "gap_pct": -18.6,
+    "open": 55.75,
+    "prev_close": 68.49,
+    "addv20": 100016901.0
+  },
+  {
+    "ticker": "CC",
+    "gap_date": "2018-11-02",
+    "gap_pct": -9.9,
+    "open": 31.48,
+    "prev_close": 34.95,
+    "addv20": 64582147.0
+  },
+  {
+    "ticker": "TEX",
+    "gap_date": "2018-11-02",
+    "gap_pct": -20.4,
+    "open": 28.67,
+    "prev_close": 36,
+    "addv20": 47447256.0
+  },
+  {
+    "ticker": "CAR",
+    "gap_date": "2018-11-06",
+    "gap_pct": -8.1,
+    "open": 28.55,
+    "prev_close": 31.05,
+    "addv20": 50678046.0
+  },
+  {
+    "ticker": "COTY",
+    "gap_date": "2018-11-07",
+    "gap_pct": -14.8,
+    "open": 9.52,
+    "prev_close": 11.18,
+    "addv20": 76807505.0
+  },
+  {
+    "ticker": "WEN",
+    "gap_date": "2018-11-07",
+    "gap_pct": -9.4,
+    "open": 15.47,
+    "prev_close": 17.08,
+    "addv20": 74182056.0
+  },
+  {
+    "ticker": "Z",
+    "gap_date": "2018-11-07",
+    "gap_pct": -20.2,
+    "open": 32.76,
+    "prev_close": 41.04,
+    "addv20": 97327021.0
+  },
+  {
+    "ticker": "MED",
+    "gap_date": "2018-11-07",
+    "gap_pct": -18.6,
+    "open": 175,
+    "prev_close": 214.88,
+    "addv20": 46545876.0
+  },
+  {
+    "ticker": "MNST",
+    "gap_date": "2018-11-08",
+    "gap_pct": -11.2,
+    "open": 24.83,
+    "prev_close": 27.95,
+    "addv20": 170697840.0
+  },
+  {
+    "ticker": "WYNN",
+    "gap_date": "2018-11-08",
+    "gap_pct": -13.8,
+    "open": 98.25,
+    "prev_close": 113.99,
+    "addv20": 325994039.0
+  },
+  {
+    "ticker": "YELP",
+    "gap_date": "2018-11-09",
+    "gap_pct": -32.0,
+    "open": 29.59,
+    "prev_close": 43.5,
+    "addv20": 66736231.0
+  },
+  {
+    "ticker": "TTD",
+    "gap_date": "2018-11-09",
+    "gap_pct": -8.9,
+    "open": 11.13,
+    "prev_close": 12.22,
+    "addv20": 153854805.0
+  },
+  {
+    "ticker": "NVDA",
+    "gap_date": "2018-11-16",
+    "gap_pct": -19.3,
+    "open": 4.08,
+    "prev_close": 5.06,
+    "addv20": 3136699446.0
+  },
+  {
+    "ticker": "HQY",
+    "gap_date": "2018-12-06",
+    "gap_pct": -8.2,
+    "open": 76.78,
+    "prev_close": 83.6,
+    "addv20": 65194940.0
+  },
+  {
+    "ticker": "PLCE",
+    "gap_date": "2018-12-06",
+    "gap_pct": -15.3,
+    "open": 104.31,
+    "prev_close": 123.15,
+    "addv20": 68402447.0
+  },
+  {
+    "ticker": "GWRE",
+    "gap_date": "2018-12-06",
+    "gap_pct": -11.0,
+    "open": 79.84,
+    "prev_close": 89.72,
+    "addv20": 60437454.0
+  },
+  {
+    "ticker": "THO",
+    "gap_date": "2018-12-06",
+    "gap_pct": -10.9,
+    "open": 57.31,
+    "prev_close": 64.31,
+    "addv20": 58430267.0
+  },
+  {
+    "ticker": "PLAY",
+    "gap_date": "2018-12-12",
+    "gap_pct": -11.8,
+    "open": 45,
+    "prev_close": 51.03,
+    "addv20": 44019773.0
+  },
+  {
+    "ticker": "FDX",
+    "gap_date": "2018-12-19",
+    "gap_pct": -8.5,
+    "open": 169.22,
+    "prev_close": 185.01,
+    "addv20": 501723902.0
+  },
+  {
+    "ticker": "STZ",
+    "gap_date": "2019-01-09",
+    "gap_pct": -11.4,
+    "open": 152.61,
+    "prev_close": 172.34,
+    "addv20": 417874101.0
+  },
+  {
+    "ticker": "TTWO",
+    "gap_date": "2019-02-06",
+    "gap_pct": -9.8,
+    "open": 96.75,
+    "prev_close": 107.29,
+    "addv20": 236094261.0
+  },
+  {
+    "ticker": "EA",
+    "gap_date": "2019-02-06",
+    "gap_pct": -14.5,
+    "open": 79.14,
+    "prev_close": 92.52,
+    "addv20": 427271505.0
+  },
+  {
+    "ticker": "TPR",
+    "gap_date": "2019-02-07",
+    "gap_pct": -14.2,
+    "open": 33.72,
+    "prev_close": 39.31,
+    "addv20": 131417246.0
+  },
+  {
+    "ticker": "QRVO",
+    "gap_date": "2019-02-08",
+    "gap_pct": -8.6,
+    "open": 60.81,
+    "prev_close": 66.53,
+    "addv20": 74701651.0
+  },
+  {
+    "ticker": "OC",
+    "gap_date": "2019-04-24",
+    "gap_pct": -7.9,
+    "open": 51.19,
+    "prev_close": 55.59,
+    "addv20": 77852015.0
+  },
+  {
+    "ticker": "INTC",
+    "gap_date": "2019-04-26",
+    "gap_pct": -8.5,
+    "open": 52.74,
+    "prev_close": 57.61,
+    "addv20": 1025937875.0
+  },
+  {
+    "ticker": "CGNX",
+    "gap_date": "2019-04-30",
+    "gap_pct": -15.3,
+    "open": 45.46,
+    "prev_close": 53.7,
+    "addv20": 55096217.0
+  },
+  {
+    "ticker": "TREX",
+    "gap_date": "2019-04-30",
+    "gap_pct": -14.4,
+    "open": 32.77,
+    "prev_close": 38.27,
+    "addv20": 50022047.0
+  },
+  {
+    "ticker": "GOOG",
+    "gap_date": "2019-04-30",
+    "gap_pct": -8.0,
+    "open": 59.25,
+    "prev_close": 64.38,
+    "addv20": 1335995301.0
+  },
+  {
+    "ticker": "GOOGL",
+    "gap_date": "2019-04-30",
+    "gap_pct": -8.1,
+    "open": 59.53,
+    "prev_close": 64.81,
+    "addv20": 1586778059.0
+  },
+  {
+    "ticker": "APTV",
+    "gap_date": "2019-05-02",
+    "gap_pct": -10.3,
+    "open": 75.01,
+    "prev_close": 83.64,
+    "addv20": 105169957.0
+  },
+  {
+    "ticker": "FLR",
+    "gap_date": "2019-05-02",
+    "gap_pct": -25.7,
+    "open": 29.1,
+    "prev_close": 39.15,
+    "addv20": 46949382.0
+  },
+  {
+    "ticker": "XYL",
+    "gap_date": "2019-05-02",
+    "gap_pct": -9.0,
+    "open": 75.79,
+    "prev_close": 83.29,
+    "addv20": 64435514.0
+  },
+  {
+    "ticker": "W",
+    "gap_date": "2019-05-02",
+    "gap_pct": -9.7,
+    "open": 147.61,
+    "prev_close": 163.53,
+    "addv20": 246702922.0
+  },
+  {
+    "ticker": "CTSH",
+    "gap_date": "2019-05-03",
+    "gap_pct": -9.8,
+    "open": 60.09,
+    "prev_close": 66.61,
+    "addv20": 244352954.0
+  },
+  {
+    "ticker": "BHF",
+    "gap_date": "2019-05-07",
+    "gap_pct": -8.9,
+    "open": 39.01,
+    "prev_close": 42.83,
+    "addv20": 60150543.0
+  },
+  {
+    "ticker": "ARMK",
+    "gap_date": "2019-05-07",
+    "gap_pct": -14.6,
+    "open": 26.73,
+    "prev_close": 31.31,
+    "addv20": 77374702.0
+  },
+  {
+    "ticker": "YELP",
+    "gap_date": "2019-05-10",
+    "gap_pct": -8.5,
+    "open": 36.34,
+    "prev_close": 39.73,
+    "addv20": 47565704.0
+  },
+  {
+    "ticker": "DOCU",
+    "gap_date": "2019-06-07",
+    "gap_pct": -14.1,
+    "open": 47.02,
+    "prev_close": 54.74,
+    "addv20": 113859691.0
+  },
+  {
+    "ticker": "PLAY",
+    "gap_date": "2019-06-12",
+    "gap_pct": -16.9,
+    "open": 42.81,
+    "prev_close": 51.53,
+    "addv20": 46991204.0
+  },
+  {
+    "ticker": "AVGO",
+    "gap_date": "2019-06-14",
+    "gap_pct": -8.3,
+    "open": 25.81,
+    "prev_close": 28.16,
+    "addv20": 908031834.0
+  },
+  {
+    "ticker": "AYI",
+    "gap_date": "2019-07-02",
+    "gap_pct": -9.3,
+    "open": 127.92,
+    "prev_close": 141.02,
+    "addv20": 45462776.0
+  },
+  {
+    "ticker": "CSX",
+    "gap_date": "2019-07-17",
+    "gap_pct": -7.8,
+    "open": 24.45,
+    "prev_close": 26.52,
+    "addv20": 275866988.0
+  },
+  {
+    "ticker": "FTV",
+    "gap_date": "2019-07-26",
+    "gap_pct": -9.3,
+    "open": 55.91,
+    "prev_close": 61.64,
+    "addv20": 124299691.0
+  },
+  {
+    "ticker": "NSP",
+    "gap_date": "2019-07-29",
+    "gap_pct": -11.4,
+    "open": 128.19,
+    "prev_close": 144.63,
+    "addv20": 40978893.0
+  },
+  {
+    "ticker": "IT",
+    "gap_date": "2019-07-30",
+    "gap_pct": -13.1,
+    "open": 148.37,
+    "prev_close": 170.73,
+    "addv20": 47587112.0
+  },
+  {
+    "ticker": "BYND",
+    "gap_date": "2019-07-30",
+    "gap_pct": -16.1,
+    "open": 186.34,
+    "prev_close": 222.13,
+    "addv20": 1159283812.0
+  },
+  {
+    "ticker": "EXP",
+    "gap_date": "2019-07-31",
+    "gap_pct": -7.6,
+    "open": 83.38,
+    "prev_close": 90.27,
+    "addv20": 41104644.0
+  },
+  {
+    "ticker": "HII",
+    "gap_date": "2019-08-01",
+    "gap_pct": -8.0,
+    "open": 210.01,
+    "prev_close": 228.3,
+    "addv20": 50175652.0
+  },
+  {
+    "ticker": "BYND",
+    "gap_date": "2019-08-01",
+    "gap_pct": -10.9,
+    "open": 175.14,
+    "prev_close": 196.51,
+    "addv20": 1403660004.0
+  },
+  {
+    "ticker": "HLF",
+    "gap_date": "2019-08-02",
+    "gap_pct": -7.5,
+    "open": 37.7,
+    "prev_close": 40.76,
+    "addv20": 89333187.0
+  },
+  {
+    "ticker": "CC",
+    "gap_date": "2019-08-02",
+    "gap_pct": -14.2,
+    "open": 15.59,
+    "prev_close": 18.16,
+    "addv20": 51480071.0
+  },
+  {
+    "ticker": "IFF",
+    "gap_date": "2019-08-06",
+    "gap_pct": -11.9,
+    "open": 124.7,
+    "prev_close": 141.47,
+    "addv20": 90211217.0
+  },
+  {
+    "ticker": "MNST",
+    "gap_date": "2019-08-08",
+    "gap_pct": -9.1,
+    "open": 27.45,
+    "prev_close": 30.2,
+    "addv20": 169508048.0
+  },
+  {
+    "ticker": "Z",
+    "gap_date": "2019-08-08",
+    "gap_pct": -14.3,
+    "open": 42.63,
+    "prev_close": 49.75,
+    "addv20": 105173891.0
+  },
+  {
+    "ticker": "DXC",
+    "gap_date": "2019-08-09",
+    "gap_pct": -24.9,
+    "open": 38.8,
+    "prev_close": 51.65,
+    "addv20": 121870780.0
+  },
+  {
+    "ticker": "UBER",
+    "gap_date": "2019-08-09",
+    "gap_pct": -7.9,
+    "open": 39.56,
+    "prev_close": 42.97,
+    "addv20": 326152271.0
+  },
+  {
+    "ticker": "AAP",
+    "gap_date": "2019-08-13",
+    "gap_pct": -8.0,
+    "open": 130.8,
+    "prev_close": 142.16,
+    "addv20": 176669446.0
+  },
+  {
+    "ticker": "COO",
+    "gap_date": "2019-08-30",
+    "gap_pct": -7.5,
+    "open": 75.95,
+    "prev_close": 82.15,
+    "addv20": 91961034.0
+  },
+  {
+    "ticker": "ULTA",
+    "gap_date": "2019-08-30",
+    "gap_pct": -25.1,
+    "open": 252.81,
+    "prev_close": 337.45,
+    "addv20": 296280207.0
+  },
+  {
+    "ticker": "CRWD",
+    "gap_date": "2019-09-06",
+    "gap_pct": -8.2,
+    "open": 79.7,
+    "prev_close": 86.85,
+    "addv20": 198480871.0
+  },
+  {
+    "ticker": "FDX",
+    "gap_date": "2019-09-18",
+    "gap_pct": -11.5,
+    "open": 153.3,
+    "prev_close": 173.3,
+    "addv20": 295365463.0
+  },
+  {
+    "ticker": "HAS",
+    "gap_date": "2019-10-22",
+    "gap_pct": -15.9,
+    "open": 101.01,
+    "prev_close": 120.16,
+    "addv20": 80498599.0
+  },
+  {
+    "ticker": "EBAY",
+    "gap_date": "2019-10-24",
+    "gap_pct": -8.7,
+    "open": 35.77,
+    "prev_close": 39.2,
+    "addv20": 247861604.0
+  },
+  {
+    "ticker": "AVT",
+    "gap_date": "2019-10-25",
+    "gap_pct": -8.4,
+    "open": 37,
+    "prev_close": 40.38,
+    "addv20": 47514122.0
+  },
+  {
+    "ticker": "MOH",
+    "gap_date": "2019-10-30",
+    "gap_pct": -8.9,
+    "open": 113.61,
+    "prev_close": 124.68,
+    "addv20": 62231756.0
+  },
+  {
+    "ticker": "ENPH",
+    "gap_date": "2019-10-30",
+    "gap_pct": -13.9,
+    "open": 21.68,
+    "prev_close": 25.19,
+    "addv20": 105307689.0
+  },
+  {
+    "ticker": "ETSY",
+    "gap_date": "2019-10-31",
+    "gap_pct": -12.2,
+    "open": 46.38,
+    "prev_close": 52.8,
+    "addv20": 164010750.0
+  },
+  {
+    "ticker": "TYL",
+    "gap_date": "2019-10-31",
+    "gap_pct": -9.0,
+    "open": 245,
+    "prev_close": 269.14,
+    "addv20": 58197399.0
+  },
+  {
+    "ticker": "TWLO",
+    "gap_date": "2019-10-31",
+    "gap_pct": -8.5,
+    "open": 98.58,
+    "prev_close": 107.7,
+    "addv20": 384141951.0
+  },
+  {
+    "ticker": "W",
+    "gap_date": "2019-10-31",
+    "gap_pct": -15.6,
+    "open": 85.29,
+    "prev_close": 101.08,
+    "addv20": 198468799.0
+  },
+  {
+    "ticker": "ANET",
+    "gap_date": "2019-11-01",
+    "gap_pct": -29.0,
+    "open": 10.85,
+    "prev_close": 15.29,
+    "addv20": 135856543.0
+  },
+  {
+    "ticker": "FND",
+    "gap_date": "2019-11-01",
+    "gap_pct": -12.7,
+    "open": 40.01,
+    "prev_close": 45.83,
+    "addv20": 51407284.0
+  },
+  {
+    "ticker": "PINS",
+    "gap_date": "2019-11-01",
+    "gap_pct": -21.9,
+    "open": 19.63,
+    "prev_close": 25.14,
+    "addv20": 263663201.0
+  },
+  {
+    "ticker": "SHAK",
+    "gap_date": "2019-11-05",
+    "gap_pct": -17.9,
+    "open": 69.15,
+    "prev_close": 84.21,
+    "addv20": 67146974.0
+  },
+  {
+    "ticker": "FANG",
+    "gap_date": "2019-11-06",
+    "gap_pct": -11.3,
+    "open": 80.03,
+    "prev_close": 90.23,
+    "addv20": 133220984.0
+  },
+  {
+    "ticker": "WW",
+    "gap_date": "2019-11-06",
+    "gap_pct": -18.7,
+    "open": 30.5,
+    "prev_close": 37.51,
+    "addv20": 47864639.0
+  },
+  {
+    "ticker": "TRIP",
+    "gap_date": "2019-11-07",
+    "gap_pct": -11.3,
+    "open": 36.2,
+    "prev_close": 40.79,
+    "addv20": 55146384.0
+  },
+  {
+    "ticker": "EXPE",
+    "gap_date": "2019-11-07",
+    "gap_pct": -14.9,
+    "open": 115.15,
+    "prev_close": 135.36,
+    "addv20": 191636149.0
+  },
+  {
+    "ticker": "PANW",
+    "gap_date": "2019-11-26",
+    "gap_pct": -8.9,
+    "open": 38,
+    "prev_close": 41.71,
+    "addv20": 272065930.0
+  },
+  {
+    "ticker": "DLTR",
+    "gap_date": "2019-11-26",
+    "gap_pct": -14.8,
+    "open": 95.76,
+    "prev_close": 112.39,
+    "addv20": 162364492.0
+  },
+  {
+    "ticker": "PLCE",
+    "gap_date": "2019-12-11",
+    "gap_pct": -16.1,
+    "open": 59.31,
+    "prev_close": 70.66,
+    "addv20": 46761356.0
+  },
+  {
+    "ticker": "AEO",
+    "gap_date": "2019-12-11",
+    "gap_pct": -8.8,
+    "open": 13.79,
+    "prev_close": 15.12,
+    "addv20": 68509997.0
+  },
+  {
+    "ticker": "BBBY",
+    "gap_date": "2020-01-09",
+    "gap_pct": -13.0,
+    "open": 13.17,
+    "prev_close": 15.14,
+    "addv20": 112044652.0
+  },
+  {
+    "ticker": "AYI",
+    "gap_date": "2020-01-09",
+    "gap_pct": -7.9,
+    "open": 131.75,
+    "prev_close": 143.12,
+    "addv20": 48658860.0
+  },
+  {
+    "ticker": "PTON",
+    "gap_date": "2020-02-06",
+    "gap_pct": -8.4,
+    "open": 29.94,
+    "prev_close": 32.7,
+    "addv20": 162185145.0
+  },
+  {
+    "ticker": "TTWO",
+    "gap_date": "2020-02-07",
+    "gap_pct": -9.2,
+    "open": 116,
+    "prev_close": 127.74,
+    "addv20": 177619893.0
+  },
+  {
+    "ticker": "PANW",
+    "gap_date": "2020-02-25",
+    "gap_pct": -14.9,
+    "open": 33.67,
+    "prev_close": 39.55,
+    "addv20": 227808945.0
+  },
+  {
+    "ticker": "GWRE",
+    "gap_date": "2020-03-05",
+    "gap_pct": -15.7,
+    "open": 94.78,
+    "prev_close": 112.48,
+    "addv20": 71085424.0
+  },
+  {
+    "ticker": "THO",
+    "gap_date": "2020-03-09",
+    "gap_pct": -8.3,
+    "open": 64.21,
+    "prev_close": 70.04,
+    "addv20": 64575364.0
+  },
+  {
+    "ticker": "SFIX",
+    "gap_date": "2020-03-10",
+    "gap_pct": -29.3,
+    "open": 15,
+    "prev_close": 21.21,
+    "addv20": 61969238.0
+  },
+  {
+    "ticker": "SFIX",
+    "gap_date": "2020-03-12",
+    "gap_pct": -10.1,
+    "open": 12.6,
+    "prev_close": 14.01,
+    "addv20": 76777971.0
+  },
+  {
+    "ticker": "TOL",
+    "gap_date": "2020-03-12",
+    "gap_pct": -8.1,
+    "open": 28.18,
+    "prev_close": 30.67,
+    "addv20": 130053500.0
+  },
+  {
+    "ticker": "CIEN",
+    "gap_date": "2020-03-12",
+    "gap_pct": -8.8,
+    "open": 35.4,
+    "prev_close": 38.83,
+    "addv20": 95259637.0
+  },
+  {
+    "ticker": "THO",
+    "gap_date": "2020-03-12",
+    "gap_pct": -7.7,
+    "open": 48.45,
+    "prev_close": 52.51,
+    "addv20": 73924765.0
+  },
+  {
+    "ticker": "FCEL",
+    "gap_date": "2020-03-16",
+    "gap_pct": -12.2,
+    "open": 30.3,
+    "prev_close": 34.5,
+    "addv20": 40979511.0
+  },
+  {
+    "ticker": "AVGO",
+    "gap_date": "2020-03-16",
+    "gap_pct": -11.1,
+    "open": 20.82,
+    "prev_close": 23.42,
+    "addv20": 956153316.0
+  },
+  {
+    "ticker": "ORCL",
+    "gap_date": "2020-03-16",
+    "gap_pct": -11.3,
+    "open": 42.51,
+    "prev_close": 47.93,
+    "addv20": 841857738.0
+  },
+  {
+    "ticker": "DRI",
+    "gap_date": "2020-04-01",
+    "gap_pct": -7.6,
+    "open": 50.3,
+    "prev_close": 54.46,
+    "addv20": 300680829.0
+  },
+  {
+    "ticker": "LW",
+    "gap_date": "2020-04-01",
+    "gap_pct": -8.9,
+    "open": 52,
+    "prev_close": 57.1,
+    "addv20": 137811404.0
+  },
+  {
+    "ticker": "HIG",
+    "gap_date": "2020-04-30",
+    "gap_pct": -9.6,
+    "open": 37.21,
+    "prev_close": 41.15,
+    "addv20": 136551710.0
+  },
+  {
+    "ticker": "TAP",
+    "gap_date": "2020-04-30",
+    "gap_pct": -9.3,
+    "open": 41.87,
+    "prev_close": 46.17,
+    "addv20": 86414902.0
+  },
+  {
+    "ticker": "CHDN",
+    "gap_date": "2020-04-30",
+    "gap_pct": -8.0,
+    "open": 49.99,
+    "prev_close": 54.31,
+    "addv20": 42805669.0
+  },
+  {
+    "ticker": "WY",
+    "gap_date": "2020-05-01",
+    "gap_pct": -10.0,
+    "open": 19.68,
+    "prev_close": 21.87,
+    "addv20": 99347182.0
+  },
+  {
+    "ticker": "MGM",
+    "gap_date": "2020-05-01",
+    "gap_pct": -7.5,
+    "open": 15.56,
+    "prev_close": 16.83,
+    "addv20": 400054851.0
+  },
+  {
+    "ticker": "UAL",
+    "gap_date": "2020-05-04",
+    "gap_pct": -10.2,
+    "open": 23.91,
+    "prev_close": 26.62,
+    "addv20": 1168030310.0
+  },
+  {
+    "ticker": "UNM",
+    "gap_date": "2020-05-05",
+    "gap_pct": -10.0,
+    "open": 15.3,
+    "prev_close": 17,
+    "addv20": 55080904.0
+  },
+  {
+    "ticker": "PINS",
+    "gap_date": "2020-05-06",
+    "gap_pct": -15.2,
+    "open": 17.64,
+    "prev_close": 20.81,
+    "addv20": 238474682.0
+  },
+  {
+    "ticker": "SEDG",
+    "gap_date": "2020-05-07",
+    "gap_pct": -13.1,
+    "open": 109.25,
+    "prev_close": 125.75,
+    "addv20": 112737454.0
+  },
+  {
+    "ticker": "BILL",
+    "gap_date": "2020-05-08",
+    "gap_pct": -8.1,
+    "open": 67.27,
+    "prev_close": 73.22,
+    "addv20": 41244961.0
+  },
+  {
+    "ticker": "UAA",
+    "gap_date": "2020-05-11",
+    "gap_pct": -9.4,
+    "open": 9.04,
+    "prev_close": 9.98,
+    "addv20": 57941821.0
+  },
+  {
+    "ticker": "ON",
+    "gap_date": "2020-05-11",
+    "gap_pct": -8.0,
+    "open": 15.75,
+    "prev_close": 17.12,
+    "addv20": 106829567.0
+  },
+  {
+    "ticker": "MDB",
+    "gap_date": "2020-06-05",
+    "gap_pct": -8.6,
+    "open": 201.14,
+    "prev_close": 220.04,
+    "addv20": 238650894.0
+  },
+  {
+    "ticker": "SFIX",
+    "gap_date": "2020-06-09",
+    "gap_pct": -7.5,
+    "open": 23.04,
+    "prev_close": 24.92,
+    "addv20": 89767200.0
+  },
+  {
+    "ticker": "UNFI",
+    "gap_date": "2020-06-10",
+    "gap_pct": -9.2,
+    "open": 20.37,
+    "prev_close": 22.44,
+    "addv20": 68958749.0
+  },
+  {
+    "ticker": "THO",
+    "gap_date": "2020-06-11",
+    "gap_pct": -7.6,
+    "open": 101.56,
+    "prev_close": 109.95,
+    "addv20": 121493742.0
+  },
+  {
+    "ticker": "PVH",
+    "gap_date": "2020-06-11",
+    "gap_pct": -9.7,
+    "open": 53.8,
+    "prev_close": 59.61,
+    "addv20": 113442071.0
+  },
+  {
+    "ticker": "PLAY",
+    "gap_date": "2020-06-11",
+    "gap_pct": -12.5,
+    "open": 15.14,
+    "prev_close": 17.31,
+    "addv20": 174750206.0
+  },
+  {
+    "ticker": "WGO",
+    "gap_date": "2020-06-24",
+    "gap_pct": -8.3,
+    "open": 65.01,
+    "prev_close": 70.9,
+    "addv20": 56295275.0
+  },
+  {
+    "ticker": "IVR",
+    "gap_date": "2020-06-25",
+    "gap_pct": -8.1,
+    "open": 35.1,
+    "prev_close": 38.2,
+    "addv20": 162161209.0
+  },
+  {
+    "ticker": "BBBY",
+    "gap_date": "2020-07-09",
+    "gap_pct": -10.7,
+    "open": 8.45,
+    "prev_close": 9.46,
+    "addv20": 130965969.0
+  },
+  {
+    "ticker": "INTC",
+    "gap_date": "2020-07-24",
+    "gap_pct": -13.7,
+    "open": 52.15,
+    "prev_close": 60.4,
+    "addv20": 1255799806.0
+  },
+  {
+    "ticker": "AXTA",
+    "gap_date": "2020-07-29",
+    "gap_pct": -10.9,
+    "open": 20.5,
+    "prev_close": 23.01,
+    "addv20": 41807410.0
+  },
+  {
+    "ticker": "SPCE",
+    "gap_date": "2020-08-04",
+    "gap_pct": -9.5,
+    "open": 435,
+    "prev_close": 480.4,
+    "addv20": 567376131.0
+  },
+  {
+    "ticker": "UPWK",
+    "gap_date": "2020-08-05",
+    "gap_pct": -7.7,
+    "open": 16.17,
+    "prev_close": 17.51,
+    "addv20": 40609943.0
+  },
+  {
+    "ticker": "ADT",
+    "gap_date": "2020-08-06",
+    "gap_pct": -7.7,
+    "open": 11.8,
+    "prev_close": 12.78,
+    "addv20": 160214709.0
+  },
+  {
+    "ticker": "SONO",
+    "gap_date": "2020-08-06",
+    "gap_pct": -11.7,
+    "open": 15.46,
+    "prev_close": 17.5,
+    "addv20": 85487605.0
+  },
+  {
+    "ticker": "LAMR",
+    "gap_date": "2020-08-06",
+    "gap_pct": -8.0,
+    "open": 60.22,
+    "prev_close": 65.46,
+    "addv20": 40391305.0
+  },
+  {
+    "ticker": "DDOG",
+    "gap_date": "2020-08-07",
+    "gap_pct": -8.2,
+    "open": 82.6,
+    "prev_close": 90.01,
+    "addv20": 300988509.0
+  },
+  {
+    "ticker": "ILMN",
+    "gap_date": "2020-08-07",
+    "gap_pct": -14.1,
+    "open": 343.0,
+    "prev_close": 399.33,
+    "addv20": 305461651.0
+  },
+  {
+    "ticker": "EOG",
+    "gap_date": "2020-08-07",
+    "gap_pct": -7.6,
+    "open": 47,
+    "prev_close": 50.89,
+    "addv20": 183650262.0
+  },
+  {
+    "ticker": "RIOT",
+    "gap_date": "2020-08-11",
+    "gap_pct": -8.5,
+    "open": 3.78,
+    "prev_close": 4.13,
+    "addv20": 53952846.0
+  },
+  {
+    "ticker": "VRM",
+    "gap_date": "2020-08-13",
+    "gap_pct": -20.0,
+    "open": 4418.4,
+    "prev_close": 5520.8,
+    "addv20": 54398543.0
+  },
+  {
+    "ticker": "CRWD",
+    "gap_date": "2020-09-03",
+    "gap_pct": -7.8,
+    "open": 131,
+    "prev_close": 142.07,
+    "addv20": 747475748.0
+  },
+  {
+    "ticker": "PD",
+    "gap_date": "2020-09-03",
+    "gap_pct": -22.8,
+    "open": 27,
+    "prev_close": 34.99,
+    "addv20": 48465639.0
+  },
+  {
+    "ticker": "INTC",
+    "gap_date": "2020-10-23",
+    "gap_pct": -10.3,
+    "open": 48.35,
+    "prev_close": 53.9,
+    "addv20": 1349070381.0
+  },
+  {
+    "ticker": "AIV",
+    "gap_date": "2020-11-03",
+    "gap_pct": -22.9,
+    "open": 30.65,
+    "prev_close": 39.77,
+    "addv20": 66961891.0
+  },
+  {
+    "ticker": "PACB",
+    "gap_date": "2020-11-03",
+    "gap_pct": -11.2,
+    "open": 11.77,
+    "prev_close": 13.25,
+    "addv20": 60519341.0
+  },
+  {
+    "ticker": "MOS",
+    "gap_date": "2020-11-03",
+    "gap_pct": -8.2,
+    "open": 17.95,
+    "prev_close": 19.56,
+    "addv20": 73847985.0
+  },
+  {
+    "ticker": "PTON",
+    "gap_date": "2020-11-09",
+    "gap_pct": -15.0,
+    "open": 106.69,
+    "prev_close": 125.46,
+    "addv20": 2163159001.0
+  },
+  {
+    "ticker": "ROKU",
+    "gap_date": "2020-11-09",
+    "gap_pct": -8.6,
+    "open": 231.56,
+    "prev_close": 253.36,
+    "addv20": 1149489839.0
+  },
+  {
+    "ticker": "KNDI",
+    "gap_date": "2020-11-10",
+    "gap_pct": -14.0,
+    "open": 6.69,
+    "prev_close": 7.78,
+    "addv20": 45846244.0
+  },
+  {
+    "ticker": "BYND",
+    "gap_date": "2020-11-10",
+    "gap_pct": -21.0,
+    "open": 118.92,
+    "prev_close": 150.5,
+    "addv20": 548578934.0
+  },
+  {
+    "ticker": "VRM",
+    "gap_date": "2020-11-12",
+    "gap_pct": -13.0,
+    "open": 2840.8,
+    "prev_close": 3264,
+    "addv20": 72813500.0
+  },
+  {
+    "ticker": "CBAT",
+    "gap_date": "2020-11-17",
+    "gap_pct": -22.4,
+    "open": 8.77,
+    "prev_close": 11.3,
+    "addv20": 94615381.0
+  },
+  {
+    "ticker": "GME",
+    "gap_date": "2020-12-09",
+    "gap_pct": -17.8,
+    "open": 3.48,
+    "prev_close": 4.24,
+    "addv20": 138100946.0
+  },
+  {
+    "ticker": "BBBY",
+    "gap_date": "2021-01-07",
+    "gap_pct": -14.7,
+    "open": 16.31,
+    "prev_close": 19.12,
+    "addv20": 159978397.0
+  },
+  {
+    "ticker": "PETS",
+    "gap_date": "2021-01-28",
+    "gap_pct": -15.5,
+    "open": 43.78,
+    "prev_close": 51.8,
+    "addv20": 45884826.0
+  },
+  {
+    "ticker": "COTY",
+    "gap_date": "2021-02-09",
+    "gap_pct": -11.8,
+    "open": 7,
+    "prev_close": 7.94,
+    "addv20": 93341007.0
+  },
+  {
+    "ticker": "AI",
+    "gap_date": "2021-03-02",
+    "gap_pct": -11.7,
+    "open": 106.9,
+    "prev_close": 121.05,
+    "addv20": 389784007.0
+  },
+  {
+    "ticker": "SFIX",
+    "gap_date": "2021-03-09",
+    "gap_pct": -23.7,
+    "open": 52.26,
+    "prev_close": 68.52,
+    "addv20": 157899214.0
+  },
+  {
+    "ticker": "FCEL",
+    "gap_date": "2021-03-16",
+    "gap_pct": -13.1,
+    "open": 444,
+    "prev_close": 510.9,
+    "addv20": 586888678.0
+  },
+  {
+    "ticker": "ENPH",
+    "gap_date": "2021-04-28",
+    "gap_pct": -12.1,
+    "open": 150.36,
+    "prev_close": 171.1,
+    "addv20": 388591918.0
+  },
+  {
+    "ticker": "PINS",
+    "gap_date": "2021-04-28",
+    "gap_pct": -10.8,
+    "open": 69.19,
+    "prev_close": 77.58,
+    "addv20": 943744104.0
+  },
+  {
+    "ticker": "EBAY",
+    "gap_date": "2021-04-29",
+    "gap_pct": -8.1,
+    "open": 57.29,
+    "prev_close": 62.32,
+    "addv20": 359853336.0
+  },
+  {
+    "ticker": "MVIS",
+    "gap_date": "2021-04-30",
+    "gap_pct": -22.3,
+    "open": 13.98,
+    "prev_close": 18,
+    "addv20": 939631289.0
+  },
+  {
+    "ticker": "CTSH",
+    "gap_date": "2021-05-06",
+    "gap_pct": -7.7,
+    "open": 75.22,
+    "prev_close": 81.46,
+    "addv20": 259943304.0
+  },
+  {
+    "ticker": "ETSY",
+    "gap_date": "2021-05-06",
+    "gap_pct": -9.5,
+    "open": 167.01,
+    "prev_close": 184.57,
+    "addv20": 533104699.0
+  },
+  {
+    "ticker": "EXPI",
+    "gap_date": "2021-05-06",
+    "gap_pct": -10.6,
+    "open": 27.52,
+    "prev_close": 30.79,
+    "addv20": 54590436.0
+  },
+  {
+    "ticker": "TWLO",
+    "gap_date": "2021-05-06",
+    "gap_pct": -8.9,
+    "open": 305.88,
+    "prev_close": 335.72,
+    "addv20": 582505701.0
+  },
+  {
+    "ticker": "CAH",
+    "gap_date": "2021-05-06",
+    "gap_pct": -8.4,
+    "open": 55.69,
+    "prev_close": 60.83,
+    "addv20": 104479587.0
+  },
+  {
+    "ticker": "TDC",
+    "gap_date": "2021-05-07",
+    "gap_pct": -9.7,
+    "open": 43.75,
+    "prev_close": 48.45,
+    "addv20": 131832022.0
+  },
+  {
+    "ticker": "APPN",
+    "gap_date": "2021-05-07",
+    "gap_pct": -12.1,
+    "open": 87,
+    "prev_close": 98.93,
+    "addv20": 81691162.0
+  },
+  {
+    "ticker": "FROG",
+    "gap_date": "2021-05-07",
+    "gap_pct": -13.0,
+    "open": 36.57,
+    "prev_close": 42.05,
+    "addv20": 40010122.0
+  },
+  {
+    "ticker": "SHAK",
+    "gap_date": "2021-05-07",
+    "gap_pct": -11.0,
+    "open": 93.97,
+    "prev_close": 105.62,
+    "addv20": 62912697.0
+  },
+  {
+    "ticker": "COTY",
+    "gap_date": "2021-05-10",
+    "gap_pct": -10.1,
+    "open": 9.3,
+    "prev_close": 10.34,
+    "addv20": 72290971.0
+  },
+  {
+    "ticker": "MGNI",
+    "gap_date": "2021-05-10",
+    "gap_pct": -8.3,
+    "open": 32.85,
+    "prev_close": 35.84,
+    "addv20": 81365875.0
+  },
+  {
+    "ticker": "TTD",
+    "gap_date": "2021-05-10",
+    "gap_pct": -14.2,
+    "open": 56.74,
+    "prev_close": 66.14,
+    "addv20": 418174058.0
+  },
+  {
+    "ticker": "MGNI",
+    "gap_date": "2021-05-11",
+    "gap_pct": -15.7,
+    "open": 24.09,
+    "prev_close": 28.56,
+    "addv20": 88521315.0
+  },
+  {
+    "ticker": "WKHS",
+    "gap_date": "2021-05-11",
+    "gap_pct": -9.6,
+    "open": 22230,
+    "prev_close": 24600,
+    "addv20": 140282839.0
+  },
+  {
+    "ticker": "REAL",
+    "gap_date": "2021-05-11",
+    "gap_pct": -14.0,
+    "open": 17.46,
+    "prev_close": 20.31,
+    "addv20": 40078326.0
+  },
+  {
+    "ticker": "VUZI",
+    "gap_date": "2021-05-11",
+    "gap_pct": -20.8,
+    "open": 13.7,
+    "prev_close": 17.29,
+    "addv20": 122758450.0
+  },
+  {
+    "ticker": "SPCE",
+    "gap_date": "2021-05-11",
+    "gap_pct": -19.1,
+    "open": 290.6,
+    "prev_close": 359,
+    "addv20": 283075029.0
+  },
+  {
+    "ticker": "SAIL",
+    "gap_date": "2021-05-11",
+    "gap_pct": -11.4,
+    "open": 39.24,
+    "prev_close": 44.29,
+    "addv20": 55171699.0
+  },
+  {
+    "ticker": "LITE",
+    "gap_date": "2021-05-12",
+    "gap_pct": -13.0,
+    "open": 71.5,
+    "prev_close": 82.14,
+    "addv20": 82557185.0
+  },
+  {
+    "ticker": "LMND",
+    "gap_date": "2021-05-12",
+    "gap_pct": -8.0,
+    "open": 67.95,
+    "prev_close": 73.85,
+    "addv20": 164858687.0
+  },
+  {
+    "ticker": "ARRY",
+    "gap_date": "2021-05-12",
+    "gap_pct": -28.2,
+    "open": 17.92,
+    "prev_close": 24.95,
+    "addv20": 55888219.0
+  },
+  {
+    "ticker": "RIOT",
+    "gap_date": "2021-05-17",
+    "gap_pct": -10.1,
+    "open": 23.4,
+    "prev_close": 26.02,
+    "addv20": 693250357.0
+  },
+  {
+    "ticker": "RIOT",
+    "gap_date": "2021-05-19",
+    "gap_pct": -14.1,
+    "open": 21.95,
+    "prev_close": 25.56,
+    "addv20": 634216932.0
+  },
+  {
+    "ticker": "OKTA",
+    "gap_date": "2021-05-27",
+    "gap_pct": -8.0,
+    "open": 226.89,
+    "prev_close": 246.53,
+    "addv20": 425175893.0
+  },
+  {
+    "ticker": "PATH",
+    "gap_date": "2021-06-09",
+    "gap_pct": -8.0,
+    "open": 69.89,
+    "prev_close": 76,
+    "addv20": 167877295.0
+  },
+  {
+    "ticker": "CPB",
+    "gap_date": "2021-06-09",
+    "gap_pct": -8.5,
+    "open": 44.95,
+    "prev_close": 49.12,
+    "addv20": 97056990.0
+  },
+  {
+    "ticker": "UNFI",
+    "gap_date": "2021-06-09",
+    "gap_pct": -9.4,
+    "open": 36.79,
+    "prev_close": 40.62,
+    "addv20": 40101479.0
+  },
+  {
+    "ticker": "FCEL",
+    "gap_date": "2021-06-10",
+    "gap_pct": -11.4,
+    "open": 299.4,
+    "prev_close": 338.1,
+    "addv20": 211615819.0
+  },
+  {
+    "ticker": "SAM",
+    "gap_date": "2021-07-23",
+    "gap_pct": -23.5,
+    "open": 725,
+    "prev_close": 947.54,
+    "addv20": 246954410.0
+  },
+  {
+    "ticker": "WING",
+    "gap_date": "2021-07-28",
+    "gap_pct": -9.4,
+    "open": 154,
+    "prev_close": 169.92,
+    "addv20": 50049705.0
+  },
+  {
+    "ticker": "EQT",
+    "gap_date": "2021-07-29",
+    "gap_pct": -8.1,
+    "open": 19.07,
+    "prev_close": 20.75,
+    "addv20": 74156835.0
+  },
+  {
+    "ticker": "PINS",
+    "gap_date": "2021-07-30",
+    "gap_pct": -17.8,
+    "open": 59.2,
+    "prev_close": 72.04,
+    "addv20": 714651499.0
+  },
+  {
+    "ticker": "ETSY",
+    "gap_date": "2021-08-05",
+    "gap_pct": -13.4,
+    "open": 175,
+    "prev_close": 202.1,
+    "addv20": 494519711.0
+  },
+  {
+    "ticker": "GDDY",
+    "gap_date": "2021-08-05",
+    "gap_pct": -10.2,
+    "open": 75,
+    "prev_close": 83.5,
+    "addv20": 72801095.0
+  },
+  {
+    "ticker": "ROKU",
+    "gap_date": "2021-08-05",
+    "gap_pct": -9.1,
+    "open": 382,
+    "prev_close": 420.32,
+    "addv20": 1841881926.0
+  },
+  {
+    "ticker": "RVLV",
+    "gap_date": "2021-08-05",
+    "gap_pct": -11.5,
+    "open": 63.14,
+    "prev_close": 71.34,
+    "addv20": 53705737.0
+  },
+  {
+    "ticker": "EXPE",
+    "gap_date": "2021-08-06",
+    "gap_pct": -7.5,
+    "open": 149.56,
+    "prev_close": 161.69,
+    "addv20": 336743004.0
+  },
+  {
+    "ticker": "COLD",
+    "gap_date": "2021-08-06",
+    "gap_pct": -9.0,
+    "open": 35.25,
+    "prev_close": 38.73,
+    "addv20": 80510644.0
+  },
+  {
+    "ticker": "REAL",
+    "gap_date": "2021-08-10",
+    "gap_pct": -10.3,
+    "open": 14.57,
+    "prev_close": 16.23,
+    "addv20": 41855907.0
+  },
+  {
+    "ticker": "FLGT",
+    "gap_date": "2021-08-10",
+    "gap_pct": -13.4,
+    "open": 95,
+    "prev_close": 109.76,
+    "addv20": 74724998.0
+  },
+  {
+    "ticker": "GRWG",
+    "gap_date": "2021-08-12",
+    "gap_pct": -9.4,
+    "open": 39,
+    "prev_close": 43.07,
+    "addv20": 41715870.0
+  },
+  {
+    "ticker": "FIGS",
+    "gap_date": "2021-08-13",
+    "gap_pct": -7.9,
+    "open": 38.69,
+    "prev_close": 42.01,
+    "addv20": 40680241.0
+  },
+  {
+    "ticker": "BURL",
+    "gap_date": "2021-08-26",
+    "gap_pct": -8.5,
+    "open": 320.29,
+    "prev_close": 350.15,
+    "addv20": 164246822.0
+  },
+  {
+    "ticker": "DLTR",
+    "gap_date": "2021-08-26",
+    "gap_pct": -8.5,
+    "open": 97.25,
+    "prev_close": 106.32,
+    "addv20": 221136077.0
+  },
+  {
+    "ticker": "ZM",
+    "gap_date": "2021-08-31",
+    "gap_pct": -15.4,
+    "open": 294,
+    "prev_close": 347.5,
+    "addv20": 1112351350.0
+  },
+  {
+    "ticker": "AI",
+    "gap_date": "2021-09-02",
+    "gap_pct": -8.9,
+    "open": 48.4,
+    "prev_close": 53.11,
+    "addv20": 120858434.0
+  },
+  {
+    "ticker": "CHWY",
+    "gap_date": "2021-09-02",
+    "gap_pct": -9.3,
+    "open": 79.28,
+    "prev_close": 87.43,
+    "addv20": 188482680.0
+  },
+  {
+    "ticker": "AEO",
+    "gap_date": "2021-09-02",
+    "gap_pct": -11.6,
+    "open": 26.55,
+    "prev_close": 30.05,
+    "addv20": 137462909.0
+  },
+  {
+    "ticker": "PATH",
+    "gap_date": "2021-09-08",
+    "gap_pct": -9.4,
+    "open": 56.58,
+    "prev_close": 62.46,
+    "addv20": 157103317.0
+  },
+  {
+    "ticker": "GME",
+    "gap_date": "2021-09-09",
+    "gap_pct": -9.4,
+    "open": 45.02,
+    "prev_close": 49.7,
+    "addv20": 713755741.0
+  },
+  {
+    "ticker": "BBBY",
+    "gap_date": "2021-09-30",
+    "gap_pct": -27.7,
+    "open": 14.58,
+    "prev_close": 20.18,
+    "addv20": 74547797.0
+  },
+  {
+    "ticker": "LW",
+    "gap_date": "2021-10-07",
+    "gap_pct": -11.5,
+    "open": 55.2,
+    "prev_close": 62.34,
+    "addv20": 72037987.0
+  },
+  {
+    "ticker": "EFX",
+    "gap_date": "2021-10-21",
+    "gap_pct": -9.2,
+    "open": 245,
+    "prev_close": 269.74,
+    "addv20": 132901634.0
+  },
+  {
+    "ticker": "INTC",
+    "gap_date": "2021-10-22",
+    "gap_pct": -10.0,
+    "open": 50.39,
+    "prev_close": 56,
+    "addv20": 1159468573.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2021-10-22",
+    "gap_pct": -21.8,
+    "open": 58.75,
+    "prev_close": 75.11,
+    "addv20": 1371272208.0
+  },
+  {
+    "ticker": "TWLO",
+    "gap_date": "2021-10-28",
+    "gap_pct": -17.2,
+    "open": 286.26,
+    "prev_close": 345.66,
+    "addv20": 572767434.0
+  },
+  {
+    "ticker": "CHGG",
+    "gap_date": "2021-11-02",
+    "gap_pct": -37.3,
+    "open": 39.34,
+    "prev_close": 62.76,
+    "addv20": 140306802.0
+  },
+  {
+    "ticker": "CAR",
+    "gap_date": "2021-11-03",
+    "gap_pct": -12.9,
+    "open": 311.0,
+    "prev_close": 357.17,
+    "addv20": 839876620.0
+  },
+  {
+    "ticker": "WING",
+    "gap_date": "2021-11-03",
+    "gap_pct": -12.6,
+    "open": 147.14,
+    "prev_close": 168.38,
+    "addv20": 45516460.0
+  },
+  {
+    "ticker": "Z",
+    "gap_date": "2021-11-03",
+    "gap_pct": -15.4,
+    "open": 73.8,
+    "prev_close": 87.2,
+    "addv20": 561386764.0
+  },
+  {
+    "ticker": "ZG",
+    "gap_date": "2021-11-03",
+    "gap_pct": -14.9,
+    "open": 72.77,
+    "prev_close": 85.48,
+    "addv20": 110436050.0
+  },
+  {
+    "ticker": "XPO",
+    "gap_date": "2021-11-03",
+    "gap_pct": -9.4,
+    "open": 46.65,
+    "prev_close": 51.5,
+    "addv20": 89136325.0
+  },
+  {
+    "ticker": "SPWR",
+    "gap_date": "2021-11-04",
+    "gap_pct": -8.4,
+    "open": 30.19,
+    "prev_close": 32.95,
+    "addv20": 119733897.0
+  },
+  {
+    "ticker": "MGNI",
+    "gap_date": "2021-11-04",
+    "gap_pct": -12.5,
+    "open": 23.9,
+    "prev_close": 27.3,
+    "addv20": 45123570.0
+  },
+  {
+    "ticker": "NRG",
+    "gap_date": "2021-11-04",
+    "gap_pct": -8.8,
+    "open": 36.5,
+    "prev_close": 40,
+    "addv20": 83729395.0
+  },
+  {
+    "ticker": "QRVO",
+    "gap_date": "2021-11-04",
+    "gap_pct": -10.3,
+    "open": 159.75,
+    "prev_close": 178.12,
+    "addv20": 156739118.0
+  },
+  {
+    "ticker": "ROKU",
+    "gap_date": "2021-11-04",
+    "gap_pct": -7.6,
+    "open": 289.81,
+    "prev_close": 313.66,
+    "addv20": 996570027.0
+  },
+  {
+    "ticker": "FND",
+    "gap_date": "2021-11-05",
+    "gap_pct": -9.8,
+    "open": 129.28,
+    "prev_close": 143.31,
+    "addv20": 73796450.0
+  },
+  {
+    "ticker": "PTON",
+    "gap_date": "2021-11-05",
+    "gap_pct": -33.6,
+    "open": 57.13,
+    "prev_close": 86.06,
+    "addv20": 553446528.0
+  },
+  {
+    "ticker": "TRIP",
+    "gap_date": "2021-11-09",
+    "gap_pct": -9.6,
+    "open": 31.53,
+    "prev_close": 34.87,
+    "addv20": 74001535.0
+  },
+  {
+    "ticker": "FRPT",
+    "gap_date": "2021-11-09",
+    "gap_pct": -16.9,
+    "open": 125,
+    "prev_close": 150.44,
+    "addv20": 46179193.0
+  },
+  {
+    "ticker": "DOCS",
+    "gap_date": "2021-11-10",
+    "gap_pct": -15.5,
+    "open": 64.67,
+    "prev_close": 76.51,
+    "addv20": 140595876.0
+  },
+  {
+    "ticker": "TOST",
+    "gap_date": "2021-11-10",
+    "gap_pct": -10.9,
+    "open": 54.15,
+    "prev_close": 60.75,
+    "addv20": 74111855.0
+  },
+  {
+    "ticker": "FUBO",
+    "gap_date": "2021-11-10",
+    "gap_pct": -11.9,
+    "open": 350.4,
+    "prev_close": 397.56,
+    "addv20": 180510144.0
+  },
+  {
+    "ticker": "COIN",
+    "gap_date": "2021-11-10",
+    "gap_pct": -8.4,
+    "open": 327.22,
+    "prev_close": 357.39,
+    "addv20": 2295423993.0
+  },
+  {
+    "ticker": "DDD",
+    "gap_date": "2021-11-11",
+    "gap_pct": -7.9,
+    "open": 25.83,
+    "prev_close": 28.04,
+    "addv20": 80708874.0
+  },
+  {
+    "ticker": "RIOT",
+    "gap_date": "2021-11-16",
+    "gap_pct": -13.5,
+    "open": 36.4,
+    "prev_close": 42.09,
+    "addv20": 593811045.0
+  },
+  {
+    "ticker": "ZM",
+    "gap_date": "2021-11-23",
+    "gap_pct": -10.0,
+    "open": 218.05,
+    "prev_close": 242.28,
+    "addv20": 840830337.0
+  },
+  {
+    "ticker": "ASAN",
+    "gap_date": "2021-12-03",
+    "gap_pct": -22.3,
+    "open": 70.7,
+    "prev_close": 91,
+    "addv20": 373662298.0
+  },
+  {
+    "ticker": "SFIX",
+    "gap_date": "2021-12-08",
+    "gap_pct": -27.4,
+    "open": 18.13,
+    "prev_close": 24.97,
+    "addv20": 74305564.0
+  },
+  {
+    "ticker": "GTLB",
+    "gap_date": "2021-12-09",
+    "gap_pct": -8.1,
+    "open": 77.51,
+    "prev_close": 84.32,
+    "addv20": 68796317.0
+  },
+  {
+    "ticker": "CHWY",
+    "gap_date": "2021-12-10",
+    "gap_pct": -10.7,
+    "open": 50.3,
+    "prev_close": 56.3,
+    "addv20": 273767993.0
+  },
+  {
+    "ticker": "BAH",
+    "gap_date": "2022-01-28",
+    "gap_pct": -8.4,
+    "open": 75.11,
+    "prev_close": 82.04,
+    "addv20": 72743686.0
+  },
+  {
+    "ticker": "DT",
+    "gap_date": "2022-02-02",
+    "gap_pct": -26.1,
+    "open": 41.6,
+    "prev_close": 56.28,
+    "addv20": 157861632.0
+  },
+  {
+    "ticker": "LITE",
+    "gap_date": "2022-02-03",
+    "gap_pct": -10.4,
+    "open": 90.5,
+    "prev_close": 100.95,
+    "addv20": 87672950.0
+  },
+  {
+    "ticker": "CLX",
+    "gap_date": "2022-02-04",
+    "gap_pct": -12.4,
+    "open": 144.92,
+    "prev_close": 165.34,
+    "addv20": 265623900.0
+  },
+  {
+    "ticker": "SFIX",
+    "gap_date": "2022-03-09",
+    "gap_pct": -19.6,
+    "open": 8.85,
+    "prev_close": 11.01,
+    "addv20": 44992187.0
+  },
+  {
+    "ticker": "WGO",
+    "gap_date": "2022-03-23",
+    "gap_pct": -8.0,
+    "open": 57.37,
+    "prev_close": 62.38,
+    "addv20": 40727618.0
+  },
+  {
+    "ticker": "ALV",
+    "gap_date": "2022-04-22",
+    "gap_pct": -7.6,
+    "open": 71.7,
+    "prev_close": 77.56,
+    "addv20": 57635729.0
+  },
+  {
+    "ticker": "NEM",
+    "gap_date": "2022-04-22",
+    "gap_pct": -7.6,
+    "open": 71.23,
+    "prev_close": 77.06,
+    "addv20": 526090344.0
+  },
+  {
+    "ticker": "CARR",
+    "gap_date": "2022-04-28",
+    "gap_pct": -9.9,
+    "open": 36.28,
+    "prev_close": 40.26,
+    "addv20": 163957375.0
+  },
+  {
+    "ticker": "SWK",
+    "gap_date": "2022-04-28",
+    "gap_pct": -8.8,
+    "open": 126.9,
+    "prev_close": 139.14,
+    "addv20": 279175028.0
+  },
+  {
+    "ticker": "WU",
+    "gap_date": "2022-04-29",
+    "gap_pct": -8.2,
+    "open": 17.6,
+    "prev_close": 19.17,
+    "addv20": 64056578.0
+  },
+  {
+    "ticker": "VRSN",
+    "gap_date": "2022-04-29",
+    "gap_pct": -11.1,
+    "open": 185.21,
+    "prev_close": 208.42,
+    "addv20": 117274715.0
+  },
+  {
+    "ticker": "AMZN",
+    "gap_date": "2022-04-29",
+    "gap_pct": -10.2,
+    "open": 129.85,
+    "prev_close": 144.6,
+    "addv20": 9527422098.0
+  },
+  {
+    "ticker": "MCO",
+    "gap_date": "2022-05-02",
+    "gap_pct": -9.0,
+    "open": 288.03,
+    "prev_close": 316.48,
+    "addv20": 282919490.0
+  },
+  {
+    "ticker": "ROK",
+    "gap_date": "2022-05-03",
+    "gap_pct": -8.6,
+    "open": 228.55,
+    "prev_close": 250.04,
+    "addv20": 173138571.0
+  },
+  {
+    "ticker": "FRPT",
+    "gap_date": "2022-05-03",
+    "gap_pct": -9.5,
+    "open": 84.22,
+    "prev_close": 93.1,
+    "addv20": 53890931.0
+  },
+  {
+    "ticker": "FLS",
+    "gap_date": "2022-05-03",
+    "gap_pct": -8.4,
+    "open": 30.11,
+    "prev_close": 32.87,
+    "addv20": 44953439.0
+  },
+  {
+    "ticker": "CHGG",
+    "gap_date": "2022-05-03",
+    "gap_pct": -37.0,
+    "open": 15.73,
+    "prev_close": 24.98,
+    "addv20": 72297097.0
+  },
+  {
+    "ticker": "EL",
+    "gap_date": "2022-05-03",
+    "gap_pct": -12.7,
+    "open": 227.5,
+    "prev_close": 260.63,
+    "addv20": 388309431.0
+  },
+  {
+    "ticker": "VRNS",
+    "gap_date": "2022-05-03",
+    "gap_pct": -9.5,
+    "open": 39.5,
+    "prev_close": 43.67,
+    "addv20": 46224950.0
+  },
+  {
+    "ticker": "EAT",
+    "gap_date": "2022-05-04",
+    "gap_pct": -16.2,
+    "open": 33.06,
+    "prev_close": 39.46,
+    "addv20": 42149010.0
+  },
+  {
+    "ticker": "JCI",
+    "gap_date": "2022-05-04",
+    "gap_pct": -12.7,
+    "open": 54.06,
+    "prev_close": 61.91,
+    "addv20": 268127239.0
+  },
+  {
+    "ticker": "HLF",
+    "gap_date": "2022-05-04",
+    "gap_pct": -12.9,
+    "open": 24,
+    "prev_close": 27.57,
+    "addv20": 46179190.0
+  },
+  {
+    "ticker": "RVLV",
+    "gap_date": "2022-05-04",
+    "gap_pct": -12.6,
+    "open": 38.02,
+    "prev_close": 43.51,
+    "addv20": 47898630.0
+  },
+  {
+    "ticker": "ETSY",
+    "gap_date": "2022-05-05",
+    "gap_pct": -13.8,
+    "open": 94.26,
+    "prev_close": 109.33,
+    "addv20": 482819648.0
+  },
+  {
+    "ticker": "DOCN",
+    "gap_date": "2022-05-05",
+    "gap_pct": -11.7,
+    "open": 38.48,
+    "prev_close": 43.56,
+    "addv20": 81636392.0
+  },
+  {
+    "ticker": "RPD",
+    "gap_date": "2022-05-05",
+    "gap_pct": -11.5,
+    "open": 83.86,
+    "prev_close": 94.71,
+    "addv20": 49596567.0
+  },
+  {
+    "ticker": "FSLY",
+    "gap_date": "2022-05-05",
+    "gap_pct": -13.8,
+    "open": 14.54,
+    "prev_close": 16.86,
+    "addv20": 94538891.0
+  },
+  {
+    "ticker": "W",
+    "gap_date": "2022-05-05",
+    "gap_pct": -15.1,
+    "open": 77.05,
+    "prev_close": 90.76,
+    "addv20": 331120585.0
+  },
+  {
+    "ticker": "CAH",
+    "gap_date": "2022-05-05",
+    "gap_pct": -9.0,
+    "open": 55.04,
+    "prev_close": 60.49,
+    "addv20": 183493453.0
+  },
+  {
+    "ticker": "BILL",
+    "gap_date": "2022-05-06",
+    "gap_pct": -17.8,
+    "open": 125.16,
+    "prev_close": 152.24,
+    "addv20": 345276766.0
+  },
+  {
+    "ticker": "TDC",
+    "gap_date": "2022-05-06",
+    "gap_pct": -8.2,
+    "open": 36.6,
+    "prev_close": 39.89,
+    "addv20": 49980210.0
+  },
+  {
+    "ticker": "BE",
+    "gap_date": "2022-05-06",
+    "gap_pct": -16.6,
+    "open": 15.82,
+    "prev_close": 18.97,
+    "addv20": 62650510.0
+  },
+  {
+    "ticker": "DVA",
+    "gap_date": "2022-05-06",
+    "gap_pct": -9.6,
+    "open": 96.7,
+    "prev_close": 106.94,
+    "addv20": 69706712.0
+  },
+  {
+    "ticker": "CFLT",
+    "gap_date": "2022-05-06",
+    "gap_pct": -10.7,
+    "open": 25.24,
+    "prev_close": 28.25,
+    "addv20": 80174471.0
+  },
+  {
+    "ticker": "Z",
+    "gap_date": "2022-05-06",
+    "gap_pct": -13.4,
+    "open": 34.46,
+    "prev_close": 39.78,
+    "addv20": 175685629.0
+  },
+  {
+    "ticker": "NET",
+    "gap_date": "2022-05-06",
+    "gap_pct": -15.9,
+    "open": 65.41,
+    "prev_close": 77.81,
+    "addv20": 390302481.0
+  },
+  {
+    "ticker": "PLTR",
+    "gap_date": "2022-05-09",
+    "gap_pct": -17.9,
+    "open": 7.78,
+    "prev_close": 9.48,
+    "addv20": 394232531.0
+  },
+  {
+    "ticker": "CARG",
+    "gap_date": "2022-05-10",
+    "gap_pct": -14.4,
+    "open": 25.53,
+    "prev_close": 29.83,
+    "addv20": 42355190.0
+  },
+  {
+    "ticker": "ATER",
+    "gap_date": "2022-05-10",
+    "gap_pct": -18.5,
+    "open": 39,
+    "prev_close": 47.88,
+    "addv20": 224476363.0
+  },
+  {
+    "ticker": "PTON",
+    "gap_date": "2022-05-10",
+    "gap_pct": -14.4,
+    "open": 12.1,
+    "prev_close": 14.13,
+    "addv20": 199287390.0
+  },
+  {
+    "ticker": "UPST",
+    "gap_date": "2022-05-10",
+    "gap_pct": -55.9,
+    "open": 33.98,
+    "prev_close": 77.13,
+    "addv20": 735219615.0
+  },
+  {
+    "ticker": "U",
+    "gap_date": "2022-05-11",
+    "gap_pct": -32.8,
+    "open": 32.33,
+    "prev_close": 48.13,
+    "addv20": 320882804.0
+  },
+  {
+    "ticker": "JXN",
+    "gap_date": "2022-05-11",
+    "gap_pct": -8.4,
+    "open": 34.07,
+    "prev_close": 37.18,
+    "addv20": 47219119.0
+  },
+  {
+    "ticker": "RKT",
+    "gap_date": "2022-05-11",
+    "gap_pct": -10.4,
+    "open": 7,
+    "prev_close": 7.81,
+    "addv20": 45573249.0
+  },
+  {
+    "ticker": "ARRY",
+    "gap_date": "2022-05-11",
+    "gap_pct": -10.7,
+    "open": 6.18,
+    "prev_close": 6.92,
+    "addv20": 44792541.0
+  },
+  {
+    "ticker": "COIN",
+    "gap_date": "2022-05-11",
+    "gap_pct": -24.9,
+    "open": 54.84,
+    "prev_close": 72.99,
+    "addv20": 799929805.0
+  },
+  {
+    "ticker": "BROS",
+    "gap_date": "2022-05-12",
+    "gap_pct": -33.8,
+    "open": 22.74,
+    "prev_close": 34.37,
+    "addv20": 70798721.0
+  },
+  {
+    "ticker": "BYND",
+    "gap_date": "2022-05-12",
+    "gap_pct": -19.6,
+    "open": 21.03,
+    "prev_close": 26.17,
+    "addv20": 125565043.0
+  },
+  {
+    "ticker": "CYN",
+    "gap_date": "2022-05-12",
+    "gap_pct": -11.9,
+    "open": 44318.18,
+    "prev_close": 50318.18,
+    "addv20": 94508400.0
+  },
+  {
+    "ticker": "MQ",
+    "gap_date": "2022-05-12",
+    "gap_pct": -8.1,
+    "open": 6.09,
+    "prev_close": 6.63,
+    "addv20": 77888754.0
+  },
+  {
+    "ticker": "COIN",
+    "gap_date": "2022-05-12",
+    "gap_pct": -9.6,
+    "open": 48.54,
+    "prev_close": 53.72,
+    "addv20": 945234037.0
+  },
+  {
+    "ticker": "FIGS",
+    "gap_date": "2022-05-13",
+    "gap_pct": -26.5,
+    "open": 9.45,
+    "prev_close": 12.85,
+    "addv20": 40446871.0
+  },
+  {
+    "ticker": "DKS",
+    "gap_date": "2022-05-25",
+    "gap_pct": -10.1,
+    "open": 64.01,
+    "prev_close": 71.24,
+    "addv20": 199298658.0
+  },
+  {
+    "ticker": "AEO",
+    "gap_date": "2022-05-27",
+    "gap_pct": -9.9,
+    "open": 12.63,
+    "prev_close": 14.02,
+    "addv20": 106803820.0
+  },
+  {
+    "ticker": "ASAN",
+    "gap_date": "2022-06-03",
+    "gap_pct": -11.5,
+    "open": 21.33,
+    "prev_close": 24.11,
+    "addv20": 122909475.0
+  },
+  {
+    "ticker": "FCEL",
+    "gap_date": "2022-06-09",
+    "gap_pct": -10.1,
+    "open": 109.8,
+    "prev_close": 122.1,
+    "addv20": 67486278.0
+  },
+  {
+    "ticker": "DOCU",
+    "gap_date": "2022-06-10",
+    "gap_pct": -23.9,
+    "open": 66.5,
+    "prev_close": 87.36,
+    "addv20": 354822834.0
+  },
+  {
+    "ticker": "BBBY",
+    "gap_date": "2022-06-29",
+    "gap_pct": -16.4,
+    "open": 4.96,
+    "prev_close": 5.94,
+    "addv20": 45704630.0
+  },
+  {
+    "ticker": "CCL",
+    "gap_date": "2022-06-29",
+    "gap_pct": -8.1,
+    "open": 9.49,
+    "prev_close": 10.33,
+    "addv20": 554037529.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2022-07-22",
+    "gap_pct": -32.1,
+    "open": 11.1,
+    "prev_close": 16.35,
+    "addv20": 494557733.0
+  },
+  {
+    "ticker": "TRU",
+    "gap_date": "2022-07-26",
+    "gap_pct": -12.8,
+    "open": 76.5,
+    "prev_close": 87.69,
+    "addv20": 80864094.0
+  },
+  {
+    "ticker": "GRMN",
+    "gap_date": "2022-07-27",
+    "gap_pct": -9.1,
+    "open": 93.18,
+    "prev_close": 102.5,
+    "addv20": 112823846.0
+  },
+  {
+    "ticker": "SWK",
+    "gap_date": "2022-07-28",
+    "gap_pct": -15.0,
+    "open": 99.8,
+    "prev_close": 117.45,
+    "addv20": 143020063.0
+  },
+  {
+    "ticker": "CMCSA",
+    "gap_date": "2022-07-28",
+    "gap_pct": -8.7,
+    "open": 39.59,
+    "prev_close": 43.37,
+    "addv20": 794706986.0
+  },
+  {
+    "ticker": "INTC",
+    "gap_date": "2022-07-29",
+    "gap_pct": -10.3,
+    "open": 35.6,
+    "prev_close": 39.71,
+    "addv20": 1355592672.0
+  },
+  {
+    "ticker": "AVTR",
+    "gap_date": "2022-07-29",
+    "gap_pct": -11.5,
+    "open": 28.61,
+    "prev_close": 32.33,
+    "addv20": 155225339.0
+  },
+  {
+    "ticker": "ROKU",
+    "gap_date": "2022-07-29",
+    "gap_pct": -22.4,
+    "open": 66.1,
+    "prev_close": 85.17,
+    "addv20": 680531071.0
+  },
+  {
+    "ticker": "LCID",
+    "gap_date": "2022-08-04",
+    "gap_pct": -12.3,
+    "open": 180.4,
+    "prev_close": 205.6,
+    "addv20": 311369202.0
+  },
+  {
+    "ticker": "APTV",
+    "gap_date": "2022-08-04",
+    "gap_pct": -8.0,
+    "open": 101,
+    "prev_close": 109.74,
+    "addv20": 174971581.0
+  },
+  {
+    "ticker": "BALL",
+    "gap_date": "2022-08-04",
+    "gap_pct": -8.1,
+    "open": 66.9,
+    "prev_close": 72.81,
+    "addv20": 121957680.0
+  },
+  {
+    "ticker": "CROX",
+    "gap_date": "2022-08-04",
+    "gap_pct": -10.6,
+    "open": 69.18,
+    "prev_close": 77.38,
+    "addv20": 108581060.0
+  },
+  {
+    "ticker": "RVLV",
+    "gap_date": "2022-08-04",
+    "gap_pct": -13.8,
+    "open": 26.67,
+    "prev_close": 30.94,
+    "addv20": 46288630.0
+  },
+  {
+    "ticker": "GH",
+    "gap_date": "2022-08-05",
+    "gap_pct": -7.9,
+    "open": 47.05,
+    "prev_close": 51.09,
+    "addv20": 47922675.0
+  },
+  {
+    "ticker": "DOCS",
+    "gap_date": "2022-08-05",
+    "gap_pct": -14.0,
+    "open": 34.65,
+    "prev_close": 40.31,
+    "addv20": 72892915.0
+  },
+  {
+    "ticker": "AMC",
+    "gap_date": "2022-08-05",
+    "gap_pct": -9.1,
+    "open": 169.7,
+    "prev_close": 186.6,
+    "addv20": 594371794.0
+  },
+  {
+    "ticker": "SPCE",
+    "gap_date": "2022-08-05",
+    "gap_pct": -17.6,
+    "open": 135,
+    "prev_close": 163.8,
+    "addv20": 44975413.0
+  },
+  {
+    "ticker": "WBD",
+    "gap_date": "2022-08-05",
+    "gap_pct": -16.5,
+    "open": 14.59,
+    "prev_close": 17.48,
+    "addv20": 287109071.0
+  },
+  {
+    "ticker": "TWLO",
+    "gap_date": "2022-08-05",
+    "gap_pct": -13.3,
+    "open": 85.09,
+    "prev_close": 98.19,
+    "addv20": 295734757.0
+  },
+  {
+    "ticker": "Z",
+    "gap_date": "2022-08-05",
+    "gap_pct": -9.7,
+    "open": 34,
+    "prev_close": 37.66,
+    "addv20": 107839064.0
+  },
+  {
+    "ticker": "PLTR",
+    "gap_date": "2022-08-08",
+    "gap_pct": -14.7,
+    "open": 9.77,
+    "prev_close": 11.45,
+    "addv20": 345859565.0
+  },
+  {
+    "ticker": "NCLH",
+    "gap_date": "2022-08-09",
+    "gap_pct": -7.9,
+    "open": 12.46,
+    "prev_close": 13.53,
+    "addv20": 234142529.0
+  },
+  {
+    "ticker": "TREX",
+    "gap_date": "2022-08-09",
+    "gap_pct": -12.7,
+    "open": 55.71,
+    "prev_close": 63.83,
+    "addv20": 59475546.0
+  },
+  {
+    "ticker": "AHCO",
+    "gap_date": "2022-08-09",
+    "gap_pct": -7.6,
+    "open": 23.76,
+    "prev_close": 25.72,
+    "addv20": 66384207.0
+  },
+  {
+    "ticker": "UPST",
+    "gap_date": "2022-08-09",
+    "gap_pct": -12.5,
+    "open": 28.24,
+    "prev_close": 32.27,
+    "addv20": 225153851.0
+  },
+  {
+    "ticker": "MQ",
+    "gap_date": "2022-08-11",
+    "gap_pct": -9.5,
+    "open": 10,
+    "prev_close": 11.05,
+    "addv20": 72915873.0
+  },
+  {
+    "ticker": "AAP",
+    "gap_date": "2022-08-24",
+    "gap_pct": -8.2,
+    "open": 182.79,
+    "prev_close": 199.05,
+    "addv20": 115516177.0
+  },
+  {
+    "ticker": "BURL",
+    "gap_date": "2022-08-25",
+    "gap_pct": -11.4,
+    "open": 145,
+    "prev_close": 163.73,
+    "addv20": 160248331.0
+  },
+  {
+    "ticker": "DLTR",
+    "gap_date": "2022-08-25",
+    "gap_pct": -10.2,
+    "open": 149.03,
+    "prev_close": 165.98,
+    "addv20": 277234700.0
+  },
+  {
+    "ticker": "CHWY",
+    "gap_date": "2022-08-31",
+    "gap_pct": -8.9,
+    "open": 34.08,
+    "prev_close": 37.39,
+    "addv20": 158867869.0
+  },
+  {
+    "ticker": "SMTC",
+    "gap_date": "2022-09-01",
+    "gap_pct": -24.2,
+    "open": 35.01,
+    "prev_close": 46.19,
+    "addv20": 47568521.0
+  },
+  {
+    "ticker": "OKTA",
+    "gap_date": "2022-09-01",
+    "gap_pct": -24.3,
+    "open": 69.16,
+    "prev_close": 91.4,
+    "addv20": 183625261.0
+  },
+  {
+    "ticker": "AEO",
+    "gap_date": "2022-09-08",
+    "gap_pct": -13.1,
+    "open": 10.07,
+    "prev_close": 11.59,
+    "addv20": 73660113.0
+  },
+  {
+    "ticker": "CCL",
+    "gap_date": "2022-09-30",
+    "gap_pct": -7.8,
+    "open": 8.45,
+    "prev_close": 9.16,
+    "addv20": 494468529.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2022-10-21",
+    "gap_pct": -28.1,
+    "open": 7.76,
+    "prev_close": 10.79,
+    "addv20": 367930051.0
+  },
+  {
+    "ticker": "ACI",
+    "gap_date": "2022-10-21",
+    "gap_pct": -24.9,
+    "open": 20.65,
+    "prev_close": 27.5,
+    "addv20": 216609057.0
+  },
+  {
+    "ticker": "MAS",
+    "gap_date": "2022-10-26",
+    "gap_pct": -12.4,
+    "open": 42.33,
+    "prev_close": 48.34,
+    "addv20": 89510151.0
+  },
+  {
+    "ticker": "MSFT",
+    "gap_date": "2022-10-26",
+    "gap_pct": -7.8,
+    "open": 231.17,
+    "prev_close": 250.66,
+    "addv20": 6795106410.0
+  },
+  {
+    "ticker": "GOOG",
+    "gap_date": "2022-10-26",
+    "gap_pct": -7.8,
+    "open": 96.76,
+    "prev_close": 104.93,
+    "addv20": 2335132983.0
+  },
+  {
+    "ticker": "GOOGL",
+    "gap_date": "2022-10-26",
+    "gap_pct": -7.7,
+    "open": 96.43,
+    "prev_close": 104.48,
+    "addv20": 2759843523.0
+  },
+  {
+    "ticker": "WOLF",
+    "gap_date": "2022-10-27",
+    "gap_pct": -23.6,
+    "open": 81.36,
+    "prev_close": 106.44,
+    "addv20": 249858715.0
+  },
+  {
+    "ticker": "INVH",
+    "gap_date": "2022-10-27",
+    "gap_pct": -10.3,
+    "open": 30.2,
+    "prev_close": 33.65,
+    "addv20": 138261620.0
+  },
+  {
+    "ticker": "SWK",
+    "gap_date": "2022-10-27",
+    "gap_pct": -8.7,
+    "open": 72.43,
+    "prev_close": 79.3,
+    "addv20": 147960192.0
+  },
+  {
+    "ticker": "META",
+    "gap_date": "2022-10-27",
+    "gap_pct": -24.5,
+    "open": 97.97,
+    "prev_close": 129.82,
+    "addv20": 4898045703.0
+  },
+  {
+    "ticker": "CRI",
+    "gap_date": "2022-10-28",
+    "gap_pct": -10.9,
+    "open": 65.56,
+    "prev_close": 73.56,
+    "addv20": 43073768.0
+  },
+  {
+    "ticker": "AMZN",
+    "gap_date": "2022-10-28",
+    "gap_pct": -11.8,
+    "open": 97.91,
+    "prev_close": 110.96,
+    "addv20": 6876213520.0
+  },
+  {
+    "ticker": "CSL",
+    "gap_date": "2022-10-28",
+    "gap_pct": -11.5,
+    "open": 250.46,
+    "prev_close": 282.98,
+    "addv20": 124686674.0
+  },
+  {
+    "ticker": "GT",
+    "gap_date": "2022-11-01",
+    "gap_pct": -9.8,
+    "open": 11.46,
+    "prev_close": 12.7,
+    "addv20": 44819457.0
+  },
+  {
+    "ticker": "CTSH",
+    "gap_date": "2022-11-03",
+    "gap_pct": -13.5,
+    "open": 52.11,
+    "prev_close": 60.26,
+    "addv20": 211429201.0
+  },
+  {
+    "ticker": "LUMN",
+    "gap_date": "2022-11-03",
+    "gap_pct": -16.0,
+    "open": 5.92,
+    "prev_close": 7.05,
+    "addv20": 134048589.0
+  },
+  {
+    "ticker": "MUR",
+    "gap_date": "2022-11-03",
+    "gap_pct": -9.1,
+    "open": 44.02,
+    "prev_close": 48.41,
+    "addv20": 63374104.0
+  },
+  {
+    "ticker": "LNC",
+    "gap_date": "2022-11-03",
+    "gap_pct": -24.2,
+    "open": 39.48,
+    "prev_close": 52.1,
+    "addv20": 75866668.0
+  },
+  {
+    "ticker": "PTON",
+    "gap_date": "2022-11-03",
+    "gap_pct": -13.7,
+    "open": 7.45,
+    "prev_close": 8.63,
+    "addv20": 126402861.0
+  },
+  {
+    "ticker": "QLYS",
+    "gap_date": "2022-11-03",
+    "gap_pct": -10.6,
+    "open": 119.67,
+    "prev_close": 133.82,
+    "addv20": 54269446.0
+  },
+  {
+    "ticker": "WMS",
+    "gap_date": "2022-11-03",
+    "gap_pct": -16.9,
+    "open": 94.26,
+    "prev_close": 113.45,
+    "addv20": 75357716.0
+  },
+  {
+    "ticker": "ROKU",
+    "gap_date": "2022-11-03",
+    "gap_pct": -17.6,
+    "open": 44.74,
+    "prev_close": 54.32,
+    "addv20": 463047454.0
+  },
+  {
+    "ticker": "TWLO",
+    "gap_date": "2022-11-04",
+    "gap_pct": -26.0,
+    "open": 48.35,
+    "prev_close": 65.36,
+    "addv20": 257139616.0
+  },
+  {
+    "ticker": "DKNG",
+    "gap_date": "2022-11-04",
+    "gap_pct": -15.4,
+    "open": 13.25,
+    "prev_close": 15.67,
+    "addv20": 322927464.0
+  },
+  {
+    "ticker": "TEAM",
+    "gap_date": "2022-11-04",
+    "gap_pct": -24.8,
+    "open": 131,
+    "prev_close": 174.17,
+    "addv20": 384536386.0
+  },
+  {
+    "ticker": "CVNA",
+    "gap_date": "2022-11-04",
+    "gap_pct": -9.1,
+    "open": 13.04,
+    "prev_close": 14.35,
+    "addv20": 204527662.0
+  },
+  {
+    "ticker": "TRIP",
+    "gap_date": "2022-11-08",
+    "gap_pct": -22.6,
+    "open": 18.41,
+    "prev_close": 23.8,
+    "addv20": 48995692.0
+  },
+  {
+    "ticker": "LYFT",
+    "gap_date": "2022-11-08",
+    "gap_pct": -15.6,
+    "open": 11.94,
+    "prev_close": 14.14,
+    "addv20": 197353394.0
+  },
+  {
+    "ticker": "LITE",
+    "gap_date": "2022-11-08",
+    "gap_pct": -13.3,
+    "open": 61,
+    "prev_close": 70.38,
+    "addv20": 58742364.0
+  },
+  {
+    "ticker": "TTWO",
+    "gap_date": "2022-11-08",
+    "gap_pct": -15.2,
+    "open": 91.9,
+    "prev_close": 108.4,
+    "addv20": 205089818.0
+  },
+  {
+    "ticker": "CLVT",
+    "gap_date": "2022-11-08",
+    "gap_pct": -18.0,
+    "open": 8.15,
+    "prev_close": 9.94,
+    "addv20": 67360025.0
+  },
+  {
+    "ticker": "DOCN",
+    "gap_date": "2022-11-08",
+    "gap_pct": -10.7,
+    "open": 26.25,
+    "prev_close": 29.4,
+    "addv20": 48387368.0
+  },
+  {
+    "ticker": "RBLX",
+    "gap_date": "2022-11-09",
+    "gap_pct": -9.8,
+    "open": 35.31,
+    "prev_close": 39.14,
+    "addv20": 803350954.0
+  },
+  {
+    "ticker": "NWSA",
+    "gap_date": "2022-11-09",
+    "gap_pct": -11.9,
+    "open": 15.05,
+    "prev_close": 17.09,
+    "addv20": 60064993.0
+  },
+  {
+    "ticker": "AFRM",
+    "gap_date": "2022-11-09",
+    "gap_pct": -14.7,
+    "open": 13.35,
+    "prev_close": 15.64,
+    "addv20": 222792491.0
+  },
+  {
+    "ticker": "UPST",
+    "gap_date": "2022-11-09",
+    "gap_pct": -20.2,
+    "open": 15.2,
+    "prev_close": 19.04,
+    "addv20": 141655761.0
+  },
+  {
+    "ticker": "DAR",
+    "gap_date": "2022-11-09",
+    "gap_pct": -8.4,
+    "open": 74.73,
+    "prev_close": 81.56,
+    "addv20": 110944472.0
+  },
+  {
+    "ticker": "XRAY",
+    "gap_date": "2022-11-14",
+    "gap_pct": -8.6,
+    "open": 29.29,
+    "prev_close": 32.05,
+    "addv20": 76618006.0
+  },
+  {
+    "ticker": "AAP",
+    "gap_date": "2022-11-16",
+    "gap_pct": -15.7,
+    "open": 155,
+    "prev_close": 183.94,
+    "addv20": 150013716.0
+  },
+  {
+    "ticker": "CRWD",
+    "gap_date": "2022-11-30",
+    "gap_pct": -18.6,
+    "open": 112.29,
+    "prev_close": 138,
+    "addv20": 587792279.0
+  },
+  {
+    "ticker": "CRM",
+    "gap_date": "2022-12-01",
+    "gap_pct": -7.9,
+    "open": 147.55,
+    "prev_close": 160.25,
+    "addv20": 1166007847.0
+  },
+  {
+    "ticker": "ASAN",
+    "gap_date": "2022-12-02",
+    "gap_pct": -12.6,
+    "open": 15.8,
+    "prev_close": 18.08,
+    "addv20": 67874788.0
+  },
+  {
+    "ticker": "LULU",
+    "gap_date": "2022-12-09",
+    "gap_pct": -8.1,
+    "open": 344.13,
+    "prev_close": 374.51,
+    "addv20": 514384100.0
+  },
+  {
+    "ticker": "WMS",
+    "gap_date": "2023-02-02",
+    "gap_pct": -14.0,
+    "open": 89.54,
+    "prev_close": 104.1,
+    "addv20": 66398160.0
+  },
+  {
+    "ticker": "BILL",
+    "gap_date": "2023-02-03",
+    "gap_pct": -24.2,
+    "open": 97.74,
+    "prev_close": 128.91,
+    "addv20": 243434199.0
+  },
+  {
+    "ticker": "SYNA",
+    "gap_date": "2023-02-03",
+    "gap_pct": -9.9,
+    "open": 126,
+    "prev_close": 139.84,
+    "addv20": 54119038.0
+  },
+  {
+    "ticker": "TEAM",
+    "gap_date": "2023-02-03",
+    "gap_pct": -12.6,
+    "open": 159.34,
+    "prev_close": 182.41,
+    "addv20": 404787127.0
+  },
+  {
+    "ticker": "CPRI",
+    "gap_date": "2023-02-08",
+    "gap_pct": -20.3,
+    "open": 52.87,
+    "prev_close": 66.36,
+    "addv20": 88671738.0
+  },
+  {
+    "ticker": "AFRM",
+    "gap_date": "2023-02-09",
+    "gap_pct": -15.4,
+    "open": 13.55,
+    "prev_close": 16.02,
+    "addv20": 346529769.0
+  },
+  {
+    "ticker": "AZTA",
+    "gap_date": "2023-02-09",
+    "gap_pct": -8.4,
+    "open": 51.5,
+    "prev_close": 56.22,
+    "addv20": 44741237.0
+  },
+  {
+    "ticker": "WMG",
+    "gap_date": "2023-02-09",
+    "gap_pct": -11.5,
+    "open": 32.45,
+    "prev_close": 36.66,
+    "addv20": 55581343.0
+  },
+  {
+    "ticker": "AYI",
+    "gap_date": "2023-04-04",
+    "gap_pct": -7.7,
+    "open": 169.28,
+    "prev_close": 183.33,
+    "addv20": 60341325.0
+  },
+  {
+    "ticker": "ENPH",
+    "gap_date": "2023-04-26",
+    "gap_pct": -19.0,
+    "open": 178.63,
+    "prev_close": 220.6,
+    "addv20": 667717809.0
+  },
+  {
+    "ticker": "WOLF",
+    "gap_date": "2023-04-27",
+    "gap_pct": -11.7,
+    "open": 50.7,
+    "prev_close": 57.4,
+    "addv20": 126595526.0
+  },
+  {
+    "ticker": "CROX",
+    "gap_date": "2023-04-27",
+    "gap_pct": -8.1,
+    "open": 135.8,
+    "prev_close": 147.78,
+    "addv20": 190997647.0
+  },
+  {
+    "ticker": "PI",
+    "gap_date": "2023-04-27",
+    "gap_pct": -33.3,
+    "open": 90.21,
+    "prev_close": 135.32,
+    "addv20": 56200174.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2023-04-28",
+    "gap_pct": -17.9,
+    "open": 8.62,
+    "prev_close": 10.5,
+    "addv20": 279317136.0
+  },
+  {
+    "ticker": "FSLR",
+    "gap_date": "2023-04-28",
+    "gap_pct": -8.0,
+    "open": 184.68,
+    "prev_close": 200.83,
+    "addv20": 400539179.0
+  },
+  {
+    "ticker": "NET",
+    "gap_date": "2023-04-28",
+    "gap_pct": -25.5,
+    "open": 44.41,
+    "prev_close": 59.58,
+    "addv20": 245166575.0
+  },
+  {
+    "ticker": "PINS",
+    "gap_date": "2023-04-28",
+    "gap_pct": -10.2,
+    "open": 24.5,
+    "prev_close": 27.27,
+    "addv20": 248504755.0
+  },
+  {
+    "ticker": "ANET",
+    "gap_date": "2023-05-02",
+    "gap_pct": -9.3,
+    "open": 36.33,
+    "prev_close": 40.04,
+    "addv20": 357091146.0
+  },
+  {
+    "ticker": "CHGG",
+    "gap_date": "2023-05-02",
+    "gap_pct": -47.4,
+    "open": 9.25,
+    "prev_close": 17.6,
+    "addv20": 55507354.0
+  },
+  {
+    "ticker": "ZBRA",
+    "gap_date": "2023-05-02",
+    "gap_pct": -12.5,
+    "open": 251.44,
+    "prev_close": 287.45,
+    "addv20": 67168560.0
+  },
+  {
+    "ticker": "EL",
+    "gap_date": "2023-05-03",
+    "gap_pct": -20.9,
+    "open": 194.09,
+    "prev_close": 245.22,
+    "addv20": 329974541.0
+  },
+  {
+    "ticker": "SPT",
+    "gap_date": "2023-05-03",
+    "gap_pct": -23.4,
+    "open": 37,
+    "prev_close": 48.32,
+    "addv20": 47192927.0
+  },
+  {
+    "ticker": "NVST",
+    "gap_date": "2023-05-04",
+    "gap_pct": -13.5,
+    "open": 32.56,
+    "prev_close": 37.64,
+    "addv20": 61894142.0
+  },
+  {
+    "ticker": "KEY",
+    "gap_date": "2023-05-04",
+    "gap_pct": -7.9,
+    "open": 8.78,
+    "prev_close": 9.53,
+    "addv20": 314089259.0
+  },
+  {
+    "ticker": "QCOM",
+    "gap_date": "2023-05-04",
+    "gap_pct": -7.8,
+    "open": 104.03,
+    "prev_close": 112.83,
+    "addv20": 710304683.0
+  },
+  {
+    "ticker": "SYNA",
+    "gap_date": "2023-05-04",
+    "gap_pct": -21.5,
+    "open": 69.7,
+    "prev_close": 88.77,
+    "addv20": 46139529.0
+  },
+  {
+    "ticker": "PTON",
+    "gap_date": "2023-05-04",
+    "gap_pct": -13.6,
+    "open": 7.62,
+    "prev_close": 8.83,
+    "addv20": 72834777.0
+  },
+  {
+    "ticker": "MPWR",
+    "gap_date": "2023-05-05",
+    "gap_pct": -11.7,
+    "open": 405.05,
+    "prev_close": 458.93,
+    "addv20": 183579676.0
+  },
+  {
+    "ticker": "BIO",
+    "gap_date": "2023-05-05",
+    "gap_pct": -13.5,
+    "open": 400,
+    "prev_close": 462.61,
+    "addv20": 58116668.0
+  },
+  {
+    "ticker": "TEAM",
+    "gap_date": "2023-05-05",
+    "gap_pct": -10.4,
+    "open": 134.5,
+    "prev_close": 150.05,
+    "addv20": 258410360.0
+  },
+  {
+    "ticker": "TSN",
+    "gap_date": "2023-05-08",
+    "gap_pct": -10.3,
+    "open": 54.42,
+    "prev_close": 60.69,
+    "addv20": 150245789.0
+  },
+  {
+    "ticker": "LCID",
+    "gap_date": "2023-05-09",
+    "gap_pct": -10.4,
+    "open": 69.1,
+    "prev_close": 77.1,
+    "addv20": 137036498.0
+  },
+  {
+    "ticker": "WAT",
+    "gap_date": "2023-05-09",
+    "gap_pct": -9.6,
+    "open": 268.06,
+    "prev_close": 296.5,
+    "addv20": 144803921.0
+  },
+  {
+    "ticker": "HIMS",
+    "gap_date": "2023-05-09",
+    "gap_pct": -9.1,
+    "open": 10.78,
+    "prev_close": 11.85,
+    "addv20": 43542713.0
+  },
+  {
+    "ticker": "SWKS",
+    "gap_date": "2023-05-09",
+    "gap_pct": -12.5,
+    "open": 92.08,
+    "prev_close": 105.24,
+    "addv20": 192689907.0
+  },
+  {
+    "ticker": "PYPL",
+    "gap_date": "2023-05-09",
+    "gap_pct": -7.9,
+    "open": 69.53,
+    "prev_close": 75.52,
+    "addv20": 784167467.0
+  },
+  {
+    "ticker": "COHR",
+    "gap_date": "2023-05-10",
+    "gap_pct": -15.4,
+    "open": 26.98,
+    "prev_close": 31.9,
+    "addv20": 42104077.0
+  },
+  {
+    "ticker": "ABNB",
+    "gap_date": "2023-05-10",
+    "gap_pct": -13.6,
+    "open": 109.85,
+    "prev_close": 127.07,
+    "addv20": 648548458.0
+  },
+  {
+    "ticker": "IEP",
+    "gap_date": "2023-05-10",
+    "gap_pct": -10.6,
+    "open": 33.94,
+    "prev_close": 37.97,
+    "addv20": 126206066.0
+  },
+  {
+    "ticker": "TWLO",
+    "gap_date": "2023-05-10",
+    "gap_pct": -18.1,
+    "open": 45.88,
+    "prev_close": 56,
+    "addv20": 188650544.0
+  },
+  {
+    "ticker": "BE",
+    "gap_date": "2023-05-11",
+    "gap_pct": -8.6,
+    "open": 13.9,
+    "prev_close": 15.2,
+    "addv20": 54461487.0
+  },
+  {
+    "ticker": "FLO",
+    "gap_date": "2023-05-19",
+    "gap_pct": -7.8,
+    "open": 26.58,
+    "prev_close": 28.84,
+    "addv20": 42570670.0
+  },
+  {
+    "ticker": "ADI",
+    "gap_date": "2023-05-24",
+    "gap_pct": -8.7,
+    "open": 171.5,
+    "prev_close": 187.92,
+    "addv20": 526135229.0
+  },
+  {
+    "ticker": "DLTR",
+    "gap_date": "2023-05-25",
+    "gap_pct": -13.3,
+    "open": 134.74,
+    "prev_close": 155.35,
+    "addv20": 237664256.0
+  },
+  {
+    "ticker": "AEO",
+    "gap_date": "2023-05-25",
+    "gap_pct": -16.4,
+    "open": 10.09,
+    "prev_close": 12.07,
+    "addv20": 57685086.0
+  },
+  {
+    "ticker": "ULTA",
+    "gap_date": "2023-05-26",
+    "gap_pct": -10.1,
+    "open": 436.11,
+    "prev_close": 485.12,
+    "addv20": 427794003.0
+  },
+  {
+    "ticker": "CRWD",
+    "gap_date": "2023-06-01",
+    "gap_pct": -8.4,
+    "open": 146.72,
+    "prev_close": 160.13,
+    "addv20": 579349829.0
+  },
+  {
+    "ticker": "DG",
+    "gap_date": "2023-06-01",
+    "gap_pct": -11.0,
+    "open": 178.92,
+    "prev_close": 201.09,
+    "addv20": 414671663.0
+  },
+  {
+    "ticker": "OKTA",
+    "gap_date": "2023-06-01",
+    "gap_pct": -18.4,
+    "open": 74.14,
+    "prev_close": 90.9,
+    "addv20": 176670282.0
+  },
+  {
+    "ticker": "GWRE",
+    "gap_date": "2023-06-02",
+    "gap_pct": -7.7,
+    "open": 76.5,
+    "prev_close": 82.84,
+    "addv20": 41482139.0
+  },
+  {
+    "ticker": "S",
+    "gap_date": "2023-06-02",
+    "gap_pct": -36.3,
+    "open": 13.2,
+    "prev_close": 20.72,
+    "addv20": 125498341.0
+  },
+  {
+    "ticker": "GME",
+    "gap_date": "2023-06-08",
+    "gap_pct": -22.3,
+    "open": 20.3,
+    "prev_close": 26.11,
+    "addv20": 96417529.0
+  },
+  {
+    "ticker": "SIG",
+    "gap_date": "2023-06-08",
+    "gap_pct": -12.1,
+    "open": 61.11,
+    "prev_close": 69.52,
+    "addv20": 67593001.0
+  },
+  {
+    "ticker": "CHPT",
+    "gap_date": "2023-06-09",
+    "gap_pct": -7.7,
+    "open": 177.4,
+    "prev_close": 192.2,
+    "addv20": 91967570.0
+  },
+  {
+    "ticker": "OMC",
+    "gap_date": "2023-07-19",
+    "gap_pct": -9.4,
+    "open": 88.72,
+    "prev_close": 97.92,
+    "addv20": 136478319.0
+  },
+  {
+    "ticker": "IRDM",
+    "gap_date": "2023-07-25",
+    "gap_pct": -7.7,
+    "open": 55.32,
+    "prev_close": 59.96,
+    "addv20": 40719947.0
+  },
+  {
+    "ticker": "RTX",
+    "gap_date": "2023-07-25",
+    "gap_pct": -11.5,
+    "open": 85.86,
+    "prev_close": 97.01,
+    "addv20": 391146039.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2023-07-26",
+    "gap_pct": -17.2,
+    "open": 10.36,
+    "prev_close": 12.51,
+    "addv20": 364165795.0
+  },
+  {
+    "ticker": "MXL",
+    "gap_date": "2023-07-27",
+    "gap_pct": -11.2,
+    "open": 26.29,
+    "prev_close": 29.61,
+    "addv20": 48161312.0
+  },
+  {
+    "ticker": "GGG",
+    "gap_date": "2023-07-27",
+    "gap_pct": -9.9,
+    "open": 78.16,
+    "prev_close": 86.76,
+    "addv20": 61565359.0
+  },
+  {
+    "ticker": "MC",
+    "gap_date": "2023-07-27",
+    "gap_pct": -11.6,
+    "open": 45.98,
+    "prev_close": 52.01,
+    "addv20": 41769513.0
+  },
+  {
+    "ticker": "CROX",
+    "gap_date": "2023-07-27",
+    "gap_pct": -7.9,
+    "open": 110.38,
+    "prev_close": 119.8,
+    "addv20": 179505279.0
+  },
+  {
+    "ticker": "AVTR",
+    "gap_date": "2023-07-28",
+    "gap_pct": -8.0,
+    "open": 21.01,
+    "prev_close": 22.83,
+    "addv20": 115019264.0
+  },
+  {
+    "ticker": "ENPH",
+    "gap_date": "2023-07-28",
+    "gap_pct": -10.1,
+    "open": 150,
+    "prev_close": 166.8,
+    "addv20": 697226601.0
+  },
+  {
+    "ticker": "HOLX",
+    "gap_date": "2023-08-01",
+    "gap_pct": -8.3,
+    "open": 72.86,
+    "prev_close": 79.42,
+    "addv20": 132781767.0
+  },
+  {
+    "ticker": "ROK",
+    "gap_date": "2023-08-01",
+    "gap_pct": -10.2,
+    "open": 302,
+    "prev_close": 336.29,
+    "addv20": 205699898.0
+  },
+  {
+    "ticker": "DV",
+    "gap_date": "2023-08-01",
+    "gap_pct": -12.1,
+    "open": 37,
+    "prev_close": 42.1,
+    "addv20": 47202484.0
+  },
+  {
+    "ticker": "ZBRA",
+    "gap_date": "2023-08-01",
+    "gap_pct": -20.4,
+    "open": 245.02,
+    "prev_close": 307.96,
+    "addv20": 101141109.0
+  },
+  {
+    "ticker": "LPX",
+    "gap_date": "2023-08-02",
+    "gap_pct": -10.2,
+    "open": 68.66,
+    "prev_close": 76.44,
+    "addv20": 70128751.0
+  },
+  {
+    "ticker": "SHLS",
+    "gap_date": "2023-08-02",
+    "gap_pct": -9.4,
+    "open": 23.66,
+    "prev_close": 26.11,
+    "addv20": 53902693.0
+  },
+  {
+    "ticker": "DT",
+    "gap_date": "2023-08-02",
+    "gap_pct": -11.9,
+    "open": 48.62,
+    "prev_close": 55.19,
+    "addv20": 136508209.0
+  },
+  {
+    "ticker": "CG",
+    "gap_date": "2023-08-02",
+    "gap_pct": -9.4,
+    "open": 32.1,
+    "prev_close": 35.45,
+    "addv20": 79552737.0
+  },
+  {
+    "ticker": "CMI",
+    "gap_date": "2023-08-03",
+    "gap_pct": -9.6,
+    "open": 237.14,
+    "prev_close": 262.22,
+    "addv20": 231846285.0
+  },
+  {
+    "ticker": "DXC",
+    "gap_date": "2023-08-03",
+    "gap_pct": -23.5,
+    "open": 20.7,
+    "prev_close": 27.07,
+    "addv20": 43618117.0
+  },
+  {
+    "ticker": "TKR",
+    "gap_date": "2023-08-03",
+    "gap_pct": -12.8,
+    "open": 79.7,
+    "prev_close": 91.35,
+    "addv20": 50195636.0
+  },
+  {
+    "ticker": "ETSY",
+    "gap_date": "2023-08-03",
+    "gap_pct": -9.2,
+    "open": 87.2,
+    "prev_close": 96.07,
+    "addv20": 273183105.0
+  },
+  {
+    "ticker": "EXPE",
+    "gap_date": "2023-08-03",
+    "gap_pct": -9.9,
+    "open": 106.29,
+    "prev_close": 118,
+    "addv20": 230833277.0
+  },
+  {
+    "ticker": "GT",
+    "gap_date": "2023-08-03",
+    "gap_pct": -12.7,
+    "open": 13.77,
+    "prev_close": 15.76,
+    "addv20": 65601378.0
+  },
+  {
+    "ticker": "QCOM",
+    "gap_date": "2023-08-03",
+    "gap_pct": -9.5,
+    "open": 116.97,
+    "prev_close": 129.27,
+    "addv20": 1087340932.0
+  },
+  {
+    "ticker": "PYPL",
+    "gap_date": "2023-08-03",
+    "gap_pct": -8.9,
+    "open": 66.7,
+    "prev_close": 73.2,
+    "addv20": 1022956068.0
+  },
+  {
+    "ticker": "HOOD",
+    "gap_date": "2023-08-03",
+    "gap_pct": -8.5,
+    "open": 11.38,
+    "prev_close": 12.44,
+    "addv20": 155399648.0
+  },
+  {
+    "ticker": "OPEN",
+    "gap_date": "2023-08-04",
+    "gap_pct": -12.6,
+    "open": 4.06,
+    "prev_close": 4.65,
+    "addv20": 98805604.0
+  },
+  {
+    "ticker": "MTZ",
+    "gap_date": "2023-08-04",
+    "gap_pct": -13.3,
+    "open": 104.9,
+    "prev_close": 120.96,
+    "addv20": 76950242.0
+  },
+  {
+    "ticker": "IEP",
+    "gap_date": "2023-08-04",
+    "gap_pct": -34.2,
+    "open": 21.5,
+    "prev_close": 32.68,
+    "addv20": 40913071.0
+  },
+  {
+    "ticker": "RNG",
+    "gap_date": "2023-08-08",
+    "gap_pct": -11.0,
+    "open": 34.69,
+    "prev_close": 38.98,
+    "addv20": 55173977.0
+  },
+  {
+    "ticker": "FIVN",
+    "gap_date": "2023-08-08",
+    "gap_pct": -9.1,
+    "open": 74.25,
+    "prev_close": 81.66,
+    "addv20": 91766323.0
+  },
+  {
+    "ticker": "TDW",
+    "gap_date": "2023-08-08",
+    "gap_pct": -8.3,
+    "open": 57.3,
+    "prev_close": 62.48,
+    "addv20": 54188606.0
+  },
+  {
+    "ticker": "RBLX",
+    "gap_date": "2023-08-09",
+    "gap_pct": -14.0,
+    "open": 32.44,
+    "prev_close": 37.74,
+    "addv20": 343157261.0
+  },
+  {
+    "ticker": "DOCS",
+    "gap_date": "2023-08-09",
+    "gap_pct": -22.0,
+    "open": 25.59,
+    "prev_close": 32.79,
+    "addv20": 47453530.0
+  },
+  {
+    "ticker": "UPST",
+    "gap_date": "2023-08-09",
+    "gap_pct": -17.3,
+    "open": 42.78,
+    "prev_close": 51.75,
+    "addv20": 747916683.0
+  },
+  {
+    "ticker": "PLUG",
+    "gap_date": "2023-08-10",
+    "gap_pct": -13.2,
+    "open": 9.33,
+    "prev_close": 10.75,
+    "addv20": 296755930.0
+  },
+  {
+    "ticker": "DLTR",
+    "gap_date": "2023-08-24",
+    "gap_pct": -7.9,
+    "open": 131,
+    "prev_close": 142.22,
+    "addv20": 226600606.0
+  },
+  {
+    "ticker": "CHWY",
+    "gap_date": "2023-08-31",
+    "gap_pct": -8.5,
+    "open": 25,
+    "prev_close": 27.33,
+    "addv20": 132005874.0
+  },
+  {
+    "ticker": "DG",
+    "gap_date": "2023-08-31",
+    "gap_pct": -18.4,
+    "open": 128.62,
+    "prev_close": 157.66,
+    "addv20": 332689104.0
+  },
+  {
+    "ticker": "ASAN",
+    "gap_date": "2023-09-06",
+    "gap_pct": -9.1,
+    "open": 19.67,
+    "prev_close": 21.64,
+    "addv20": 43574571.0
+  },
+  {
+    "ticker": "AI",
+    "gap_date": "2023-09-07",
+    "gap_pct": -11.2,
+    "open": 27.94,
+    "prev_close": 31.46,
+    "addv20": 348382299.0
+  },
+  {
+    "ticker": "RH",
+    "gap_date": "2023-09-08",
+    "gap_pct": -8.8,
+    "open": 336,
+    "prev_close": 368.55,
+    "addv20": 239656674.0
+  },
+  {
+    "ticker": "ORCL",
+    "gap_date": "2023-09-12",
+    "gap_pct": -11.5,
+    "open": 112.08,
+    "prev_close": 126.71,
+    "addv20": 1129622483.0
+  },
+  {
+    "ticker": "TRU",
+    "gap_date": "2023-10-24",
+    "gap_pct": -14.4,
+    "open": 55.54,
+    "prev_close": 64.85,
+    "addv20": 97517342.0
+  },
+  {
+    "ticker": "CSGP",
+    "gap_date": "2023-10-25",
+    "gap_pct": -8.3,
+    "open": 68,
+    "prev_close": 74.17,
+    "addv20": 139250549.0
+  },
+  {
+    "ticker": "OC",
+    "gap_date": "2023-10-25",
+    "gap_pct": -10.1,
+    "open": 110.91,
+    "prev_close": 123.35,
+    "addv20": 98969083.0
+  },
+  {
+    "ticker": "GOOGL",
+    "gap_date": "2023-10-25",
+    "gap_pct": -7.7,
+    "open": 128.16,
+    "prev_close": 138.81,
+    "addv20": 3516488552.0
+  },
+  {
+    "ticker": "MOH",
+    "gap_date": "2023-10-26",
+    "gap_pct": -9.3,
+    "open": 305.21,
+    "prev_close": 336.45,
+    "addv20": 130746571.0
+  },
+  {
+    "ticker": "ENPH",
+    "gap_date": "2023-10-27",
+    "gap_pct": -14.5,
+    "open": 82.19,
+    "prev_close": 96.18,
+    "addv20": 537876935.0
+  },
+  {
+    "ticker": "CHTR",
+    "gap_date": "2023-10-27",
+    "gap_pct": -9.4,
+    "open": 373.01,
+    "prev_close": 411.71,
+    "addv20": 381221391.0
+  },
+  {
+    "ticker": "ON",
+    "gap_date": "2023-10-30",
+    "gap_pct": -12.2,
+    "open": 73.29,
+    "prev_close": 83.52,
+    "addv20": 495670727.0
+  },
+  {
+    "ticker": "LSCC",
+    "gap_date": "2023-10-31",
+    "gap_pct": -14.9,
+    "open": 57.26,
+    "prev_close": 67.29,
+    "addv20": 160972704.0
+  },
+  {
+    "ticker": "JBLU",
+    "gap_date": "2023-10-31",
+    "gap_pct": -8.6,
+    "open": 3.84,
+    "prev_close": 4.2,
+    "addv20": 60744950.0
+  },
+  {
+    "ticker": "SLAB",
+    "gap_date": "2023-11-01",
+    "gap_pct": -18.5,
+    "open": 75.1,
+    "prev_close": 92.18,
+    "addv20": 42255851.0
+  },
+  {
+    "ticker": "EL",
+    "gap_date": "2023-11-01",
+    "gap_pct": -15.2,
+    "open": 109.28,
+    "prev_close": 128.87,
+    "addv20": 273697456.0
+  },
+  {
+    "ticker": "NVST",
+    "gap_date": "2023-11-02",
+    "gap_pct": -11.9,
+    "open": 20.25,
+    "prev_close": 22.99,
+    "addv20": 61748611.0
+  },
+  {
+    "ticker": "WSC",
+    "gap_date": "2023-11-02",
+    "gap_pct": -10.0,
+    "open": 35,
+    "prev_close": 38.87,
+    "addv20": 56471675.0
+  },
+  {
+    "ticker": "APTV",
+    "gap_date": "2023-11-02",
+    "gap_pct": -9.1,
+    "open": 78.26,
+    "prev_close": 86.08,
+    "addv20": 169685889.0
+  },
+  {
+    "ticker": "BWA",
+    "gap_date": "2023-11-02",
+    "gap_pct": -11.0,
+    "open": 33.02,
+    "prev_close": 37.11,
+    "addv20": 74425140.0
+  },
+  {
+    "ticker": "XRAY",
+    "gap_date": "2023-11-02",
+    "gap_pct": -12.5,
+    "open": 26.98,
+    "prev_close": 30.84,
+    "addv20": 103312504.0
+  },
+  {
+    "ticker": "CFLT",
+    "gap_date": "2023-11-02",
+    "gap_pct": -43.3,
+    "open": 15.95,
+    "prev_close": 28.13,
+    "addv20": 96911269.0
+  },
+  {
+    "ticker": "CROX",
+    "gap_date": "2023-11-02",
+    "gap_pct": -15.1,
+    "open": 74.2,
+    "prev_close": 87.41,
+    "addv20": 111626848.0
+  },
+  {
+    "ticker": "RELY",
+    "gap_date": "2023-11-02",
+    "gap_pct": -29.0,
+    "open": 19.6,
+    "prev_close": 27.59,
+    "addv20": 43201009.0
+  },
+  {
+    "ticker": "PCOR",
+    "gap_date": "2023-11-02",
+    "gap_pct": -17.4,
+    "open": 49.7,
+    "prev_close": 60.17,
+    "addv20": 64674462.0
+  },
+  {
+    "ticker": "BILL",
+    "gap_date": "2023-11-03",
+    "gap_pct": -28.4,
+    "open": 64.05,
+    "prev_close": 89.47,
+    "addv20": 208456570.0
+  },
+  {
+    "ticker": "PCTY",
+    "gap_date": "2023-11-03",
+    "gap_pct": -8.9,
+    "open": 156.62,
+    "prev_close": 171.86,
+    "addv20": 77420082.0
+  },
+  {
+    "ticker": "TOST",
+    "gap_date": "2023-11-08",
+    "gap_pct": -17.1,
+    "open": 14.3,
+    "prev_close": 17.25,
+    "addv20": 141193949.0
+  },
+  {
+    "ticker": "WBD",
+    "gap_date": "2023-11-08",
+    "gap_pct": -12.2,
+    "open": 10.19,
+    "prev_close": 11.61,
+    "addv20": 200200139.0
+  },
+  {
+    "ticker": "ARRY",
+    "gap_date": "2023-11-08",
+    "gap_pct": -13.6,
+    "open": 15.74,
+    "prev_close": 18.22,
+    "addv20": 100468402.0
+  },
+  {
+    "ticker": "UPST",
+    "gap_date": "2023-11-08",
+    "gap_pct": -27.6,
+    "open": 21.28,
+    "prev_close": 29.41,
+    "addv20": 131942263.0
+  },
+  {
+    "ticker": "EBAY",
+    "gap_date": "2023-11-08",
+    "gap_pct": -8.6,
+    "open": 37.28,
+    "prev_close": 40.77,
+    "addv20": 229224539.0
+  },
+  {
+    "ticker": "HOOD",
+    "gap_date": "2023-11-08",
+    "gap_pct": -10.0,
+    "open": 8.79,
+    "prev_close": 9.76,
+    "addv20": 54789932.0
+  },
+  {
+    "ticker": "AMC",
+    "gap_date": "2023-11-09",
+    "gap_pct": -18.9,
+    "open": 8.18,
+    "prev_close": 10.09,
+    "addv20": 182758780.0
+  },
+  {
+    "ticker": "PLUG",
+    "gap_date": "2023-11-10",
+    "gap_pct": -37.6,
+    "open": 3.7,
+    "prev_close": 5.93,
+    "addv20": 154259228.0
+  },
+  {
+    "ticker": "U",
+    "gap_date": "2023-11-10",
+    "gap_pct": -11.3,
+    "open": 22.4,
+    "prev_close": 25.24,
+    "addv20": 268621390.0
+  },
+  {
+    "ticker": "TTD",
+    "gap_date": "2023-11-10",
+    "gap_pct": -19.7,
+    "open": 61.66,
+    "prev_close": 76.81,
+    "addv20": 341484955.0
+  },
+  {
+    "ticker": "TKO",
+    "gap_date": "2023-11-10",
+    "gap_pct": -9.0,
+    "open": 77.24,
+    "prev_close": 84.9,
+    "addv20": 72599302.0
+  },
+  {
+    "ticker": "AEO",
+    "gap_date": "2023-11-21",
+    "gap_pct": -17.7,
+    "open": 16.25,
+    "prev_close": 19.75,
+    "addv20": 82299982.0
+  },
+  {
+    "ticker": "ASO",
+    "gap_date": "2023-11-30",
+    "gap_pct": -9.5,
+    "open": 45.74,
+    "prev_close": 50.54,
+    "addv20": 73100797.0
+  },
+  {
+    "ticker": "ASAN",
+    "gap_date": "2023-12-06",
+    "gap_pct": -17.4,
+    "open": 19.25,
+    "prev_close": 23.31,
+    "addv20": 41606430.0
+  },
+  {
+    "ticker": "AI",
+    "gap_date": "2023-12-07",
+    "gap_pct": -9.1,
+    "open": 26.51,
+    "prev_close": 29.16,
+    "addv20": 268414221.0
+  },
+  {
+    "ticker": "GME",
+    "gap_date": "2023-12-07",
+    "gap_pct": -7.6,
+    "open": 13.71,
+    "prev_close": 14.84,
+    "addv20": 145224506.0
+  },
+  {
+    "ticker": "CHWY",
+    "gap_date": "2023-12-07",
+    "gap_pct": -12.0,
+    "open": 17.02,
+    "prev_close": 19.35,
+    "addv20": 158474443.0
+  },
+  {
+    "ticker": "RH",
+    "gap_date": "2023-12-08",
+    "gap_pct": -10.4,
+    "open": 252.1,
+    "prev_close": 281.4,
+    "addv20": 153903659.0
+  },
+  {
+    "ticker": "ORCL",
+    "gap_date": "2023-12-12",
+    "gap_pct": -10.8,
+    "open": 102.7,
+    "prev_close": 115.13,
+    "addv20": 787298865.0
+  },
+  {
+    "ticker": "FDX",
+    "gap_date": "2023-12-20",
+    "gap_pct": -12.0,
+    "open": 246.5,
+    "prev_close": 280,
+    "addv20": 501418522.0
+  },
+  {
+    "ticker": "ROK",
+    "gap_date": "2024-01-31",
+    "gap_pct": -14.1,
+    "open": 263.9,
+    "prev_close": 307.22,
+    "addv20": 176538724.0
+  },
+  {
+    "ticker": "MOD",
+    "gap_date": "2024-01-31",
+    "gap_pct": -9.9,
+    "open": 60.2,
+    "prev_close": 66.78,
+    "addv20": 51462275.0
+  },
+  {
+    "ticker": "TEAM",
+    "gap_date": "2024-02-02",
+    "gap_pct": -9.7,
+    "open": 230.13,
+    "prev_close": 254.9,
+    "addv20": 366106215.0
+  },
+  {
+    "ticker": "APD",
+    "gap_date": "2024-02-05",
+    "gap_pct": -12.1,
+    "open": 227,
+    "prev_close": 258.17,
+    "addv20": 369416495.0
+  },
+  {
+    "ticker": "FN",
+    "gap_date": "2024-02-06",
+    "gap_pct": -17.8,
+    "open": 183.89,
+    "prev_close": 223.6,
+    "addv20": 68338740.0
+  },
+  {
+    "ticker": "VFC",
+    "gap_date": "2024-02-07",
+    "gap_pct": -9.8,
+    "open": 15.29,
+    "prev_close": 16.95,
+    "addv20": 122512723.0
+  },
+  {
+    "ticker": "LITE",
+    "gap_date": "2024-02-08",
+    "gap_pct": -12.8,
+    "open": 51.26,
+    "prev_close": 58.77,
+    "addv20": 73184588.0
+  },
+  {
+    "ticker": "DT",
+    "gap_date": "2024-02-08",
+    "gap_pct": -10.1,
+    "open": 54.49,
+    "prev_close": 60.65,
+    "addv20": 134312133.0
+  },
+  {
+    "ticker": "DOCS",
+    "gap_date": "2024-02-09",
+    "gap_pct": -11.6,
+    "open": 24.97,
+    "prev_close": 28.24,
+    "addv20": 58121384.0
+  },
+  {
+    "ticker": "TTWO",
+    "gap_date": "2024-02-09",
+    "gap_pct": -8.7,
+    "open": 154.89,
+    "prev_close": 169.6,
+    "addv20": 208783658.0
+  },
+  {
+    "ticker": "PANW",
+    "gap_date": "2024-02-21",
+    "gap_pct": -24.8,
+    "open": 137.6,
+    "prev_close": 183.04,
+    "addv20": 1284475902.0
+  },
+  {
+    "ticker": "THO",
+    "gap_date": "2024-03-06",
+    "gap_pct": -16.3,
+    "open": 105.94,
+    "prev_close": 126.59,
+    "addv20": 47461269.0
+  },
+  {
+    "ticker": "CIEN",
+    "gap_date": "2024-03-07",
+    "gap_pct": -13.3,
+    "open": 53.75,
+    "prev_close": 61.96,
+    "addv20": 122651275.0
+  },
+  {
+    "ticker": "LW",
+    "gap_date": "2024-04-04",
+    "gap_pct": -12.5,
+    "open": 88.53,
+    "prev_close": 101.12,
+    "addv20": 173465179.0
+  },
+  {
+    "ticker": "TRV",
+    "gap_date": "2024-04-17",
+    "gap_pct": -7.6,
+    "open": 206.07,
+    "prev_close": 223.12,
+    "addv20": 245059206.0
+  },
+  {
+    "ticker": "META",
+    "gap_date": "2024-04-25",
+    "gap_pct": -14.6,
+    "open": 421.4,
+    "prev_close": 493.5,
+    "addv20": 7674648743.0
+  },
+  {
+    "ticker": "TXT",
+    "gap_date": "2024-04-25",
+    "gap_pct": -9.8,
+    "open": 84.76,
+    "prev_close": 94.01,
+    "addv20": 104489881.0
+  },
+  {
+    "ticker": "INTC",
+    "gap_date": "2024-04-26",
+    "gap_pct": -9.5,
+    "open": 31.78,
+    "prev_close": 35.11,
+    "addv20": 2004868492.0
+  },
+  {
+    "ticker": "ALSN",
+    "gap_date": "2024-04-26",
+    "gap_pct": -7.7,
+    "open": 74.04,
+    "prev_close": 80.26,
+    "addv20": 49616429.0
+  },
+  {
+    "ticker": "AON",
+    "gap_date": "2024-04-26",
+    "gap_pct": -11.5,
+    "open": 270.88,
+    "prev_close": 306,
+    "addv20": 288761643.0
+  },
+  {
+    "ticker": "CHTR",
+    "gap_date": "2024-04-26",
+    "gap_pct": -7.8,
+    "open": 238.96,
+    "prev_close": 259.1,
+    "addv20": 334427849.0
+  },
+  {
+    "ticker": "SAIA",
+    "gap_date": "2024-04-26",
+    "gap_pct": -16.7,
+    "open": 452.09,
+    "prev_close": 543.02,
+    "addv20": 165488493.0
+  },
+  {
+    "ticker": "KNSL",
+    "gap_date": "2024-04-26",
+    "gap_pct": -13.5,
+    "open": 392,
+    "prev_close": 453.09,
+    "addv20": 86263808.0
+  },
+  {
+    "ticker": "TEAM",
+    "gap_date": "2024-04-26",
+    "gap_pct": -7.9,
+    "open": 182.73,
+    "prev_close": 198.41,
+    "addv20": 293892147.0
+  },
+  {
+    "ticker": "GEHC",
+    "gap_date": "2024-04-30",
+    "gap_pct": -8.9,
+    "open": 81.04,
+    "prev_close": 88.94,
+    "addv20": 212258905.0
+  },
+  {
+    "ticker": "SBUX",
+    "gap_date": "2024-05-01",
+    "gap_pct": -14.3,
+    "open": 75.82,
+    "prev_close": 88.49,
+    "addv20": 718101163.0
+  },
+  {
+    "ticker": "SWKS",
+    "gap_date": "2024-05-01",
+    "gap_pct": -14.6,
+    "open": 91.07,
+    "prev_close": 106.59,
+    "addv20": 214909177.0
+  },
+  {
+    "ticker": "TXG",
+    "gap_date": "2024-05-01",
+    "gap_pct": -9.5,
+    "open": 26.5,
+    "prev_close": 29.28,
+    "addv20": 51944701.0
+  },
+  {
+    "ticker": "CVS",
+    "gap_date": "2024-05-01",
+    "gap_pct": -17.3,
+    "open": 56,
+    "prev_close": 67.71,
+    "addv20": 563317207.0
+  },
+  {
+    "ticker": "WOLF",
+    "gap_date": "2024-05-02",
+    "gap_pct": -11.1,
+    "open": 23.2,
+    "prev_close": 26.11,
+    "addv20": 122320528.0
+  },
+  {
+    "ticker": "DASH",
+    "gap_date": "2024-05-02",
+    "gap_pct": -8.0,
+    "open": 117.25,
+    "prev_close": 127.46,
+    "addv20": 436134556.0
+  },
+  {
+    "ticker": "ETSY",
+    "gap_date": "2024-05-02",
+    "gap_pct": -16.0,
+    "open": 58.57,
+    "prev_close": 69.74,
+    "addv20": 193435881.0
+  },
+  {
+    "ticker": "SWK",
+    "gap_date": "2024-05-02",
+    "gap_pct": -7.9,
+    "open": 84.65,
+    "prev_close": 91.9,
+    "addv20": 126687563.0
+  },
+  {
+    "ticker": "FSLY",
+    "gap_date": "2024-05-02",
+    "gap_pct": -37.0,
+    "open": 8.15,
+    "prev_close": 12.93,
+    "addv20": 44161656.0
+  },
+  {
+    "ticker": "FRSH",
+    "gap_date": "2024-05-02",
+    "gap_pct": -26.6,
+    "open": 13.4,
+    "prev_close": 18.25,
+    "addv20": 41615143.0
+  },
+  {
+    "ticker": "EXPE",
+    "gap_date": "2024-05-03",
+    "gap_pct": -10.1,
+    "open": 122.31,
+    "prev_close": 136.09,
+    "addv20": 242161583.0
+  },
+  {
+    "ticker": "NET",
+    "gap_date": "2024-05-03",
+    "gap_pct": -12.1,
+    "open": 78.23,
+    "prev_close": 88.97,
+    "addv20": 258549122.0
+  },
+  {
+    "ticker": "LCID",
+    "gap_date": "2024-05-07",
+    "gap_pct": -8.2,
+    "open": 28,
+    "prev_close": 30.5,
+    "addv20": 54553011.0
+  },
+  {
+    "ticker": "DIS",
+    "gap_date": "2024-05-07",
+    "gap_pct": -7.9,
+    "open": 107.25,
+    "prev_close": 116.47,
+    "addv20": 928779087.0
+  },
+  {
+    "ticker": "BLDR",
+    "gap_date": "2024-05-07",
+    "gap_pct": -12.8,
+    "open": 175.16,
+    "prev_close": 200.88,
+    "addv20": 250625421.0
+  },
+  {
+    "ticker": "RRX",
+    "gap_date": "2024-05-07",
+    "gap_pct": -10.0,
+    "open": 152,
+    "prev_close": 168.85,
+    "addv20": 69617691.0
+  },
+  {
+    "ticker": "PLTR",
+    "gap_date": "2024-05-07",
+    "gap_pct": -12.8,
+    "open": 21.99,
+    "prev_close": 25.21,
+    "addv20": 927219299.0
+  },
+  {
+    "ticker": "ATKR",
+    "gap_date": "2024-05-07",
+    "gap_pct": -12.1,
+    "open": 155.12,
+    "prev_close": 176.4,
+    "addv20": 83350857.0
+  },
+  {
+    "ticker": "AL",
+    "gap_date": "2024-05-07",
+    "gap_pct": -8.8,
+    "open": 47.01,
+    "prev_close": 51.55,
+    "addv20": 43010165.0
+  },
+  {
+    "ticker": "TRIP",
+    "gap_date": "2024-05-08",
+    "gap_pct": -31.7,
+    "open": 17.41,
+    "prev_close": 25.48,
+    "addv20": 48359313.0
+  },
+  {
+    "ticker": "DV",
+    "gap_date": "2024-05-08",
+    "gap_pct": -38.9,
+    "open": 18.67,
+    "prev_close": 30.57,
+    "addv20": 53115920.0
+  },
+  {
+    "ticker": "MTCH",
+    "gap_date": "2024-05-08",
+    "gap_pct": -8.1,
+    "open": 28.95,
+    "prev_close": 31.51,
+    "addv20": 140753368.0
+  },
+  {
+    "ticker": "UBER",
+    "gap_date": "2024-05-08",
+    "gap_pct": -8.4,
+    "open": 64.5,
+    "prev_close": 70.43,
+    "addv20": 1347965926.0
+  },
+  {
+    "ticker": "UPST",
+    "gap_date": "2024-05-08",
+    "gap_pct": -14.6,
+    "open": 20.9,
+    "prev_close": 24.47,
+    "addv20": 95653814.0
+  },
+  {
+    "ticker": "RBLX",
+    "gap_date": "2024-05-09",
+    "gap_pct": -23.3,
+    "open": 29.92,
+    "prev_close": 39.03,
+    "addv20": 229061783.0
+  },
+  {
+    "ticker": "EXAS",
+    "gap_date": "2024-05-09",
+    "gap_pct": -8.4,
+    "open": 54.5,
+    "prev_close": 59.48,
+    "addv20": 153173294.0
+  },
+  {
+    "ticker": "EPAM",
+    "gap_date": "2024-05-09",
+    "gap_pct": -22.9,
+    "open": 192.16,
+    "prev_close": 249.2,
+    "addv20": 119822085.0
+  },
+  {
+    "ticker": "AKAM",
+    "gap_date": "2024-05-10",
+    "gap_pct": -8.1,
+    "open": 94.2,
+    "prev_close": 102.46,
+    "addv20": 136928716.0
+  },
+  {
+    "ticker": "MDB",
+    "gap_date": "2024-05-31",
+    "gap_pct": -23.5,
+    "open": 237.07,
+    "prev_close": 310,
+    "addv20": 402082251.0
+  },
+  {
+    "ticker": "BBWI",
+    "gap_date": "2024-06-04",
+    "gap_pct": -8.4,
+    "open": 47.47,
+    "prev_close": 51.81,
+    "addv20": 120233106.0
+  },
+  {
+    "ticker": "FIVE",
+    "gap_date": "2024-06-06",
+    "gap_pct": -18.7,
+    "open": 107.95,
+    "prev_close": 132.79,
+    "addv20": 150215588.0
+  },
+  {
+    "ticker": "SMTC",
+    "gap_date": "2024-06-07",
+    "gap_pct": -20.6,
+    "open": 30.17,
+    "prev_close": 37.98,
+    "addv20": 62132792.0
+  },
+  {
+    "ticker": "SIG",
+    "gap_date": "2024-06-13",
+    "gap_pct": -7.7,
+    "open": 100.1,
+    "prev_close": 108.42,
+    "addv20": 66497997.0
+  },
+  {
+    "ticker": "PLAY",
+    "gap_date": "2024-06-13",
+    "gap_pct": -9.6,
+    "open": 45.51,
+    "prev_close": 50.35,
+    "addv20": 73328413.0
+  },
+  {
+    "ticker": "RH",
+    "gap_date": "2024-06-14",
+    "gap_pct": -15.9,
+    "open": 233,
+    "prev_close": 277.05,
+    "addv20": 178147658.0
+  },
+  {
+    "ticker": "LEVI",
+    "gap_date": "2024-06-27",
+    "gap_pct": -17.9,
+    "open": 18.99,
+    "prev_close": 23.12,
+    "addv20": 47295087.0
+  },
+  {
+    "ticker": "DAL",
+    "gap_date": "2024-07-11",
+    "gap_pct": -8.2,
+    "open": 43.01,
+    "prev_close": 46.86,
+    "addv20": 378777361.0
+  },
+  {
+    "ticker": "DPZ",
+    "gap_date": "2024-07-18",
+    "gap_pct": -13.4,
+    "open": 409.8,
+    "prev_close": 473.27,
+    "addv20": 265040419.0
+  },
+  {
+    "ticker": "ALV",
+    "gap_date": "2024-07-19",
+    "gap_pct": -8.8,
+    "open": 99.04,
+    "prev_close": 108.58,
+    "addv20": 82233959.0
+  },
+  {
+    "ticker": "PII",
+    "gap_date": "2024-07-23",
+    "gap_pct": -9.6,
+    "open": 74.24,
+    "prev_close": 82.14,
+    "addv20": 72358717.0
+  },
+  {
+    "ticker": "NXPI",
+    "gap_date": "2024-07-23",
+    "gap_pct": -8.1,
+    "open": 260.79,
+    "prev_close": 283.81,
+    "addv20": 507792502.0
+  },
+  {
+    "ticker": "TSLA",
+    "gap_date": "2024-07-24",
+    "gap_pct": -8.5,
+    "open": 225.42,
+    "prev_close": 246.38,
+    "addv20": 31366768502.0
+  },
+  {
+    "ticker": "F",
+    "gap_date": "2024-07-25",
+    "gap_pct": -13.7,
+    "open": 11.8,
+    "prev_close": 13.67,
+    "addv20": 751406227.0
+  },
+  {
+    "ticker": "LKQ",
+    "gap_date": "2024-07-25",
+    "gap_pct": -8.9,
+    "open": 40.51,
+    "prev_close": 44.48,
+    "addv20": 73348587.0
+  },
+  {
+    "ticker": "LSCC",
+    "gap_date": "2024-07-30",
+    "gap_pct": -13.1,
+    "open": 47.74,
+    "prev_close": 54.96,
+    "addv20": 128130665.0
+  },
+  {
+    "ticker": "HUM",
+    "gap_date": "2024-07-31",
+    "gap_pct": -9.7,
+    "open": 365.13,
+    "prev_close": 404.52,
+    "addv20": 454087571.0
+  },
+  {
+    "ticker": "ACLS",
+    "gap_date": "2024-08-01",
+    "gap_pct": -10.0,
+    "open": 113.74,
+    "prev_close": 126.35,
+    "addv20": 92661780.0
+  },
+  {
+    "ticker": "WCC",
+    "gap_date": "2024-08-01",
+    "gap_pct": -7.5,
+    "open": 161.79,
+    "prev_close": 174.95,
+    "addv20": 112866528.0
+  },
+  {
+    "ticker": "CFLT",
+    "gap_date": "2024-08-01",
+    "gap_pct": -11.8,
+    "open": 22.07,
+    "prev_close": 25.02,
+    "addv20": 106822751.0
+  },
+  {
+    "ticker": "SCI",
+    "gap_date": "2024-08-01",
+    "gap_pct": -8.6,
+    "open": 73,
+    "prev_close": 79.91,
+    "addv20": 68376939.0
+  },
+  {
+    "ticker": "W",
+    "gap_date": "2024-08-01",
+    "gap_pct": -8.4,
+    "open": 49.88,
+    "prev_close": 54.43,
+    "addv20": 208491550.0
+  },
+  {
+    "ticker": "OLED",
+    "gap_date": "2024-08-02",
+    "gap_pct": -11.5,
+    "open": 188.26,
+    "prev_close": 212.67,
+    "addv20": 95258947.0
+  },
+  {
+    "ticker": "INTC",
+    "gap_date": "2024-08-02",
+    "gap_pct": -24.5,
+    "open": 21.94,
+    "prev_close": 29.05,
+    "addv20": 1976464181.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2024-08-02",
+    "gap_pct": -20.9,
+    "open": 10.13,
+    "prev_close": 12.81,
+    "addv20": 307962755.0
+  },
+  {
+    "ticker": "GTLS",
+    "gap_date": "2024-08-02",
+    "gap_pct": -14.2,
+    "open": 132,
+    "prev_close": 153.85,
+    "addv20": 76798350.0
+  },
+  {
+    "ticker": "BKNG",
+    "gap_date": "2024-08-02",
+    "gap_pct": -9.6,
+    "open": 3311.59,
+    "prev_close": 3664.18,
+    "addv20": 927702619.0
+  },
+  {
+    "ticker": "AMZN",
+    "gap_date": "2024-08-02",
+    "gap_pct": -9.4,
+    "open": 166.75,
+    "prev_close": 184.07,
+    "addv20": 7704488149.0
+  },
+  {
+    "ticker": "AUR",
+    "gap_date": "2024-08-02",
+    "gap_pct": -7.9,
+    "open": 3.75,
+    "prev_close": 4.07,
+    "addv20": 48298675.0
+  },
+  {
+    "ticker": "PCOR",
+    "gap_date": "2024-08-02",
+    "gap_pct": -18.5,
+    "open": 54.8,
+    "prev_close": 67.22,
+    "addv20": 101612002.0
+  },
+  {
+    "ticker": "LCID",
+    "gap_date": "2024-08-05",
+    "gap_pct": -9.9,
+    "open": 28.1,
+    "prev_close": 31.2,
+    "addv20": 166755594.0
+  },
+  {
+    "ticker": "ENVX",
+    "gap_date": "2024-08-05",
+    "gap_pct": -11.6,
+    "open": 9.26,
+    "prev_close": 10.47,
+    "addv20": 94296183.0
+  },
+  {
+    "ticker": "FRPT",
+    "gap_date": "2024-08-05",
+    "gap_pct": -9.6,
+    "open": 110.35,
+    "prev_close": 122.1,
+    "addv20": 73115319.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2024-08-05",
+    "gap_pct": -9.1,
+    "open": 8.51,
+    "prev_close": 9.36,
+    "addv20": 354772407.0
+  },
+  {
+    "ticker": "AMC",
+    "gap_date": "2024-08-05",
+    "gap_pct": -10.7,
+    "open": 4.41,
+    "prev_close": 4.94,
+    "addv20": 98835759.0
+  },
+  {
+    "ticker": "AAPL",
+    "gap_date": "2024-08-05",
+    "gap_pct": -9.4,
+    "open": 199.09,
+    "prev_close": 219.86,
+    "addv20": 12386376182.0
+  },
+  {
+    "ticker": "AMZN",
+    "gap_date": "2024-08-05",
+    "gap_pct": -8.2,
+    "open": 154.21,
+    "prev_close": 167.9,
+    "addv20": 8502794500.0
+  },
+  {
+    "ticker": "C",
+    "gap_date": "2024-08-05",
+    "gap_pct": -8.0,
+    "open": 54.08,
+    "prev_close": 58.76,
+    "addv20": 977362809.0
+  },
+  {
+    "ticker": "DKNG",
+    "gap_date": "2024-08-05",
+    "gap_pct": -10.0,
+    "open": 28.83,
+    "prev_close": 32.02,
+    "addv20": 306198932.0
+  },
+  {
+    "ticker": "AMR",
+    "gap_date": "2024-08-05",
+    "gap_pct": -9.7,
+    "open": 235.27,
+    "prev_close": 260.52,
+    "addv20": 44024965.0
+  },
+  {
+    "ticker": "SCCO",
+    "gap_date": "2024-08-05",
+    "gap_pct": -7.7,
+    "open": 86.83,
+    "prev_close": 94.08,
+    "addv20": 127217057.0
+  },
+  {
+    "ticker": "NVT",
+    "gap_date": "2024-08-06",
+    "gap_pct": -9.8,
+    "open": 56.45,
+    "prev_close": 62.58,
+    "addv20": 135416958.0
+  },
+  {
+    "ticker": "ATKR",
+    "gap_date": "2024-08-06",
+    "gap_pct": -11.4,
+    "open": 105,
+    "prev_close": 118.46,
+    "addv20": 83280782.0
+  },
+  {
+    "ticker": "BLD",
+    "gap_date": "2024-08-06",
+    "gap_pct": -10.8,
+    "open": 379.31,
+    "prev_close": 425.27,
+    "addv20": 132771319.0
+  },
+  {
+    "ticker": "LYFT",
+    "gap_date": "2024-08-07",
+    "gap_pct": -15.7,
+    "open": 9.25,
+    "prev_close": 10.97,
+    "addv20": 184431631.0
+  },
+  {
+    "ticker": "RIVN",
+    "gap_date": "2024-08-07",
+    "gap_pct": -8.9,
+    "open": 13.48,
+    "prev_close": 14.8,
+    "addv20": 623902334.0
+  },
+  {
+    "ticker": "TREX",
+    "gap_date": "2024-08-07",
+    "gap_pct": -20.3,
+    "open": 61.04,
+    "prev_close": 76.56,
+    "addv20": 85448042.0
+  },
+  {
+    "ticker": "ABNB",
+    "gap_date": "2024-08-07",
+    "gap_pct": -13.8,
+    "open": 112.44,
+    "prev_close": 130.47,
+    "addv20": 652198635.0
+  },
+  {
+    "ticker": "MNST",
+    "gap_date": "2024-08-08",
+    "gap_pct": -11.2,
+    "open": 44.88,
+    "prev_close": 50.53,
+    "addv20": 284072640.0
+  },
+  {
+    "ticker": "SEDG",
+    "gap_date": "2024-08-08",
+    "gap_pct": -15.9,
+    "open": 19.85,
+    "prev_close": 23.59,
+    "addv20": 126514053.0
+  },
+  {
+    "ticker": "BROS",
+    "gap_date": "2024-08-08",
+    "gap_pct": -22.8,
+    "open": 29.09,
+    "prev_close": 37.7,
+    "addv20": 99333203.0
+  },
+  {
+    "ticker": "WBD",
+    "gap_date": "2024-08-08",
+    "gap_pct": -12.3,
+    "open": 6.76,
+    "prev_close": 7.71,
+    "addv20": 266774135.0
+  },
+  {
+    "ticker": "FIVN",
+    "gap_date": "2024-08-09",
+    "gap_pct": -19.5,
+    "open": 34.2,
+    "prev_close": 42.47,
+    "addv20": 51020015.0
+  },
+  {
+    "ticker": "ARRY",
+    "gap_date": "2024-08-09",
+    "gap_pct": -11.7,
+    "open": 7.94,
+    "prev_close": 8.99,
+    "addv20": 55308034.0
+  },
+  {
+    "ticker": "ELF",
+    "gap_date": "2024-08-09",
+    "gap_pct": -11.0,
+    "open": 167.27,
+    "prev_close": 187.95,
+    "addv20": 305126626.0
+  },
+  {
+    "ticker": "HE",
+    "gap_date": "2024-08-12",
+    "gap_pct": -21.8,
+    "open": 12.12,
+    "prev_close": 15.5,
+    "addv20": 87043238.0
+  },
+  {
+    "ticker": "GNLN",
+    "gap_date": "2024-08-15",
+    "gap_pct": -9.3,
+    "open": 11426.25,
+    "prev_close": 12600,
+    "addv20": 46692784.0
+  },
+  {
+    "ticker": "AAP",
+    "gap_date": "2024-08-22",
+    "gap_pct": -21.8,
+    "open": 48.4,
+    "prev_close": 61.92,
+    "addv20": 73939117.0
+  },
+  {
+    "ticker": "DG",
+    "gap_date": "2024-08-29",
+    "gap_pct": -25.5,
+    "open": 92.2,
+    "prev_close": 123.84,
+    "addv20": 272306706.0
+  },
+  {
+    "ticker": "AEO",
+    "gap_date": "2024-08-29",
+    "gap_pct": -9.2,
+    "open": 19.7,
+    "prev_close": 21.7,
+    "addv20": 89064816.0
+  },
+  {
+    "ticker": "OKTA",
+    "gap_date": "2024-08-29",
+    "gap_pct": -14.0,
+    "open": 83.01,
+    "prev_close": 96.54,
+    "addv20": 159878490.0
+  },
+  {
+    "ticker": "DLTR",
+    "gap_date": "2024-09-04",
+    "gap_pct": -10.9,
+    "open": 72.79,
+    "prev_close": 81.65,
+    "addv20": 259356208.0
+  },
+  {
+    "ticker": "HRL",
+    "gap_date": "2024-09-04",
+    "gap_pct": -9.9,
+    "open": 29.85,
+    "prev_close": 33.14,
+    "addv20": 66397984.0
+  },
+  {
+    "ticker": "CNM",
+    "gap_date": "2024-09-04",
+    "gap_pct": -12.5,
+    "open": 40.97,
+    "prev_close": 46.8,
+    "addv20": 108953227.0
+  },
+  {
+    "ticker": "AI",
+    "gap_date": "2024-09-05",
+    "gap_pct": -16.6,
+    "open": 19.18,
+    "prev_close": 23.01,
+    "addv20": 81374180.0
+  },
+  {
+    "ticker": "CRDO",
+    "gap_date": "2024-09-05",
+    "gap_pct": -12.7,
+    "open": 27.33,
+    "prev_close": 31.3,
+    "addv20": 66646025.0
+  },
+  {
+    "ticker": "TTC",
+    "gap_date": "2024-09-05",
+    "gap_pct": -13.9,
+    "open": 78.37,
+    "prev_close": 91,
+    "addv20": 61342826.0
+  },
+  {
+    "ticker": "HPE",
+    "gap_date": "2024-09-05",
+    "gap_pct": -8.6,
+    "open": 17.15,
+    "prev_close": 18.77,
+    "addv20": 210437368.0
+  },
+  {
+    "ticker": "GME",
+    "gap_date": "2024-09-11",
+    "gap_pct": -11.2,
+    "open": 20.82,
+    "prev_close": 23.45,
+    "addv20": 177754742.0
+  },
+  {
+    "ticker": "FDX",
+    "gap_date": "2024-09-20",
+    "gap_pct": -13.2,
+    "open": 260.77,
+    "prev_close": 300.39,
+    "addv20": 338489828.0
+  },
+  {
+    "ticker": "CAG",
+    "gap_date": "2024-10-02",
+    "gap_pct": -8.0,
+    "open": 30.09,
+    "prev_close": 32.72,
+    "addv20": 161906340.0
+  },
+  {
+    "ticker": "LBRT",
+    "gap_date": "2024-10-17",
+    "gap_pct": -7.8,
+    "open": 18.53,
+    "prev_close": 20.09,
+    "addv20": 42133930.0
+  },
+  {
+    "ticker": "ELV",
+    "gap_date": "2024-10-17",
+    "gap_pct": -18.5,
+    "open": 404.9,
+    "prev_close": 496.96,
+    "addv20": 637102141.0
+  },
+  {
+    "ticker": "GPC",
+    "gap_date": "2024-10-22",
+    "gap_pct": -15.8,
+    "open": 120.44,
+    "prev_close": 143.12,
+    "addv20": 108745305.0
+  },
+  {
+    "ticker": "ENPH",
+    "gap_date": "2024-10-23",
+    "gap_pct": -16.7,
+    "open": 76.85,
+    "prev_close": 92.23,
+    "addv20": 295883095.0
+  },
+  {
+    "ticker": "WEX",
+    "gap_date": "2024-10-24",
+    "gap_pct": -15.5,
+    "open": 180,
+    "prev_close": 213.04,
+    "addv20": 79888103.0
+  },
+  {
+    "ticker": "MHK",
+    "gap_date": "2024-10-25",
+    "gap_pct": -11.2,
+    "open": 134.9,
+    "prev_close": 151.87,
+    "addv20": 97623230.0
+  },
+  {
+    "ticker": "ATI",
+    "gap_date": "2024-10-29",
+    "gap_pct": -8.0,
+    "open": 58.16,
+    "prev_close": 63.22,
+    "addv20": 69290266.0
+  },
+  {
+    "ticker": "SWK",
+    "gap_date": "2024-10-29",
+    "gap_pct": -7.9,
+    "open": 94.75,
+    "prev_close": 102.92,
+    "addv20": 115349134.0
+  },
+  {
+    "ticker": "CROX",
+    "gap_date": "2024-10-29",
+    "gap_pct": -17.6,
+    "open": 113.75,
+    "prev_close": 138.05,
+    "addv20": 135252947.0
+  },
+  {
+    "ticker": "JBLU",
+    "gap_date": "2024-10-29",
+    "gap_pct": -8.2,
+    "open": 6.72,
+    "prev_close": 7.32,
+    "addv20": 111824231.0
+  },
+  {
+    "ticker": "AMD",
+    "gap_date": "2024-10-30",
+    "gap_pct": -8.0,
+    "open": 153.01,
+    "prev_close": 166.25,
+    "addv20": 5981955414.0
+  },
+  {
+    "ticker": "OPCH",
+    "gap_date": "2024-10-30",
+    "gap_pct": -19.6,
+    "open": 24.53,
+    "prev_close": 30.5,
+    "addv20": 42620957.0
+  },
+  {
+    "ticker": "WING",
+    "gap_date": "2024-10-30",
+    "gap_pct": -14.6,
+    "open": 315.25,
+    "prev_close": 368.94,
+    "addv20": 146434473.0
+  },
+  {
+    "ticker": "CLH",
+    "gap_date": "2024-10-30",
+    "gap_pct": -10.8,
+    "open": 235,
+    "prev_close": 263.39,
+    "addv20": 53485382.0
+  },
+  {
+    "ticker": "QRVO",
+    "gap_date": "2024-10-30",
+    "gap_pct": -22.4,
+    "open": 78.01,
+    "prev_close": 100.48,
+    "addv20": 118862460.0
+  },
+  {
+    "ticker": "CDW",
+    "gap_date": "2024-10-30",
+    "gap_pct": -9.0,
+    "open": 200.21,
+    "prev_close": 219.9,
+    "addv20": 177281284.0
+  },
+  {
+    "ticker": "ENVX",
+    "gap_date": "2024-10-31",
+    "gap_pct": -9.7,
+    "open": 8.28,
+    "prev_close": 9.17,
+    "addv20": 71096826.0
+  },
+  {
+    "ticker": "WSC",
+    "gap_date": "2024-10-31",
+    "gap_pct": -12.6,
+    "open": 34,
+    "prev_close": 38.88,
+    "addv20": 87816513.0
+  },
+  {
+    "ticker": "APTV",
+    "gap_date": "2024-10-31",
+    "gap_pct": -9.6,
+    "open": 62.43,
+    "prev_close": 69.07,
+    "addv20": 171696376.0
+  },
+  {
+    "ticker": "EL",
+    "gap_date": "2024-10-31",
+    "gap_pct": -24.4,
+    "open": 65.9,
+    "prev_close": 87.15,
+    "addv20": 280721912.0
+  },
+  {
+    "ticker": "HII",
+    "gap_date": "2024-10-31",
+    "gap_pct": -14.2,
+    "open": 215,
+    "prev_close": 250.49,
+    "addv20": 65642805.0
+  },
+  {
+    "ticker": "ROKU",
+    "gap_date": "2024-10-31",
+    "gap_pct": -12.3,
+    "open": 68,
+    "prev_close": 77.51,
+    "addv20": 206763343.0
+  },
+  {
+    "ticker": "ACHC",
+    "gap_date": "2024-10-31",
+    "gap_pct": -12.6,
+    "open": 45.5,
+    "prev_close": 52.08,
+    "addv20": 94731326.0
+  },
+  {
+    "ticker": "HOOD",
+    "gap_date": "2024-10-31",
+    "gap_pct": -7.8,
+    "open": 26.02,
+    "prev_close": 28.21,
+    "addv20": 382729277.0
+  },
+  {
+    "ticker": "CEG",
+    "gap_date": "2024-11-04",
+    "gap_pct": -9.9,
+    "open": 232.5,
+    "prev_close": 258.1,
+    "addv20": 688371822.0
+  },
+  {
+    "ticker": "ENTG",
+    "gap_date": "2024-11-04",
+    "gap_pct": -9.9,
+    "open": 96.49,
+    "prev_close": 107.05,
+    "addv20": 201611570.0
+  },
+  {
+    "ticker": "FN",
+    "gap_date": "2024-11-05",
+    "gap_pct": -9.1,
+    "open": 217.8,
+    "prev_close": 239.61,
+    "addv20": 111772300.0
+  },
+  {
+    "ticker": "RRX",
+    "gap_date": "2024-11-05",
+    "gap_pct": -11.7,
+    "open": 150.3,
+    "prev_close": 170.22,
+    "addv20": 66860710.0
+  },
+  {
+    "ticker": "CRUS",
+    "gap_date": "2024-11-05",
+    "gap_pct": -9.2,
+    "open": 100.49,
+    "prev_close": 110.63,
+    "addv20": 76106548.0
+  },
+  {
+    "ticker": "EXAS",
+    "gap_date": "2024-11-06",
+    "gap_pct": -22.1,
+    "open": 55.7,
+    "prev_close": 71.51,
+    "addv20": 108181549.0
+  },
+  {
+    "ticker": "CPNG",
+    "gap_date": "2024-11-06",
+    "gap_pct": -10.7,
+    "open": 24,
+    "prev_close": 26.89,
+    "addv20": 149663333.0
+  },
+  {
+    "ticker": "OSCR",
+    "gap_date": "2024-11-07",
+    "gap_pct": -8.3,
+    "open": 14.26,
+    "prev_close": 15.55,
+    "addv20": 63247839.0
+  },
+  {
+    "ticker": "DJT",
+    "gap_date": "2024-11-07",
+    "gap_pct": -13.9,
+    "open": 30.94,
+    "prev_close": 35.95,
+    "addv20": 2983755328.0
+  },
+  {
+    "ticker": "SUI",
+    "gap_date": "2024-11-07",
+    "gap_pct": -9.5,
+    "open": 119.21,
+    "prev_close": 131.76,
+    "addv20": 128956979.0
+  },
+  {
+    "ticker": "MELI",
+    "gap_date": "2024-11-07",
+    "gap_pct": -9.3,
+    "open": 1920,
+    "prev_close": 2117.3,
+    "addv20": 552488740.0
+  },
+  {
+    "ticker": "WOLF",
+    "gap_date": "2024-11-07",
+    "gap_pct": -22.1,
+    "open": 10.68,
+    "prev_close": 13.71,
+    "addv20": 212146206.0
+  },
+  {
+    "ticker": "SEDG",
+    "gap_date": "2024-11-07",
+    "gap_pct": -12.6,
+    "open": 12.83,
+    "prev_close": 14.68,
+    "addv20": 76141527.0
+  },
+  {
+    "ticker": "STRL",
+    "gap_date": "2024-11-07",
+    "gap_pct": -10.0,
+    "open": 157.88,
+    "prev_close": 175.42,
+    "addv20": 55791250.0
+  },
+  {
+    "ticker": "FBIN",
+    "gap_date": "2024-11-07",
+    "gap_pct": -9.8,
+    "open": 76,
+    "prev_close": 84.28,
+    "addv20": 86628555.0
+  },
+  {
+    "ticker": "XRAY",
+    "gap_date": "2024-11-07",
+    "gap_pct": -19.9,
+    "open": 19.2,
+    "prev_close": 23.98,
+    "addv20": 58280965.0
+  },
+  {
+    "ticker": "YOU",
+    "gap_date": "2024-11-07",
+    "gap_pct": -18.8,
+    "open": 31.24,
+    "prev_close": 38.45,
+    "addv20": 67172871.0
+  },
+  {
+    "ticker": "DT",
+    "gap_date": "2024-11-07",
+    "gap_pct": -7.9,
+    "open": 52.01,
+    "prev_close": 56.49,
+    "addv20": 116262113.0
+  },
+  {
+    "ticker": "CPRI",
+    "gap_date": "2024-11-08",
+    "gap_pct": -8.6,
+    "open": 20.09,
+    "prev_close": 21.99,
+    "addv20": 186861432.0
+  },
+  {
+    "ticker": "FLR",
+    "gap_date": "2024-11-08",
+    "gap_pct": -13.9,
+    "open": 50.76,
+    "prev_close": 58.93,
+    "addv20": 121056497.0
+  },
+  {
+    "ticker": "SERV",
+    "gap_date": "2024-11-08",
+    "gap_pct": -8.6,
+    "open": 9.9,
+    "prev_close": 10.83,
+    "addv20": 63097768.0
+  },
+  {
+    "ticker": "SG",
+    "gap_date": "2024-11-08",
+    "gap_pct": -13.8,
+    "open": 36.39,
+    "prev_close": 42.2,
+    "addv20": 106734415.0
+  },
+  {
+    "ticker": "ABNB",
+    "gap_date": "2024-11-08",
+    "gap_pct": -8.6,
+    "open": 134.67,
+    "prev_close": 147.37,
+    "addv20": 515530463.0
+  },
+  {
+    "ticker": "TDW",
+    "gap_date": "2024-11-08",
+    "gap_pct": -10.1,
+    "open": 57.69,
+    "prev_close": 64.15,
+    "addv20": 64657962.0
+  },
+  {
+    "ticker": "TTD",
+    "gap_date": "2024-11-08",
+    "gap_pct": -12.4,
+    "open": 116.11,
+    "prev_close": 132.53,
+    "addv20": 352208749.0
+  },
+  {
+    "ticker": "NET",
+    "gap_date": "2024-11-08",
+    "gap_pct": -7.5,
+    "open": 88.45,
+    "prev_close": 95.66,
+    "addv20": 210983432.0
+  },
+  {
+    "ticker": "PINS",
+    "gap_date": "2024-11-08",
+    "gap_pct": -14.1,
+    "open": 29.14,
+    "prev_close": 33.93,
+    "addv20": 237656353.0
+  },
+  {
+    "ticker": "PHUN",
+    "gap_date": "2024-11-08",
+    "gap_pct": -8.7,
+    "open": 5.86,
+    "prev_close": 6.42,
+    "addv20": 176209296.0
+  },
+  {
+    "ticker": "ZETA",
+    "gap_date": "2024-11-12",
+    "gap_pct": -9.4,
+    "open": 33.3,
+    "prev_close": 36.74,
+    "addv20": 123879134.0
+  },
+  {
+    "ticker": "RKT",
+    "gap_date": "2024-11-13",
+    "gap_pct": -10.6,
+    "open": 13.9,
+    "prev_close": 15.54,
+    "addv20": 53111302.0
+  },
+  {
+    "ticker": "SOUN",
+    "gap_date": "2024-11-13",
+    "gap_pct": -12.7,
+    "open": 6.6,
+    "prev_close": 7.56,
+    "addv20": 196068061.0
+  },
+  {
+    "ticker": "OKLO",
+    "gap_date": "2024-11-15",
+    "gap_pct": -12.1,
+    "open": 21,
+    "prev_close": 23.88,
+    "addv20": 572619144.0
+  },
+  {
+    "ticker": "ASTS",
+    "gap_date": "2024-11-15",
+    "gap_pct": -13.5,
+    "open": 23.18,
+    "prev_close": 26.8,
+    "addv20": 288511561.0
+  },
+  {
+    "ticker": "CHWY",
+    "gap_date": "2024-12-04",
+    "gap_pct": -8.4,
+    "open": 30.81,
+    "prev_close": 33.62,
+    "addv20": 187926409.0
+  },
+  {
+    "ticker": "S",
+    "gap_date": "2024-12-05",
+    "gap_pct": -12.9,
+    "open": 24.99,
+    "prev_close": 28.68,
+    "addv20": 117210473.0
+  },
+  {
+    "ticker": "NCNO",
+    "gap_date": "2024-12-05",
+    "gap_pct": -15.2,
+    "open": 36.03,
+    "prev_close": 42.5,
+    "addv20": 43598070.0
+  },
+  {
+    "ticker": "AEO",
+    "gap_date": "2024-12-05",
+    "gap_pct": -15.8,
+    "open": 17.3,
+    "prev_close": 20.54,
+    "addv20": 95055287.0
+  },
+  {
+    "ticker": "SIG",
+    "gap_date": "2024-12-05",
+    "gap_pct": -13.5,
+    "open": 85.44,
+    "prev_close": 98.73,
+    "addv20": 86088072.0
+  },
+  {
+    "ticker": "AVAV",
+    "gap_date": "2024-12-05",
+    "gap_pct": -11.1,
+    "open": 175,
+    "prev_close": 196.89,
+    "addv20": 91865679.0
+  },
+  {
+    "ticker": "MU",
+    "gap_date": "2024-12-19",
+    "gap_pct": -13.3,
+    "open": 90.08,
+    "prev_close": 103.9,
+    "addv20": 2229002769.0
+  },
+  {
+    "ticker": "BOOT",
+    "gap_date": "2025-01-31",
+    "gap_pct": -9.9,
+    "open": 157.25,
+    "prev_close": 174.52,
+    "addv20": 132711049.0
+  },
+  {
+    "ticker": "FN",
+    "gap_date": "2025-02-04",
+    "gap_pct": -8.8,
+    "open": 205.66,
+    "prev_close": 225.6,
+    "addv20": 144782902.0
+  },
+  {
+    "ticker": "EL",
+    "gap_date": "2025-02-04",
+    "gap_pct": -7.6,
+    "open": 76.5,
+    "prev_close": 82.77,
+    "addv20": 261029529.0
+  },
+  {
+    "ticker": "SYM",
+    "gap_date": "2025-02-06",
+    "gap_pct": -16.3,
+    "open": 25.88,
+    "prev_close": 30.92,
+    "addv20": 77397112.0
+  },
+  {
+    "ticker": "SWKS",
+    "gap_date": "2025-02-06",
+    "gap_pct": -28.2,
+    "open": 62.55,
+    "prev_close": 87.08,
+    "addv20": 238484483.0
+  },
+  {
+    "ticker": "HP",
+    "gap_date": "2025-02-06",
+    "gap_pct": -10.1,
+    "open": 29.84,
+    "prev_close": 33.19,
+    "addv20": 45001698.0
+  },
+  {
+    "ticker": "BILL",
+    "gap_date": "2025-02-07",
+    "gap_pct": -32.7,
+    "open": 64.88,
+    "prev_close": 96.35,
+    "addv20": 212121921.0
+  },
+  {
+    "ticker": "ELF",
+    "gap_date": "2025-02-07",
+    "gap_pct": -25.1,
+    "open": 66.3,
+    "prev_close": 88.49,
+    "addv20": 263815023.0
+  },
+  {
+    "ticker": "NTAP",
+    "gap_date": "2025-02-28",
+    "gap_pct": -16.0,
+    "open": 99.33,
+    "prev_close": 118.22,
+    "addv20": 201752787.0
+  },
+  {
+    "ticker": "THO",
+    "gap_date": "2025-03-05",
+    "gap_pct": -14.2,
+    "open": 81.75,
+    "prev_close": 95.23,
+    "addv20": 57132917.0
+  },
+  {
+    "ticker": "AVAV",
+    "gap_date": "2025-03-05",
+    "gap_pct": -22.4,
+    "open": 110.07,
+    "prev_close": 141.9,
+    "addv20": 71280327.0
+  },
+  {
+    "ticker": "HPE",
+    "gap_date": "2025-03-07",
+    "gap_pct": -15.0,
+    "open": 15.26,
+    "prev_close": 17.96,
+    "addv20": 241106178.0
+  },
+  {
+    "ticker": "ACN",
+    "gap_date": "2025-03-20",
+    "gap_pct": -8.7,
+    "open": 296.15,
+    "prev_close": 324.47,
+    "addv20": 1133746529.0
+  },
+  {
+    "ticker": "FDX",
+    "gap_date": "2025-03-21",
+    "gap_pct": -10.7,
+    "open": 219.81,
+    "prev_close": 246.21,
+    "addv20": 445100389.0
+  },
+  {
+    "ticker": "NKE",
+    "gap_date": "2025-04-03",
+    "gap_pct": -13.2,
+    "open": 56.37,
+    "prev_close": 64.96,
+    "addv20": 1251964293.0
+  },
+  {
+    "ticker": "APLD",
+    "gap_date": "2025-04-15",
+    "gap_pct": -14.3,
+    "open": 4.6,
+    "prev_close": 5.37,
+    "addv20": 146385782.0
+  },
+  {
+    "ticker": "RTX",
+    "gap_date": "2025-04-22",
+    "gap_pct": -9.2,
+    "open": 114.53,
+    "prev_close": 126.12,
+    "addv20": 700899109.0
+  },
+  {
+    "ticker": "HRI",
+    "gap_date": "2025-04-22",
+    "gap_pct": -7.6,
+    "open": 102.99,
+    "prev_close": 111.5,
+    "addv20": 72639964.0
+  },
+  {
+    "ticker": "NOC",
+    "gap_date": "2025-04-22",
+    "gap_pct": -8.8,
+    "open": 484.75,
+    "prev_close": 531.33,
+    "addv20": 559064598.0
+  },
+  {
+    "ticker": "ENPH",
+    "gap_date": "2025-04-23",
+    "gap_pct": -11.4,
+    "open": 47.36,
+    "prev_close": 53.43,
+    "addv20": 205891678.0
+  },
+  {
+    "ticker": "LII",
+    "gap_date": "2025-04-23",
+    "gap_pct": -10.0,
+    "open": 503.04,
+    "prev_close": 558.93,
+    "addv20": 242165910.0
+  },
+  {
+    "ticker": "INTC",
+    "gap_date": "2025-04-25",
+    "gap_pct": -8.2,
+    "open": 19.73,
+    "prev_close": 21.49,
+    "addv20": 2284504581.0
+  },
+  {
+    "ticker": "AVTR",
+    "gap_date": "2025-04-25",
+    "gap_pct": -12.5,
+    "open": 13.56,
+    "prev_close": 15.5,
+    "addv20": 165582822.0
+  },
+  {
+    "ticker": "KNSL",
+    "gap_date": "2025-04-25",
+    "gap_pct": -11.3,
+    "open": 445,
+    "prev_close": 501.97,
+    "addv20": 84637949.0
+  },
+  {
+    "ticker": "APPF",
+    "gap_date": "2025-04-25",
+    "gap_pct": -11.2,
+    "open": 208.26,
+    "prev_close": 234.65,
+    "addv20": 67942510.0
+  },
+  {
+    "ticker": "EAT",
+    "gap_date": "2025-04-29",
+    "gap_pct": -8.5,
+    "open": 147,
+    "prev_close": 160.67,
+    "addv20": 246240636.0
+  },
+  {
+    "ticker": "NXPI",
+    "gap_date": "2025-04-29",
+    "gap_pct": -7.5,
+    "open": 181.51,
+    "prev_close": 196.24,
+    "addv20": 744141776.0
+  },
+  {
+    "ticker": "SBUX",
+    "gap_date": "2025-04-30",
+    "gap_pct": -10.0,
+    "open": 76.37,
+    "prev_close": 84.85,
+    "addv20": 1081460788.0
+  },
+  {
+    "ticker": "WGS",
+    "gap_date": "2025-04-30",
+    "gap_pct": -29.9,
+    "open": 81.97,
+    "prev_close": 116.97,
+    "addv20": 88539448.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2025-04-30",
+    "gap_pct": -14.5,
+    "open": 7.77,
+    "prev_close": 9.09,
+    "addv20": 344039336.0
+  },
+  {
+    "ticker": "FSLR",
+    "gap_date": "2025-04-30",
+    "gap_pct": -12.0,
+    "open": 120.75,
+    "prev_close": 137.24,
+    "addv20": 514717767.0
+  },
+  {
+    "ticker": "GRMN",
+    "gap_date": "2025-04-30",
+    "gap_pct": -8.9,
+    "open": 185.98,
+    "prev_close": 204.1,
+    "addv20": 218631446.0
+  },
+  {
+    "ticker": "LECO",
+    "gap_date": "2025-04-30",
+    "gap_pct": -7.6,
+    "open": 170.02,
+    "prev_close": 184,
+    "addv20": 59210516.0
+  },
+  {
+    "ticker": "PPC",
+    "gap_date": "2025-05-01",
+    "gap_pct": -11.7,
+    "open": 48.22,
+    "prev_close": 54.58,
+    "addv20": 65641141.0
+  },
+  {
+    "ticker": "CFLT",
+    "gap_date": "2025-05-01",
+    "gap_pct": -11.8,
+    "open": 20.99,
+    "prev_close": 23.81,
+    "addv20": 112048027.0
+  },
+  {
+    "ticker": "GPK",
+    "gap_date": "2025-05-01",
+    "gap_pct": -15.5,
+    "open": 21.39,
+    "prev_close": 25.31,
+    "addv20": 68555577.0
+  },
+  {
+    "ticker": "XYZ",
+    "gap_date": "2025-05-02",
+    "gap_pct": -22.5,
+    "open": 45.33,
+    "prev_close": 58.48,
+    "addv20": 441601123.0
+  },
+  {
+    "ticker": "GDDY",
+    "gap_date": "2025-05-02",
+    "gap_pct": -10.2,
+    "open": 172.7,
+    "prev_close": 192.36,
+    "addv20": 310702707.0
+  },
+  {
+    "ticker": "WLK",
+    "gap_date": "2025-05-02",
+    "gap_pct": -13.9,
+    "open": 79.48,
+    "prev_close": 92.27,
+    "addv20": 70964022.0
+  },
+  {
+    "ticker": "TEAM",
+    "gap_date": "2025-05-02",
+    "gap_pct": -10.6,
+    "open": 204.73,
+    "prev_close": 229.07,
+    "addv20": 540544163.0
+  },
+  {
+    "ticker": "ROKU",
+    "gap_date": "2025-05-02",
+    "gap_pct": -11.0,
+    "open": 59.85,
+    "prev_close": 67.27,
+    "addv20": 307295194.0
+  },
+  {
+    "ticker": "BRBR",
+    "gap_date": "2025-05-06",
+    "gap_pct": -10.0,
+    "open": 70.61,
+    "prev_close": 78.43,
+    "addv20": 100353895.0
+  },
+  {
+    "ticker": "FN",
+    "gap_date": "2025-05-06",
+    "gap_pct": -11.7,
+    "open": 195.0,
+    "prev_close": 220.9,
+    "addv20": 152738733.0
+  },
+  {
+    "ticker": "PLTR",
+    "gap_date": "2025-05-06",
+    "gap_pct": -8.9,
+    "open": 112.71,
+    "prev_close": 123.77,
+    "addv20": 11402767527.0
+  },
+  {
+    "ticker": "HIMS",
+    "gap_date": "2025-05-06",
+    "gap_pct": -8.5,
+    "open": 38.33,
+    "prev_close": 41.88,
+    "addv20": 1085002884.0
+  },
+  {
+    "ticker": "MATX",
+    "gap_date": "2025-05-06",
+    "gap_pct": -10.0,
+    "open": 99.06,
+    "prev_close": 110.07,
+    "addv20": 57634973.0
+  },
+  {
+    "ticker": "DOCN",
+    "gap_date": "2025-05-06",
+    "gap_pct": -8.4,
+    "open": 30,
+    "prev_close": 32.76,
+    "addv20": 43480939.0
+  },
+  {
+    "ticker": "NOVT",
+    "gap_date": "2025-05-06",
+    "gap_pct": -17.4,
+    "open": 99.07,
+    "prev_close": 120.01,
+    "addv20": 43287234.0
+  },
+  {
+    "ticker": "AMTM",
+    "gap_date": "2025-05-07",
+    "gap_pct": -8.9,
+    "open": 20.14,
+    "prev_close": 22.11,
+    "addv20": 42031422.0
+  },
+  {
+    "ticker": "UPST",
+    "gap_date": "2025-05-07",
+    "gap_pct": -16.3,
+    "open": 43.02,
+    "prev_close": 51.4,
+    "addv20": 291147223.0
+  },
+  {
+    "ticker": "FTNT",
+    "gap_date": "2025-05-08",
+    "gap_pct": -8.5,
+    "open": 97.6,
+    "prev_close": 106.72,
+    "addv20": 476315179.0
+  },
+  {
+    "ticker": "TAP",
+    "gap_date": "2025-05-08",
+    "gap_pct": -7.9,
+    "open": 52.35,
+    "prev_close": 56.84,
+    "addv20": 123844939.0
+  },
+  {
+    "ticker": "CLF",
+    "gap_date": "2025-05-08",
+    "gap_pct": -8.1,
+    "open": 7.8,
+    "prev_close": 8.49,
+    "addv20": 133961600.0
+  },
+  {
+    "ticker": "PTON",
+    "gap_date": "2025-05-08",
+    "gap_pct": -9.7,
+    "open": 6.3,
+    "prev_close": 6.98,
+    "addv20": 70808821.0
+  },
+  {
+    "ticker": "WMG",
+    "gap_date": "2025-05-08",
+    "gap_pct": -8.8,
+    "open": 27.44,
+    "prev_close": 30.09,
+    "addv20": 42052298.0
+  },
+  {
+    "ticker": "WULF",
+    "gap_date": "2025-05-09",
+    "gap_pct": -8.8,
+    "open": 3.01,
+    "prev_close": 3.3,
+    "addv20": 94609128.0
+  },
+  {
+    "ticker": "WOLF",
+    "gap_date": "2025-05-09",
+    "gap_pct": -26.0,
+    "open": 3.28,
+    "prev_close": 4.43,
+    "addv20": 102085814.0
+  },
+  {
+    "ticker": "INOD",
+    "gap_date": "2025-05-09",
+    "gap_pct": -9.6,
+    "open": 37.15,
+    "prev_close": 41.11,
+    "addv20": 50648235.0
+  },
+  {
+    "ticker": "EXPE",
+    "gap_date": "2025-05-09",
+    "gap_pct": -9.7,
+    "open": 152.59,
+    "prev_close": 168.99,
+    "addv20": 324328591.0
+  },
+  {
+    "ticker": "ONTO",
+    "gap_date": "2025-05-09",
+    "gap_pct": -21.2,
+    "open": 99.9,
+    "prev_close": 126.81,
+    "addv20": 112958001.0
+  },
+  {
+    "ticker": "COMP",
+    "gap_date": "2025-05-09",
+    "gap_pct": -13.3,
+    "open": 6.7,
+    "prev_close": 7.73,
+    "addv20": 52724348.0
+  },
+  {
+    "ticker": "RGTI",
+    "gap_date": "2025-05-13",
+    "gap_pct": -11.3,
+    "open": 10.25,
+    "prev_close": 11.55,
+    "addv20": 308163368.0
+  },
+  {
+    "ticker": "HTZ",
+    "gap_date": "2025-05-13",
+    "gap_pct": -10.4,
+    "open": 6.21,
+    "prev_close": 6.94,
+    "addv20": 272264702.0
+  },
+  {
+    "ticker": "GRAL",
+    "gap_date": "2025-05-14",
+    "gap_pct": -12.8,
+    "open": 37.4,
+    "prev_close": 42.89,
+    "addv20": 43836546.0
+  },
+  {
+    "ticker": "ASST",
+    "gap_date": "2025-05-16",
+    "gap_pct": -9.6,
+    "open": 124.2,
+    "prev_close": 137.4,
+    "addv20": 187646880.0
+  },
+  {
+    "ticker": "GPUS",
+    "gap_date": "2025-05-22",
+    "gap_pct": -20.7,
+    "open": 5.61,
+    "prev_close": 7.07,
+    "addv20": 186809477.0
+  },
+  {
+    "ticker": "WDAY",
+    "gap_date": "2025-05-23",
+    "gap_pct": -11.2,
+    "open": 241.59,
+    "prev_close": 272.07,
+    "addv20": 403371974.0
+  },
+  {
+    "ticker": "OKTA",
+    "gap_date": "2025-05-28",
+    "gap_pct": -13.0,
+    "open": 109.15,
+    "prev_close": 125.5,
+    "addv20": 525036455.0
+  },
+  {
+    "ticker": "S",
+    "gap_date": "2025-05-29",
+    "gap_pct": -13.8,
+    "open": 16.95,
+    "prev_close": 19.67,
+    "addv20": 76000635.0
+  },
+  {
+    "ticker": "HPQ",
+    "gap_date": "2025-05-29",
+    "gap_pct": -12.4,
+    "open": 23.82,
+    "prev_close": 27.2,
+    "addv20": 209086026.0
+  },
+  {
+    "ticker": "COO",
+    "gap_date": "2025-05-30",
+    "gap_pct": -10.0,
+    "open": 71.98,
+    "prev_close": 79.96,
+    "addv20": 158331135.0
+  },
+  {
+    "ticker": "GAP",
+    "gap_date": "2025-05-30",
+    "gap_pct": -18.2,
+    "open": 22.87,
+    "prev_close": 27.95,
+    "addv20": 270536013.0
+  },
+  {
+    "ticker": "ASAN",
+    "gap_date": "2025-06-04",
+    "gap_pct": -12.1,
+    "open": 16.7,
+    "prev_close": 19,
+    "addv20": 45402263.0
+  },
+  {
+    "ticker": "CIEN",
+    "gap_date": "2025-06-05",
+    "gap_pct": -8.4,
+    "open": 76.85,
+    "prev_close": 83.89,
+    "addv20": 126933471.0
+  },
+  {
+    "ticker": "PVH",
+    "gap_date": "2025-06-05",
+    "gap_pct": -13.3,
+    "open": 70.04,
+    "prev_close": 80.81,
+    "addv20": 115226423.0
+  },
+  {
+    "ticker": "DOCU",
+    "gap_date": "2025-06-06",
+    "gap_pct": -17.4,
+    "open": 76.78,
+    "prev_close": 92.9,
+    "addv20": 209100237.0
+  },
+  {
+    "ticker": "LULU",
+    "gap_date": "2025-06-06",
+    "gap_pct": -18.0,
+    "open": 271.18,
+    "prev_close": 330.78,
+    "addv20": 673376903.0
+  },
+  {
+    "ticker": "IOT",
+    "gap_date": "2025-06-10",
+    "gap_pct": -9.1,
+    "open": 40.62,
+    "prev_close": 44.69,
+    "addv20": 184120180.0
+  },
+  {
+    "ticker": "CHWY",
+    "gap_date": "2025-06-11",
+    "gap_pct": -9.0,
+    "open": 41.65,
+    "prev_close": 45.79,
+    "addv20": 267383608.0
+  },
+  {
+    "ticker": "GTLB",
+    "gap_date": "2025-06-11",
+    "gap_pct": -13.5,
+    "open": 41.98,
+    "prev_close": 48.51,
+    "addv20": 174254507.0
+  },
+  {
+    "ticker": "GME",
+    "gap_date": "2025-06-12",
+    "gap_pct": -17.4,
+    "open": 23.57,
+    "prev_close": 28.55,
+    "addv20": 419567219.0
+  },
+  {
+    "ticker": "ACN",
+    "gap_date": "2025-06-20",
+    "gap_pct": -8.1,
+    "open": 281.43,
+    "prev_close": 306.38,
+    "addv20": 917777537.0
+  },
+  {
+    "ticker": "LMT",
+    "gap_date": "2025-07-22",
+    "gap_pct": -8.2,
+    "open": 422.75,
+    "prev_close": 460.53,
+    "addv20": 636968915.0
+  },
+  {
+    "ticker": "IRDM",
+    "gap_date": "2025-07-24",
+    "gap_pct": -10.9,
+    "open": 28.9,
+    "prev_close": 32.43,
+    "addv20": 43333421.0
+  },
+  {
+    "ticker": "MOH",
+    "gap_date": "2025-07-24",
+    "gap_pct": -9.0,
+    "open": 173.21,
+    "prev_close": 190.25,
+    "addv20": 323400373.0
+  },
+  {
+    "ticker": "LKQ",
+    "gap_date": "2025-07-24",
+    "gap_pct": -13.6,
+    "open": 33.34,
+    "prev_close": 38.61,
+    "addv20": 74310986.0
+  },
+  {
+    "ticker": "CMG",
+    "gap_date": "2025-07-24",
+    "gap_pct": -12.5,
+    "open": 46.2,
+    "prev_close": 52.78,
+    "addv20": 704304489.0
+  },
+  {
+    "ticker": "CRI",
+    "gap_date": "2025-07-25",
+    "gap_pct": -20.9,
+    "open": 25.91,
+    "prev_close": 32.75,
+    "addv20": 48633499.0
+  },
+  {
+    "ticker": "INTC",
+    "gap_date": "2025-07-25",
+    "gap_pct": -8.6,
+    "open": 20.68,
+    "prev_close": 22.63,
+    "addv20": 1700477821.0
+  },
+  {
+    "ticker": "CHTR",
+    "gap_date": "2025-07-25",
+    "gap_pct": -13.4,
+    "open": 329,
+    "prev_close": 380,
+    "addv20": 512892892.0
+  },
+  {
+    "ticker": "CARR",
+    "gap_date": "2025-07-29",
+    "gap_pct": -7.9,
+    "open": 73.88,
+    "prev_close": 80.18,
+    "addv20": 308249054.0
+  },
+  {
+    "ticker": "RCL",
+    "gap_date": "2025-07-29",
+    "gap_pct": -7.6,
+    "open": 325.35,
+    "prev_close": 352,
+    "addv20": 713609938.0
+  },
+  {
+    "ticker": "WHR",
+    "gap_date": "2025-07-29",
+    "gap_pct": -12.7,
+    "open": 85.51,
+    "prev_close": 97.91,
+    "addv20": 149894001.0
+  },
+  {
+    "ticker": "PYPL",
+    "gap_date": "2025-07-29",
+    "gap_pct": -8.3,
+    "open": 71.73,
+    "prev_close": 78.22,
+    "addv20": 706001825.0
+  },
+  {
+    "ticker": "SWK",
+    "gap_date": "2025-07-29",
+    "gap_pct": -7.7,
+    "open": 68.22,
+    "prev_close": 73.93,
+    "addv20": 145565830.0
+  },
+  {
+    "ticker": "HRI",
+    "gap_date": "2025-07-29",
+    "gap_pct": -8.1,
+    "open": 137.75,
+    "prev_close": 149.88,
+    "addv20": 77035242.0
+  },
+  {
+    "ticker": "CAR",
+    "gap_date": "2025-07-30",
+    "gap_pct": -9.9,
+    "open": 183.62,
+    "prev_close": 203.88,
+    "addv20": 199678117.0
+  },
+  {
+    "ticker": "ENTG",
+    "gap_date": "2025-07-30",
+    "gap_pct": -9.7,
+    "open": 83.86,
+    "prev_close": 92.85,
+    "addv20": 226776400.0
+  },
+  {
+    "ticker": "TT",
+    "gap_date": "2025-07-30",
+    "gap_pct": -7.7,
+    "open": 434.5,
+    "prev_close": 470.98,
+    "addv20": 510120704.0
+  },
+  {
+    "ticker": "UNM",
+    "gap_date": "2025-07-30",
+    "gap_pct": -12.3,
+    "open": 71.03,
+    "prev_close": 80.97,
+    "addv20": 95735617.0
+  },
+  {
+    "ticker": "ATI",
+    "gap_date": "2025-07-31",
+    "gap_pct": -9.5,
+    "open": 85.25,
+    "prev_close": 94.24,
+    "addv20": 138600125.0
+  },
+  {
+    "ticker": "CFLT",
+    "gap_date": "2025-07-31",
+    "gap_pct": -30.9,
+    "open": 18.25,
+    "prev_close": 26.4,
+    "addv20": 154663304.0
+  },
+  {
+    "ticker": "SPSC",
+    "gap_date": "2025-07-31",
+    "gap_pct": -17.2,
+    "open": 115.5,
+    "prev_close": 139.56,
+    "addv20": 42992266.0
+  },
+  {
+    "ticker": "SHAK",
+    "gap_date": "2025-07-31",
+    "gap_pct": -9.9,
+    "open": 126.92,
+    "prev_close": 140.91,
+    "addv20": 138603543.0
+  },
+  {
+    "ticker": "CSL",
+    "gap_date": "2025-07-31",
+    "gap_pct": -9.2,
+    "open": 372.8,
+    "prev_close": 410.57,
+    "addv20": 188526661.0
+  },
+  {
+    "ticker": "EMN",
+    "gap_date": "2025-08-01",
+    "gap_pct": -12.2,
+    "open": 63.77,
+    "prev_close": 72.61,
+    "addv20": 104147638.0
+  },
+  {
+    "ticker": "ENVX",
+    "gap_date": "2025-08-01",
+    "gap_pct": -14.3,
+    "open": 11.48,
+    "prev_close": 13.4,
+    "addv20": 151227082.0
+  },
+  {
+    "ticker": "WSC",
+    "gap_date": "2025-08-01",
+    "gap_pct": -20.7,
+    "open": 23.27,
+    "prev_close": 29.35,
+    "addv20": 51638165.0
+  },
+  {
+    "ticker": "CACC",
+    "gap_date": "2025-08-01",
+    "gap_pct": -8.2,
+    "open": 450,
+    "prev_close": 490.28,
+    "addv20": 52715147.0
+  },
+  {
+    "ticker": "METC",
+    "gap_date": "2025-08-01",
+    "gap_pct": -9.1,
+    "open": 18.5,
+    "prev_close": 20.35,
+    "addv20": 72971425.0
+  },
+  {
+    "ticker": "ILMN",
+    "gap_date": "2025-08-01",
+    "gap_pct": -9.8,
+    "open": 92.61,
+    "prev_close": 102.71,
+    "addv20": 227566302.0
+  },
+  {
+    "ticker": "MTZ",
+    "gap_date": "2025-08-01",
+    "gap_pct": -10.5,
+    "open": 169.36,
+    "prev_close": 189.21,
+    "addv20": 154906042.0
+  },
+  {
+    "ticker": "FLR",
+    "gap_date": "2025-08-01",
+    "gap_pct": -25.4,
+    "open": 42.34,
+    "prev_close": 56.77,
+    "addv20": 155740403.0
+  },
+  {
+    "ticker": "INOD",
+    "gap_date": "2025-08-01",
+    "gap_pct": -17.1,
+    "open": 45.52,
+    "prev_close": 54.9,
+    "addv20": 109195317.0
+  },
+  {
+    "ticker": "BE",
+    "gap_date": "2025-08-01",
+    "gap_pct": -12.4,
+    "open": 32.74,
+    "prev_close": 37.39,
+    "addv20": 344315697.0
+  },
+  {
+    "ticker": "GWW",
+    "gap_date": "2025-08-01",
+    "gap_pct": -9.9,
+    "open": 936.18,
+    "prev_close": 1039.54,
+    "addv20": 345935224.0
+  },
+  {
+    "ticker": "AVTR",
+    "gap_date": "2025-08-01",
+    "gap_pct": -11.2,
+    "open": 11.94,
+    "prev_close": 13.44,
+    "addv20": 157421384.0
+  },
+  {
+    "ticker": "SATS",
+    "gap_date": "2025-08-01",
+    "gap_pct": -9.7,
+    "open": 29.45,
+    "prev_close": 32.59,
+    "addv20": 80083788.0
+  },
+  {
+    "ticker": "RGA",
+    "gap_date": "2025-08-01",
+    "gap_pct": -8.5,
+    "open": 176.16,
+    "prev_close": 192.45,
+    "addv20": 66151036.0
+  },
+  {
+    "ticker": "RIOT",
+    "gap_date": "2025-08-01",
+    "gap_pct": -10.4,
+    "open": 12.01,
+    "prev_close": 13.41,
+    "addv20": 582842435.0
+  },
+  {
+    "ticker": "PCOR",
+    "gap_date": "2025-08-01",
+    "gap_pct": -7.6,
+    "open": 66.16,
+    "prev_close": 71.63,
+    "addv20": 102342388.0
+  },
+  {
+    "ticker": "MIR",
+    "gap_date": "2025-08-01",
+    "gap_pct": -10.2,
+    "open": 20.06,
+    "prev_close": 22.35,
+    "addv20": 53492741.0
+  },
+  {
+    "ticker": "ROKU",
+    "gap_date": "2025-08-01",
+    "gap_pct": -9.5,
+    "open": 85.22,
+    "prev_close": 94.16,
+    "addv20": 277989777.0
+  },
+  {
+    "ticker": "COIN",
+    "gap_date": "2025-08-01",
+    "gap_pct": -11.3,
+    "open": 335.14,
+    "prev_close": 377.76,
+    "addv20": 5183741216.0
+  },
+  {
+    "ticker": "NVTS",
+    "gap_date": "2025-08-05",
+    "gap_pct": -22.0,
+    "open": 6.28,
+    "prev_close": 8.05,
+    "addv20": 232705730.0
+  },
+  {
+    "ticker": "BRBR",
+    "gap_date": "2025-08-05",
+    "gap_pct": -17.4,
+    "open": 44.31,
+    "prev_close": 53.64,
+    "addv20": 144042160.0
+  },
+  {
+    "ticker": "HIMS",
+    "gap_date": "2025-08-05",
+    "gap_pct": -12.7,
+    "open": 55.3,
+    "prev_close": 63.35,
+    "addv20": 1841271689.0
+  },
+  {
+    "ticker": "IT",
+    "gap_date": "2025-08-05",
+    "gap_pct": -28.0,
+    "open": 242.49,
+    "prev_close": 336.71,
+    "addv20": 336887633.0
+  },
+  {
+    "ticker": "KD",
+    "gap_date": "2025-08-05",
+    "gap_pct": -13.5,
+    "open": 31.75,
+    "prev_close": 36.7,
+    "addv20": 66107085.0
+  },
+  {
+    "ticker": "TDG",
+    "gap_date": "2025-08-05",
+    "gap_pct": -9.6,
+    "open": 1455,
+    "prev_close": 1608.98,
+    "addv20": 354220593.0
+  },
+  {
+    "ticker": "FOUR",
+    "gap_date": "2025-08-05",
+    "gap_pct": -8.1,
+    "open": 93.89,
+    "prev_close": 102.2,
+    "addv20": 122744914.0
+  },
+  {
+    "ticker": "ARMK",
+    "gap_date": "2025-08-05",
+    "gap_pct": -7.9,
+    "open": 39.73,
+    "prev_close": 43.11,
+    "addv20": 66446619.0
+  },
+  {
+    "ticker": "TOST",
+    "gap_date": "2025-08-06",
+    "gap_pct": -7.6,
+    "open": 44.08,
+    "prev_close": 47.71,
+    "addv20": 393624030.0
+  },
+  {
+    "ticker": "SNAP",
+    "gap_date": "2025-08-06",
+    "gap_pct": -20.1,
+    "open": 7.5,
+    "prev_close": 9.39,
+    "addv20": 387637216.0
+  },
+  {
+    "ticker": "AEIS",
+    "gap_date": "2025-08-06",
+    "gap_pct": -8.0,
+    "open": 128.4,
+    "prev_close": 139.58,
+    "addv20": 51008799.0
+  },
+  {
+    "ticker": "POWL",
+    "gap_date": "2025-08-06",
+    "gap_pct": -12.4,
+    "open": 207,
+    "prev_close": 236.24,
+    "addv20": 64414603.0
+  },
+  {
+    "ticker": "FUN",
+    "gap_date": "2025-08-06",
+    "gap_pct": -13.5,
+    "open": 26.56,
+    "prev_close": 30.7,
+    "addv20": 85695516.0
+  },
+  {
+    "ticker": "MOS",
+    "gap_date": "2025-08-06",
+    "gap_pct": -10.5,
+    "open": 31.95,
+    "prev_close": 35.68,
+    "addv20": 151265264.0
+  },
+  {
+    "ticker": "RDW",
+    "gap_date": "2025-08-07",
+    "gap_pct": -19.8,
+    "open": 10.99,
+    "prev_close": 13.7,
+    "addv20": 70954041.0
+  },
+  {
+    "ticker": "ABNB",
+    "gap_date": "2025-08-07",
+    "gap_pct": -7.8,
+    "open": 120.38,
+    "prev_close": 130.5,
+    "addv20": 562960101.0
+  },
+  {
+    "ticker": "SYM",
+    "gap_date": "2025-08-07",
+    "gap_pct": -20.5,
+    "open": 50.03,
+    "prev_close": 62.9,
+    "addv20": 140641594.0
+  },
+  {
+    "ticker": "AMRZ",
+    "gap_date": "2025-08-07",
+    "gap_pct": -10.5,
+    "open": 44.74,
+    "prev_close": 50.01,
+    "addv20": 127132400.0
+  },
+  {
+    "ticker": "PRMB",
+    "gap_date": "2025-08-07",
+    "gap_pct": -9.2,
+    "open": 23.99,
+    "prev_close": 26.41,
+    "addv20": 150881568.0
+  },
+  {
+    "ticker": "EXAS",
+    "gap_date": "2025-08-07",
+    "gap_pct": -16.9,
+    "open": 39,
+    "prev_close": 46.91,
+    "addv20": 119939369.0
+  },
+  {
+    "ticker": "CROX",
+    "gap_date": "2025-08-07",
+    "gap_pct": -22.5,
+    "open": 81.5,
+    "prev_close": 105.13,
+    "addv20": 125834952.0
+  },
+  {
+    "ticker": "ELF",
+    "gap_date": "2025-08-07",
+    "gap_pct": -11.5,
+    "open": 97.68,
+    "prev_close": 110.39,
+    "addv20": 201075131.0
+  },
+  {
+    "ticker": "SEZL",
+    "gap_date": "2025-08-08",
+    "gap_pct": -25.7,
+    "open": 103.51,
+    "prev_close": 139.33,
+    "addv20": 140883622.0
+  },
+  {
+    "ticker": "SG",
+    "gap_date": "2025-08-08",
+    "gap_pct": -28.4,
+    "open": 9.06,
+    "prev_close": 12.66,
+    "addv20": 76164825.0
+  },
+  {
+    "ticker": "UAA",
+    "gap_date": "2025-08-08",
+    "gap_pct": -20.5,
+    "open": 5.28,
+    "prev_close": 6.64,
+    "addv20": 61393491.0
+  },
+  {
+    "ticker": "GT",
+    "gap_date": "2025-08-08",
+    "gap_pct": -16.2,
+    "open": 8.6,
+    "prev_close": 10.26,
+    "addv20": 65480412.0
+  },
+  {
+    "ticker": "TTD",
+    "gap_date": "2025-08-08",
+    "gap_pct": -35.9,
+    "open": 56.64,
+    "prev_close": 88.33,
+    "addv20": 1369545455.0
+  },
+  {
+    "ticker": "TWLO",
+    "gap_date": "2025-08-08",
+    "gap_pct": -15.5,
+    "open": 103.45,
+    "prev_close": 122.39,
+    "addv20": 366609624.0
+  },
+  {
+    "ticker": "PINS",
+    "gap_date": "2025-08-08",
+    "gap_pct": -15.0,
+    "open": 33.29,
+    "prev_close": 39.17,
+    "addv20": 367702654.0
+  },
+  {
+    "ticker": "AAON",
+    "gap_date": "2025-08-11",
+    "gap_pct": -22.5,
+    "open": 62.4,
+    "prev_close": 80.52,
+    "addv20": 98605077.0
+  },
+  {
+    "ticker": "CE",
+    "gap_date": "2025-08-12",
+    "gap_pct": -15.6,
+    "open": 40,
+    "prev_close": 47.42,
+    "addv20": 101286446.0
+  },
+  {
+    "ticker": "BBAI",
+    "gap_date": "2025-08-12",
+    "gap_pct": -31.6,
+    "open": 4.85,
+    "prev_close": 7.09,
+    "addv20": 670031135.0
+  },
+  {
+    "ticker": "ONDS",
+    "gap_date": "2025-08-13",
+    "gap_pct": -18.9,
+    "open": 3.48,
+    "prev_close": 4.29,
+    "addv20": 82159629.0
+  },
+  {
+    "ticker": "SARO",
+    "gap_date": "2025-08-14",
+    "gap_pct": -8.0,
+    "open": 25.9,
+    "prev_close": 28.16,
+    "addv20": 44004513.0
+  },
+  {
+    "ticker": "AAP",
+    "gap_date": "2025-08-14",
+    "gap_pct": -12.6,
+    "open": 54,
+    "prev_close": 61.81,
+    "addv20": 141088994.0
+  },
+  {
+    "ticker": "TMC",
+    "gap_date": "2025-08-15",
+    "gap_pct": -7.6,
+    "open": 5,
+    "prev_close": 5.41,
+    "addv20": 70586532.0
+  },
+  {
+    "ticker": "SJM",
+    "gap_date": "2025-08-27",
+    "gap_pct": -9.3,
+    "open": 100.25,
+    "prev_close": 110.58,
+    "addv20": 199268437.0
+  },
+  {
+    "ticker": "HRL",
+    "gap_date": "2025-08-28",
+    "gap_pct": -14.6,
+    "open": 24.78,
+    "prev_close": 29.02,
+    "addv20": 96961895.0
+  },
+  {
+    "ticker": "COO",
+    "gap_date": "2025-08-28",
+    "gap_pct": -16.0,
+    "open": 62.27,
+    "prev_close": 74.11,
+    "addv20": 139525204.0
+  },
+  {
+    "ticker": "MRVL",
+    "gap_date": "2025-08-29",
+    "gap_pct": -16.4,
+    "open": 64.53,
+    "prev_close": 77.23,
+    "addv20": 1116614313.0
+  },
+  {
+    "ticker": "DLTR",
+    "gap_date": "2025-09-03",
+    "gap_pct": -9.5,
+    "open": 100.8,
+    "prev_close": 111.35,
+    "addv20": 351122309.0
+  },
+  {
+    "ticker": "AGX",
+    "gap_date": "2025-09-05",
+    "gap_pct": -10.8,
+    "open": 212.26,
+    "prev_close": 237.83,
+    "addv20": 69067944.0
+  },
+  {
+    "ticker": "LULU",
+    "gap_date": "2025-09-05",
+    "gap_pct": -19.9,
+    "open": 165.14,
+    "prev_close": 206.09,
+    "addv20": 824924072.0
+  },
+  {
+    "ticker": "PL",
+    "gap_date": "2025-09-09",
+    "gap_pct": -10.6,
+    "open": 8.64,
+    "prev_close": 9.66,
+    "addv20": 71631180.0
+  },
+  {
+    "ticker": "CNM",
+    "gap_date": "2025-09-09",
+    "gap_pct": -23.2,
+    "open": 51.12,
+    "prev_close": 66.59,
+    "addv20": 111584575.0
+  },
+  {
+    "ticker": "SNPS",
+    "gap_date": "2025-09-10",
+    "gap_pct": -29.2,
+    "open": 427.8,
+    "prev_close": 604.37,
+    "addv20": 701814047.0
+  },
+  {
+    "ticker": "CHWY",
+    "gap_date": "2025-09-10",
+    "gap_pct": -11.9,
+    "open": 37.11,
+    "prev_close": 42.1,
+    "addv20": 259926411.0
+  },
+  {
+    "ticker": "CALM",
+    "gap_date": "2025-10-01",
+    "gap_pct": -7.5,
+    "open": 87,
+    "prev_close": 94.1,
+    "addv20": 100851024.0
+  },
+  {
+    "ticker": "LEVI",
+    "gap_date": "2025-10-10",
+    "gap_pct": -9.2,
+    "open": 22.29,
+    "prev_close": 24.54,
+    "addv20": 67446189.0
+  },
+  {
+    "ticker": "NFLX",
+    "gap_date": "2025-10-22",
+    "gap_pct": -7.9,
+    "open": 114.29,
+    "prev_close": 124.14,
+    "addv20": 3900761865.0
+  },
+  {
+    "ticker": "IRDM",
+    "gap_date": "2025-10-23",
+    "gap_pct": -9.3,
+    "open": 17.83,
+    "prev_close": 19.66,
+    "addv20": 49087405.0
+  },
+  {
+    "ticker": "MOH",
+    "gap_date": "2025-10-23",
+    "gap_pct": -19.5,
+    "open": 157.05,
+    "prev_close": 195.13,
+    "addv20": 208446121.0
+  },
+  {
+    "ticker": "BENF",
+    "gap_date": "2025-10-23",
+    "gap_pct": -29.9,
+    "open": 8.36,
+    "prev_close": 11.92,
+    "addv20": 57828736.0
+  },
+  {
+    "ticker": "OLN",
+    "gap_date": "2025-10-28",
+    "gap_pct": -12.4,
+    "open": 21.05,
+    "prev_close": 24.02,
+    "addv20": 54032640.0
+  },
+  {
+    "ticker": "AMKR",
+    "gap_date": "2025-10-28",
+    "gap_pct": -7.7,
+    "open": 30.61,
+    "prev_close": 33.18,
+    "addv20": 84014300.0
+  },
+  {
+    "ticker": "RMBS",
+    "gap_date": "2025-10-28",
+    "gap_pct": -14.8,
+    "open": 96.81,
+    "prev_close": 113.61,
+    "addv20": 201808499.0
+  },
+  {
+    "ticker": "ARE",
+    "gap_date": "2025-10-28",
+    "gap_pct": -10.4,
+    "open": 69.78,
+    "prev_close": 77.87,
+    "addv20": 136848610.0
+  },
+  {
+    "ticker": "METC",
+    "gap_date": "2025-10-28",
+    "gap_pct": -14.6,
+    "open": 29,
+    "prev_close": 33.97,
+    "addv20": 157850963.0
+  },
+  {
+    "ticker": "RCL",
+    "gap_date": "2025-10-28",
+    "gap_pct": -7.7,
+    "open": 295.64,
+    "prev_close": 320.26,
+    "addv20": 505215280.0
+  },
+  {
+    "ticker": "CZR",
+    "gap_date": "2025-10-29",
+    "gap_pct": -7.7,
+    "open": 20.39,
+    "prev_close": 22.09,
+    "addv20": 174062685.0
+  },
+  {
+    "ticker": "EAT",
+    "gap_date": "2025-10-29",
+    "gap_pct": -7.9,
+    "open": 114.44,
+    "prev_close": 124.26,
+    "addv20": 168611819.0
+  },
+  {
+    "ticker": "ENPH",
+    "gap_date": "2025-10-29",
+    "gap_pct": -13.6,
+    "open": 31.7,
+    "prev_close": 36.7,
+    "addv20": 242238588.0
+  },
+  {
+    "ticker": "CI",
+    "gap_date": "2025-10-30",
+    "gap_pct": -11.4,
+    "open": 265,
+    "prev_close": 299.12,
+    "addv20": 412965371.0
+  },
+  {
+    "ticker": "OPCH",
+    "gap_date": "2025-10-30",
+    "gap_pct": -9.4,
+    "open": 25.98,
+    "prev_close": 28.67,
+    "addv20": 45538696.0
+  },
+  {
+    "ticker": "VNT",
+    "gap_date": "2025-10-30",
+    "gap_pct": -8.0,
+    "open": 39.34,
+    "prev_close": 42.75,
+    "addv20": 40535219.0
+  },
+  {
+    "ticker": "EME",
+    "gap_date": "2025-10-30",
+    "gap_pct": -14.4,
+    "open": 665,
+    "prev_close": 777,
+    "addv20": 323518284.0
+  },
+  {
+    "ticker": "FMC",
+    "gap_date": "2025-10-30",
+    "gap_pct": -24.7,
+    "open": 21.88,
+    "prev_close": 29.04,
+    "addv20": 73331992.0
+  },
+  {
+    "ticker": "EBAY",
+    "gap_date": "2025-10-30",
+    "gap_pct": -14.0,
+    "open": 85.6,
+    "prev_close": 99.54,
+    "addv20": 512333035.0
+  },
+  {
+    "ticker": "CMG",
+    "gap_date": "2025-10-30",
+    "gap_pct": -21.4,
+    "open": 31.27,
+    "prev_close": 39.76,
+    "addv20": 652675625.0
+  },
+  {
+    "ticker": "CMCSA",
+    "gap_date": "2025-10-30",
+    "gap_pct": -8.6,
+    "open": 26.09,
+    "prev_close": 28.53,
+    "addv20": 728887455.0
+  },
+  {
+    "ticker": "META",
+    "gap_date": "2025-10-30",
+    "gap_pct": -11.0,
+    "open": 669.15,
+    "prev_close": 751.67,
+    "addv20": 8934600991.0
+  },
+  {
+    "ticker": "LUMN",
+    "gap_date": "2025-10-31",
+    "gap_pct": -15.9,
+    "open": 8.7,
+    "prev_close": 10.34,
+    "addv20": 173921777.0
+  },
+  {
+    "ticker": "NVTS",
+    "gap_date": "2025-11-04",
+    "gap_pct": -16.2,
+    "open": 10.26,
+    "prev_close": 12.25,
+    "addv20": 912025717.0
+  },
+  {
+    "ticker": "NCLH",
+    "gap_date": "2025-11-04",
+    "gap_pct": -8.0,
+    "open": 20.4,
+    "prev_close": 22.18,
+    "addv20": 339500264.0
+  },
+  {
+    "ticker": "UUUU",
+    "gap_date": "2025-11-04",
+    "gap_pct": -10.1,
+    "open": 16,
+    "prev_close": 17.8,
+    "addv20": 761310648.0
+  },
+  {
+    "ticker": "HUT",
+    "gap_date": "2025-11-04",
+    "gap_pct": -8.4,
+    "open": 50.39,
+    "prev_close": 55,
+    "addv20": 412437418.0
+  },
+  {
+    "ticker": "SHLS",
+    "gap_date": "2025-11-04",
+    "gap_pct": -11.5,
+    "open": 9.15,
+    "prev_close": 10.34,
+    "addv20": 78538464.0
+  },
+  {
+    "ticker": "PRIM",
+    "gap_date": "2025-11-04",
+    "gap_pct": -7.7,
+    "open": 132.3,
+    "prev_close": 143.27,
+    "addv20": 107791084.0
+  },
+  {
+    "ticker": "UBER",
+    "gap_date": "2025-11-04",
+    "gap_pct": -7.8,
+    "open": 91.97,
+    "prev_close": 99.72,
+    "addv20": 1356110286.0
+  },
+  {
+    "ticker": "CIFR",
+    "gap_date": "2025-11-04",
+    "gap_pct": -7.7,
+    "open": 21,
+    "prev_close": 22.76,
+    "addv20": 1037857407.0
+  },
+  {
+    "ticker": "AXON",
+    "gap_date": "2025-11-05",
+    "gap_pct": -20.2,
+    "open": 563.84,
+    "prev_close": 706.13,
+    "addv20": 408462372.0
+  },
+  {
+    "ticker": "TREX",
+    "gap_date": "2025-11-05",
+    "gap_pct": -27.7,
+    "open": 34,
+    "prev_close": 47.04,
+    "addv20": 85288818.0
+  },
+  {
+    "ticker": "SSRM",
+    "gap_date": "2025-11-05",
+    "gap_pct": -14.2,
+    "open": 18.62,
+    "prev_close": 21.7,
+    "addv20": 71065246.0
+  },
+  {
+    "ticker": "KTOS",
+    "gap_date": "2025-11-05",
+    "gap_pct": -8.7,
+    "open": 82.37,
+    "prev_close": 90.22,
+    "addv20": 356213684.0
+  },
+  {
+    "ticker": "UPST",
+    "gap_date": "2025-11-05",
+    "gap_pct": -14.8,
+    "open": 39.38,
+    "prev_close": 46.24,
+    "addv20": 324237175.0
+  },
+  {
+    "ticker": "PINS",
+    "gap_date": "2025-11-05",
+    "gap_pct": -20.1,
+    "open": 26.31,
+    "prev_close": 32.91,
+    "addv20": 341525955.0
+  },
+  {
+    "ticker": "MGNI",
+    "gap_date": "2025-11-06",
+    "gap_pct": -12.3,
+    "open": 14.99,
+    "prev_close": 17.1,
+    "addv20": 48436207.0
+  },
+  {
+    "ticker": "ENVX",
+    "gap_date": "2025-11-06",
+    "gap_pct": -11.8,
+    "open": 9.98,
+    "prev_close": 11.32,
+    "addv20": 88796585.0
+  },
+  {
+    "ticker": "BKSY",
+    "gap_date": "2025-11-06",
+    "gap_pct": -18.5,
+    "open": 15.31,
+    "prev_close": 18.78,
+    "addv20": 46498110.0
+  },
+  {
+    "ticker": "RDW",
+    "gap_date": "2025-11-06",
+    "gap_pct": -11.1,
+    "open": 6.49,
+    "prev_close": 7.3,
+    "addv20": 59765620.0
+  },
+  {
+    "ticker": "LOPE",
+    "gap_date": "2025-11-06",
+    "gap_pct": -8.4,
+    "open": 163.39,
+    "prev_close": 178.28,
+    "addv20": 56526137.0
+  },
+  {
+    "ticker": "DASH",
+    "gap_date": "2025-11-06",
+    "gap_pct": -11.2,
+    "open": 211.26,
+    "prev_close": 238,
+    "addv20": 883490090.0
+  },
+  {
+    "ticker": "KMPR",
+    "gap_date": "2025-11-06",
+    "gap_pct": -10.3,
+    "open": 38.23,
+    "prev_close": 42.63,
+    "addv20": 54603487.0
+  },
+  {
+    "ticker": "TPR",
+    "gap_date": "2025-11-06",
+    "gap_pct": -13.5,
+    "open": 94.6,
+    "prev_close": 109.31,
+    "addv20": 282738587.0
+  },
+  {
+    "ticker": "WRBY",
+    "gap_date": "2025-11-06",
+    "gap_pct": -12.8,
+    "open": 16.61,
+    "prev_close": 19.05,
+    "addv20": 42519414.0
+  },
+  {
+    "ticker": "PRMB",
+    "gap_date": "2025-11-06",
+    "gap_pct": -16.0,
+    "open": 19.04,
+    "prev_close": 22.66,
+    "addv20": 73358074.0
+  },
+  {
+    "ticker": "CCOI",
+    "gap_date": "2025-11-06",
+    "gap_pct": -21.7,
+    "open": 30,
+    "prev_close": 38.3,
+    "addv20": 40929005.0
+  },
+  {
+    "ticker": "HUBS",
+    "gap_date": "2025-11-06",
+    "gap_pct": -13.3,
+    "open": 402.9,
+    "prev_close": 464.71,
+    "addv20": 319625945.0
+  },
+  {
+    "ticker": "AMSC",
+    "gap_date": "2025-11-06",
+    "gap_pct": -28.0,
+    "open": 42.81,
+    "prev_close": 59.42,
+    "addv20": 62444674.0
+  },
+  {
+    "ticker": "REZI",
+    "gap_date": "2025-11-06",
+    "gap_pct": -24.5,
+    "open": 31,
+    "prev_close": 41.06,
+    "addv20": 55196506.0
+  },
+  {
+    "ticker": "RELY",
+    "gap_date": "2025-11-06",
+    "gap_pct": -18.9,
+    "open": 13.34,
+    "prev_close": 16.44,
+    "addv20": 51237238.0
+  },
+  {
+    "ticker": "LEU",
+    "gap_date": "2025-11-06",
+    "gap_pct": -11.8,
+    "open": 287.35,
+    "prev_close": 325.73,
+    "addv20": 602222742.0
+  },
+  {
+    "ticker": "ROOT",
+    "gap_date": "2025-11-06",
+    "gap_pct": -10.1,
+    "open": 79.84,
+    "prev_close": 88.82,
+    "addv20": 40047216.0
+  },
+  {
+    "ticker": "ACHC",
+    "gap_date": "2025-11-06",
+    "gap_pct": -8.1,
+    "open": 19,
+    "prev_close": 20.68,
+    "addv20": 45704468.0
+  },
+  {
+    "ticker": "COHR",
+    "gap_date": "2025-11-07",
+    "gap_pct": -8.0,
+    "open": 146.5,
+    "prev_close": 159.3,
+    "addv20": 538062475.0
+  },
+  {
+    "ticker": "KRMN",
+    "gap_date": "2025-11-07",
+    "gap_pct": -13.7,
+    "open": 64.68,
+    "prev_close": 74.98,
+    "addv20": 101696157.0
+  },
+  {
+    "ticker": "OLED",
+    "gap_date": "2025-11-07",
+    "gap_pct": -15.8,
+    "open": 113.94,
+    "prev_close": 135.34,
+    "addv20": 68259785.0
+  },
+  {
+    "ticker": "DOCS",
+    "gap_date": "2025-11-07",
+    "gap_pct": -9.7,
+    "open": 56.54,
+    "prev_close": 62.58,
+    "addv20": 87854801.0
+  },
+  {
+    "ticker": "OPEN",
+    "gap_date": "2025-11-07",
+    "gap_pct": -18.7,
+    "open": 5.16,
+    "prev_close": 6.35,
+    "addv20": 775341571.0
+  },
+  {
+    "ticker": "CNH",
+    "gap_date": "2025-11-07",
+    "gap_pct": -11.1,
+    "open": 9.12,
+    "prev_close": 10.26,
+    "addv20": 130876981.0
+  },
+  {
+    "ticker": "ACHR",
+    "gap_date": "2025-11-07",
+    "gap_pct": -11.8,
+    "open": 7.83,
+    "prev_close": 8.88,
+    "addv20": 687976775.0
+  },
+  {
+    "ticker": "SG",
+    "gap_date": "2025-11-07",
+    "gap_pct": -16.0,
+    "open": 5.25,
+    "prev_close": 6.25,
+    "addv20": 42304910.0
+  },
+  {
+    "ticker": "XYZ",
+    "gap_date": "2025-11-07",
+    "gap_pct": -13.5,
+    "open": 61.36,
+    "prev_close": 70.93,
+    "addv20": 425818994.0
+  },
+  {
+    "ticker": "TTWO",
+    "gap_date": "2025-11-07",
+    "gap_pct": -8.1,
+    "open": 232.03,
+    "prev_close": 252.4,
+    "addv20": 365458223.0
+  },
+  {
+    "ticker": "ONTO",
+    "gap_date": "2025-11-07",
+    "gap_pct": -9.7,
+    "open": 118.97,
+    "prev_close": 131.75,
+    "addv20": 130048242.0
+  },
+  {
+    "ticker": "UI",
+    "gap_date": "2025-11-07",
+    "gap_pct": -7.8,
+    "open": 700,
+    "prev_close": 759.57,
+    "addv20": 150941802.0
+  },
+  {
+    "ticker": "SMR",
+    "gap_date": "2025-11-07",
+    "gap_pct": -8.7,
+    "open": 29.65,
+    "prev_close": 32.46,
+    "addv20": 1107383841.0
+  },
+  {
+    "ticker": "BL",
+    "gap_date": "2025-11-07",
+    "gap_pct": -8.1,
+    "open": 52.23,
+    "prev_close": 56.82,
+    "addv20": 71776869.0
+  },
+  {
+    "ticker": "PSIX",
+    "gap_date": "2025-11-07",
+    "gap_pct": -30.0,
+    "open": 56.87,
+    "prev_close": 81.24,
+    "addv20": 43666226.0
+  },
+  {
+    "ticker": "VERI",
+    "gap_date": "2025-11-07",
+    "gap_pct": -9.5,
+    "open": 5.78,
+    "prev_close": 6.39,
+    "addv20": 70375869.0
+  },
+  {
+    "ticker": "RUN",
+    "gap_date": "2025-11-07",
+    "gap_pct": -17.1,
+    "open": 16.93,
+    "prev_close": 20.42,
+    "addv20": 144995891.0
+  },
+  {
+    "ticker": "LEU",
+    "gap_date": "2025-11-07",
+    "gap_pct": -8.5,
+    "open": 254.18,
+    "prev_close": 277.78,
+    "addv20": 616539644.0
+  },
+  {
+    "ticker": "AAOI",
+    "gap_date": "2025-11-07",
+    "gap_pct": -14.1,
+    "open": 25,
+    "prev_close": 29.1,
+    "addv20": 171916653.0
+  },
+  {
+    "ticker": "LIF",
+    "gap_date": "2025-11-11",
+    "gap_pct": -9.8,
+    "open": 84.13,
+    "prev_close": 93.3,
+    "addv20": 55068612.0
+  },
+  {
+    "ticker": "BETR",
+    "gap_date": "2025-11-13",
+    "gap_pct": -9.7,
+    "open": 53.4,
+    "prev_close": 59.16,
+    "addv20": 55549090.0
+  },
+  {
+    "ticker": "NUAI",
+    "gap_date": "2025-11-13",
+    "gap_pct": -7.6,
+    "open": 4.59,
+    "prev_close": 4.97,
+    "addv20": 109332468.0
+  },
+  {
+    "ticker": "SOC",
+    "gap_date": "2025-11-14",
+    "gap_pct": -8.1,
+    "open": 5.41,
+    "prev_close": 5.89,
+    "addv20": 74831014.0
+  },
+  {
+    "ticker": "RCAT",
+    "gap_date": "2025-11-14",
+    "gap_pct": -12.8,
+    "open": 6.75,
+    "prev_close": 7.74,
+    "addv20": 103557787.0
+  },
+  {
+    "ticker": "BETR",
+    "gap_date": "2025-11-14",
+    "gap_pct": -9.4,
+    "open": 52,
+    "prev_close": 57.41,
+    "addv20": 54877237.0
+  },
+  {
+    "ticker": "BKKT",
+    "gap_date": "2025-11-14",
+    "gap_pct": -9.0,
+    "open": 16.85,
+    "prev_close": 18.52,
+    "addv20": 48076166.0
+  },
+  {
+    "ticker": "ASST",
+    "gap_date": "2025-11-14",
+    "gap_pct": -7.8,
+    "open": 21.2,
+    "prev_close": 23,
+    "addv20": 265121466.0
+  },
+  {
+    "ticker": "UAMY",
+    "gap_date": "2025-11-14",
+    "gap_pct": -7.6,
+    "open": 6.64,
+    "prev_close": 7.19,
+    "addv20": 174867175.0
+  },
+  {
+    "ticker": "NUAI",
+    "gap_date": "2025-11-14",
+    "gap_pct": -23.0,
+    "open": 3.26,
+    "prev_close": 4.24,
+    "addv20": 106889667.0
+  },
+  {
+    "ticker": "STUB",
+    "gap_date": "2025-11-14",
+    "gap_pct": -28.6,
+    "open": 13.44,
+    "prev_close": 18.82,
+    "addv20": 46622266.0
+  },
+  {
+    "ticker": "BBWI",
+    "gap_date": "2025-11-20",
+    "gap_pct": -24.6,
+    "open": 15.86,
+    "prev_close": 21.04,
+    "addv20": 145933449.0
+  },
+  {
+    "ticker": "VEEV",
+    "gap_date": "2025-11-21",
+    "gap_pct": -7.7,
+    "open": 249.75,
+    "prev_close": 270.5,
+    "addv20": 298499892.0
+  },
+  {
+    "ticker": "BURL",
+    "gap_date": "2025-11-25",
+    "gap_pct": -10.2,
+    "open": 255.33,
+    "prev_close": 284.47,
+    "addv20": 289339762.0
+  },
+  {
+    "ticker": "WDAY",
+    "gap_date": "2025-11-26",
+    "gap_pct": -7.9,
+    "open": 215.34,
+    "prev_close": 233.69,
+    "addv20": 624820319.0
+  },
+  {
+    "ticker": "OKTA",
+    "gap_date": "2025-12-03",
+    "gap_pct": -7.7,
+    "open": 75.6,
+    "prev_close": 81.87,
+    "addv20": 193460179.0
+  },
+  {
+    "ticker": "GTLB",
+    "gap_date": "2025-12-03",
+    "gap_pct": -10.6,
+    "open": 38.79,
+    "prev_close": 43.37,
+    "addv20": 164285023.0
+  },
+  {
+    "ticker": "DOCU",
+    "gap_date": "2025-12-05",
+    "gap_pct": -9.2,
+    "open": 64.56,
+    "prev_close": 71.1,
+    "addv20": 147817484.0
+  },
+  {
+    "ticker": "NTSK",
+    "gap_date": "2025-12-12",
+    "gap_pct": -8.9,
+    "open": 21.4,
+    "prev_close": 23.5,
+    "addv20": 44240724.0
+  },
+  {
+    "ticker": "LW",
+    "gap_date": "2025-12-19",
+    "gap_pct": -14.3,
+    "open": 50.85,
+    "prev_close": 59.33,
+    "addv20": 73359500.0
+  },
+  {
+    "ticker": "UNF",
+    "gap_date": "2026-01-07",
+    "gap_pct": -7.5,
+    "open": 187.82,
+    "prev_close": 203.15,
+    "addv20": 54949330.0
+  },
+  {
+    "ticker": "AYI",
+    "gap_date": "2026-01-08",
+    "gap_pct": -7.6,
+    "open": 341.86,
+    "prev_close": 369.79,
+    "addv20": 109973420.0
+  },
+  {
+    "ticker": "SANM",
+    "gap_date": "2026-01-27",
+    "gap_pct": -14.0,
+    "open": 156.97,
+    "prev_close": 182.54,
+    "addv20": 97997593.0
+  },
+  {
+    "ticker": "VFC",
+    "gap_date": "2026-01-28",
+    "gap_pct": -11.1,
+    "open": 18.03,
+    "prev_close": 20.28,
+    "addv20": 124729141.0
+  },
+  {
+    "ticker": "MSFT",
+    "gap_date": "2026-01-29",
+    "gap_pct": -8.6,
+    "open": 439.99,
+    "prev_close": 481.63,
+    "addv20": 12336413486.0
+  },
+  {
+    "ticker": "KLAC",
+    "gap_date": "2026-01-30",
+    "gap_pct": -8.6,
+    "open": 1540,
+    "prev_close": 1684.71,
+    "addv20": 1709828297.0
+  },
+  {
+    "ticker": "IESC",
+    "gap_date": "2026-01-30",
+    "gap_pct": -10.3,
+    "open": 425.86,
+    "prev_close": 474.61,
+    "addv20": 69768160.0
+  },
+  {
+    "ticker": "DIS",
+    "gap_date": "2026-02-02",
+    "gap_pct": -7.8,
+    "open": 104.01,
+    "prev_close": 112.8,
+    "addv20": 1142165897.0
+  },
+  {
+    "ticker": "FN",
+    "gap_date": "2026-02-03",
+    "gap_pct": -9.5,
+    "open": 452,
+    "prev_close": 499.61,
+    "addv20": 341832563.0
+  },
+  {
+    "ticker": "PFGC",
+    "gap_date": "2026-02-04",
+    "gap_pct": -9.8,
+    "open": 87.59,
+    "prev_close": 97.09,
+    "addv20": 233854942.0
+  },
+  {
+    "ticker": "MRCY",
+    "gap_date": "2026-02-04",
+    "gap_pct": -12.4,
+    "open": 86.94,
+    "prev_close": 99.28,
+    "addv20": 71451403.0
+  },
+  {
+    "ticker": "COHR",
+    "gap_date": "2026-02-05",
+    "gap_pct": -15.1,
+    "open": 179.11,
+    "prev_close": 211,
+    "addv20": 1051798895.0
+  },
+  {
+    "ticker": "RL",
+    "gap_date": "2026-02-05",
+    "gap_pct": -8.2,
+    "open": 325.48,
+    "prev_close": 354.7,
+    "addv20": 187673873.0
+  },
+  {
+    "ticker": "QCOM",
+    "gap_date": "2026-02-05",
+    "gap_pct": -10.7,
+    "open": 132.92,
+    "prev_close": 148.89,
+    "addv20": 1596543168.0
+  },
+  {
+    "ticker": "EL",
+    "gap_date": "2026-02-05",
+    "gap_pct": -12.4,
+    "open": 104.75,
+    "prev_close": 119.61,
+    "addv20": 422196729.0
+  },
+  {
+    "ticker": "ENS",
+    "gap_date": "2026-02-05",
+    "gap_pct": -9.3,
+    "open": 167.83,
+    "prev_close": 185.03,
+    "addv20": 78755765.0
+  },
+  {
+    "ticker": "PTON",
+    "gap_date": "2026-02-05",
+    "gap_pct": -18.6,
+    "open": 4.81,
+    "prev_close": 5.91,
+    "addv20": 67426493.0
+  },
+  {
+    "ticker": "FLNC",
+    "gap_date": "2026-02-05",
+    "gap_pct": -14.3,
+    "open": 24.85,
+    "prev_close": 28.99,
+    "addv20": 157208676.0
+  },
+  {
+    "ticker": "DOCS",
+    "gap_date": "2026-02-06",
+    "gap_pct": -28.9,
+    "open": 23.69,
+    "prev_close": 33.32,
+    "addv20": 127442679.0
+  },
+  {
+    "ticker": "AMTM",
+    "gap_date": "2026-02-10",
+    "gap_pct": -8.1,
+    "open": 33.64,
+    "prev_close": 36.59,
+    "addv20": 74569214.0
+  },
+  {
+    "ticker": "PANW",
+    "gap_date": "2026-02-18",
+    "gap_pct": -8.5,
+    "open": 149.55,
+    "prev_close": 163.5,
+    "addv20": 2136009502.0
+  },
+  {
+    "ticker": "DCI",
+    "gap_date": "2026-02-26",
+    "gap_pct": -9.0,
+    "open": 95.06,
+    "prev_close": 104.42,
+    "addv20": 86956358.0
+  },
+  {
+    "ticker": "ZS",
+    "gap_date": "2026-02-27",
+    "gap_pct": -13.4,
+    "open": 144.95,
+    "prev_close": 167.36,
+    "addv20": 537368355.0
+  },
+  {
+    "ticker": "CRDO",
+    "gap_date": "2026-03-03",
+    "gap_pct": -11.6,
+    "open": 101,
+    "prev_close": 114.22,
+    "addv20": 879579652.0
+  },
+  {
+    "ticker": "CIEN",
+    "gap_date": "2026-03-05",
+    "gap_pct": -9.2,
+    "open": 312.01,
+    "prev_close": 343.55,
+    "addv20": 1310367082.0
+  },
+  {
+    "ticker": "AVAV",
+    "gap_date": "2026-03-11",
+    "gap_pct": -7.7,
+    "open": 204.5,
+    "prev_close": 221.57,
+    "addv20": 494111200.0
+  },
+  {
+    "ticker": "MU",
+    "gap_date": "2026-03-19",
+    "gap_pct": -8.0,
+    "open": 424.97,
+    "prev_close": 461.73,
+    "addv20": 14274317771.0
+  }
+]
